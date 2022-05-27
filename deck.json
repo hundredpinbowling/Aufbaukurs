@@ -1,0 +1,393 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9a3fee16-dde1-11ec-a646-9551df25e0c7",
+            "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Funktionsverbgefügen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich von jemandem verabschieden",
+                        "von jemandem&nbsp;<b>Abschied nehmen</b>",
+                        "to say goodbye to someone",
+                        "Ich nehme Abschied von meiner Familie.",
+                        "Ich verabschiede mich von meiner Familie."
+                    ],
+                    "guid": "P)$ba;+^,N",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "etwas abschließen",
+                        "etwas&nbsp;<b>zum Abschluss bringen</b>",
+                        "to bring something to a close",
+                        "",
+                        ""
+                    ],
+                    "guid": "jHd*orp-cO",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "(nicht) wissen",
+                        "(keine)&nbsp;<b>Ahnung haben</b>",
+                        "to have (no) idea",
+                        "Ich habe keine Ahnung.",
+                        "Ich weiß nicht."
+                    ],
+                    "guid": "wF:{f^3ap8",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "etwas andeuten",
+                        "<b>eine Andeutung machen</b>",
+                        "to give a hint",
+                        "Die Lehrerin macht eine Andeutung.",
+                        "Die Lehrerin deutet etwas an."
+                    ],
+                    "guid": "b7>Jwq7N&H",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "etwas beantragen",
+                        "<b>einen Antrag stellen</b>&nbsp;auf etwas",
+                        "to make a request for something",
+                        "Ich stelle einen Antrag auf Unterstützung.",
+                        "Ich beantrage Unterstützung."
+                    ],
+                    "guid": "p*Vuqc^Z>?",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "jemandem antworten",
+                        "jemandem&nbsp;<b>eine Antwort geben</b>",
+                        "to answer someone",
+                        "Ich möchte ihr keine Antwort geben.",
+                        "Ich möchte ihr nicht antworten."
+                    ],
+                    "guid": "zEntTv0@4>",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "arm leben",
+                        "in Armut leben",
+                        "to live in poverty",
+                        "Ich esse, als ob ich in Armut leben würde.",
+                        "Ich esse, als ob ich arm leben würde."
+                    ],
+                    "guid": "eP-/q-]e7h",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "erschöpft sein",
+                        "<b>außer Atem sein</b>",
+                        "to be out of breath",
+                        "Aufgrund ihrer Fitness ist sie außer Atem.",
+                        "Aufgrund ihrer Fitness ist sie erschöpft."
+                    ],
+                    "guid": "{R$8`)T5w",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "jemanden beauftragen",
+                        "jemandem&nbsp;<b>einen Auftrag geben</b>",
+                        "to give someone an order/assignment",
+                        "",
+                        ""
+                    ],
+                    "guid": "bq~&bqzx=x",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ausdauernd sein",
+                        "<b>Ausdauer haben</b>",
+                        "to have stamina/persistence",
+                        "",
+                        ""
+                    ],
+                    "guid": "Cy+.8DH2^w",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "auswählen können",
+                        "etwas <b>zur Auswahl stellen</b>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "jXW/yxEO7D",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "wählen können",
+                        "etwas <b>zur Wahl stellen</b>",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "eO0BlHT7Oh",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "d10c7d3e-dddb-11ec-a83e-bd2c465139d0",
+    "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "we enjoy learning the german language",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Bedeutung",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Funktionsverbgefüge",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "en_Bedeutung",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Bsp mit Funktionsverbgefüge",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Bsp mit deutscher Bedeutung",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "de_funktionsverbgefüge",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2,
+                        4
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "Die Funktionsverbgefüge von <br>\n„<i>{{de_Bedeutung}}</i>“ ist\n\n<br><br>\n\n{{type:de_Funktionsverbgefüge}}\n\n{{#de_Bsp mit deutscher Bedeutung}}\n<br><br>\nz.B. „{{de_Bsp mit deutscher Bedeutung}}“\n{{#de_Bsp mit Funktionsverbgefüge}}\n→ „{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n{{/de_Bsp mit deutscher Bedeutung}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{en_Bedeutung}}\n{{/en_Bedeutung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "Was ist die Funktionsverbgefüge von <br>\n„<i>{{de_Bedeutung}}</i>“?\n\n{{#de_Bsp mit deutscher Bedeutung}}\n<br><br>\n„{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}\n\n<br><br>\n{{type:de_Funktionsverbgefüge}}"
+                },
+                {
+                    "afmt": "Die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“ ist\n\n<br><br>\n\n{{type:de_Bedeutung}}\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\nz.B. „{{de_Bsp mit Funktionsverbgefüge}}“\n{{#de_Bsp mit deutscher Bedeutung}}\n→ „{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{en_Bedeutung}}\n{{/en_Bedeutung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "Was ist die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“?\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\n„{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}\n\n<br><br>\n{{type:de_Bedeutung}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
