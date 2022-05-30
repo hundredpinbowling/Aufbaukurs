@@ -992,19 +992,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>eine Chance geben</b>",
-                        "",
-<<<<<<< HEAD
-=======
-<<<<<<< variant A
+                        "ein Versuch geben",
                         "to give a chance",
                         "Gibst du mir noch eine Chance.",
                         "Kann ich es noch einmal versuchen?"
->>>>>>> variant B
-======= end
-                        "give a chance",
-                        "",
-                        ""
->>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "uSkIdzvGFo",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1014,17 +1005,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>eine Rolle spielen</b>",
-<<<<<<< variant A
                         "etwas wichtig sein",
                         "to play a role",
                         "Das spielt keine Rolle.",
                         "Das ist unwichtig."
->>>>>>> variant B
-                        "",
-                        "to play a roll",
-                        "",
-                        ""
-======= end
                     ],
                     "guid": "zcXb3Y-p7T",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1034,19 +1018,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>Bescheid geben</b>",
-                        "",
-<<<<<<< HEAD
-=======
-<<<<<<< variant A
-                        "",
+                        "informieren"
+                        "to inform",
                         "Du solltest ihm Bescheid geben.",
                         "Du solltest ihn informieren."
->>>>>>> variant B
-======= end
-                        "to inform",
-                        "",
-                        ""
->>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "FvO:>wLy.V",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1056,17 +1031,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>an der Reihe sein</b>",
-<<<<<<< variant A
                         "dran sein / der nächste sein",
                         "to be \"up\" / someone's turn",
                         "Wer ist an der Reihe?",
                         "Wer ist der nächste?"
->>>>>>> variant B
-                        "",
-                        "to be next",
-                        "",
-                        ""
-======= end
                     ],
                     "guid": "q]`c>igE{J",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1076,17 +1044,10 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>auf das Wort kommen</b>",
-<<<<<<< variant A
                         "das Wort (Dat.) einfallen",
                         "to come to the word",
                         "Ich komme nicht auf das Wort.",
                         "Das Wort fällt mir nicht ein."
->>>>>>> variant B
-                        "",
-                        "think of the word (Not sure)",
-                        "",
-                        ""
-======= end
                     ],
                     "guid": "t.[C).)k[<",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
