@@ -33,8 +33,8 @@
                                                         "to say goodbye to someone",
                                                         "Ich nehme Abschied von meiner Familie.",
                                                         "Ich verabschiede mich von meiner Familie.",
-                                                        "von jemandem <b>Abschied ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "P)$ba;+^,N",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -47,8 +47,8 @@
                                                         "to bring something to a close",
                                                         "",
                                                         "",
-                                                        "etwas <b>zum Abschluss ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "jHd*orp-cO",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -61,8 +61,8 @@
                                                         "to have (no) idea",
                                                         "Ich habe keine Ahnung.",
                                                         "Ich weiß nicht.",
-                                                        "(keine) <b>Ahnung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "wF:{f^3ap8",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -75,8 +75,8 @@
                                                         "to give a hint",
                                                         "Die Lehrerin macht eine Andeutung.",
                                                         "Die Lehrerin deutet etwas an.",
-                                                        "<b>eine Andeutung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "b7>Jwq7N&H",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -89,8 +89,8 @@
                                                         "to make a request for something",
                                                         "Ich stelle einen Antrag auf ein Visum.",
                                                         "Ich beantrage ein Visum.",
-                                                        "<b>einen Antrag stellen</b> auf ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "p*Vuqc^Z>?",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -103,8 +103,8 @@
                                                         "to answer someone",
                                                         "Ich möchte ihr keine Antwort geben.",
                                                         "Ich möchte ihr nicht antworten.",
-                                                        "jemandem <b>eine Antwort ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "zEntTv0@4>",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -131,8 +131,8 @@
                                                         "to be out of breath",
                                                         "Aufgrund ihrer Fitness ist sie außer Atem.",
                                                         "Aufgrund ihrer Fitness ist sie erschöpft.",
-                                                        "<b>außer Atem ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "{R$8`)T5w",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -145,8 +145,8 @@
                                                         "to give someone an order/assignment",
                                                         "",
                                                         "",
-                                                        "jemandem <b>einen Auftrag ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "bq~&bqzx=x",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -159,8 +159,8 @@
                                                         "to have stamina/persistence",
                                                         "",
                                                         "",
-                                                        "<b>Ausdauer ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "Cy+.8DH2^w",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -173,8 +173,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>zur Auswahl ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "jXW/yxEO7D",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -187,8 +187,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>zur Wahl ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "eO0BlHT7Oh",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -201,8 +201,8 @@
                                                         "to make a selection",
                                                         "<div>Wir haben eine Auswahl der besten Kandidaten getroffen. </div>",
                                                         "Wir haben die besten Kandidaten ausgewählt.",
-                                                        "<b>eine Auswahl ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "DtZX?T>pbd",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -215,8 +215,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>ein Bad ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "Q`]8,=rM~A",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -229,8 +229,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "eine Beobachtung ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "g#en@O4?=*",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -243,8 +243,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>in Betracht ___</b> (oder) etwas <b>in Erwägung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "c-e$-k1:#a",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -257,8 +257,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>in/außer Betrieb ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "CYnB,Ru0Fq",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -271,8 +271,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "auf jemanden/etwas <b>Bezug ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "Mx{C6kpu8R",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -285,8 +285,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>zur Diskussion ___</b>"
-],
+                                                        "<b>zur Diskussion ____</b>"
+                                                    ],
                                                     "guid": "Rd)Elf2:92",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -299,8 +299,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "jemanden <b>unter Druck ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "M85jDA[PuH",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -313,8 +313,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>unter Druck ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "s*}bTT]P~V",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -327,8 +327,8 @@
                                                         "",
                                                         "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
                                                         "",
-                                                        "<b>Eindruck machen</b> auf ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "iFR8X;I;p>",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -341,8 +341,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>zu Ende ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "G#Oy!c<=tq",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -355,8 +355,8 @@
                                                         "",
                                                         "1. Ich habe eine Entscheidung getroffen.",
                                                         "1. Ich habe mich entschieden.",
-                                                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "nos~$l%/[S",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -369,8 +369,8 @@
                                                         "",
                                                         "Ich habe einen Entschluss gefasst.",
                                                         "Ich habe mich entschlossen.",
-                                                        "<b>einen Entschluss ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "c>E9z(X$^U",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -383,8 +383,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>in Erfüllung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "IRN}W3kA-J",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -397,8 +397,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "jemandem <b>die Erlaubnis ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "cgSYxJ1{f3",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -411,8 +411,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "die Fähigkeit ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "u$3vYAp:TH",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -425,8 +425,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>zur Folge ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "x?HQznw>BI",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -439,8 +439,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>ein Foto ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "m5bsAFimw!",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -453,8 +453,8 @@
                                                         "to ask a question",
                                                         "Ich habe noch nicht ihm diese <b>Frage</b> <b>gestellt</b>.",
                                                         "Ich habe ihn noch nicht gefragt.",
-                                                        "<b>eine Frage ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "Q_nalCFQw-",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -467,8 +467,8 @@
                                                         "to doubt something",
                                                         "",
                                                         "",
-                                                        "etwas <b>in Frage ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "D6_%e(uU?%",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -509,8 +509,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>ein Gespräch führen </b>mit ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "mP6mS/0Q1#",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -523,8 +523,8 @@
                                                         "",
                                                         "Ich leiste keine Hilfe.",
                                                         "Ich helfe nicht.",
-                                                        "jemandem <b>Hilfe ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "lr}oS$9o&y",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -537,8 +537,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>die Hoffnung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "bIYl-V=5w3",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -551,8 +551,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>die Initiative ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "I1MA}^c`V*",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -565,8 +565,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>im Irrtum ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "C[@Kphghi.",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -593,8 +593,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>zur Kenntnis ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "zZ?l%;_2l%",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -607,8 +607,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "rBJP7ZcqN5",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -621,8 +621,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>einen Kompromiss ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "x%fyuIC;<b",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -635,8 +635,8 @@
                                                         "to come into force",
                                                         "Das Gesetz tritt sofort in Kraft.",
                                                         "Das Gesetz ist sofort gültig.",
-                                                        "<b>in Kraft ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "DmZpnR]T)@",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -677,8 +677,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>auf dem laufenden ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "b>z%980]jU",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -691,8 +691,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>in Mode ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "my:R=.G(/%",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -719,8 +719,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>den Mut ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "F=05e1?5Qt",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -747,8 +747,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>in Ordnung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "b+}JRlmoMs",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -761,8 +761,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Platz ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "dl8+U3~9;i",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -775,8 +775,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Protokoll ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "AD!jy4{F9h",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -789,8 +789,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "jemandem <b>einen Rat ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "wKxVZgAf}=",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -803,8 +803,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "jemandem etwas <b>in Rechnung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "p(sg~Xy|>6",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -817,8 +817,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>im Recht ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "cy)ERRb]F@",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -831,8 +831,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>eine Rede ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "hwhM:@P$6I",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -859,8 +859,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>sich </b>(Dat.) <b>Sorgen machen um ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "xx0Vui>.9W",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -873,8 +873,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Stellung nehmen </b>zu ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "mx1;wF/5#X",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -887,8 +887,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>im Sterben ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "i`JW<8vily",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -901,8 +901,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>zur Überzeugung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "D6_*la%P!}",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -915,8 +915,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "jemandem <b>Unterricht ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "kM?%zEcj1$",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -929,8 +929,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>einen Unterschied machen </b>(zwischen ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "I88=BT1{:k",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -957,8 +957,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>ein Verbrechen ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "sP~0lS6|B4",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -971,8 +971,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "etwas <b>zur Verfügung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "vWFm#l%kG4",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -985,8 +985,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>sein Versprechen ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "Hoh~pTCm<C",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -999,8 +999,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Verständnis haben </b>fúr ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "zzC:D+DZ)(",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1013,8 +1013,8 @@
                                                         "",
                                                         "Ich treffe Vorbereitungen für die Reise.",
                                                         "Ich bereite die Reise vor.",
-                                                        "<b>Vorbereitungen ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "wSrbk7V?m7",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1027,8 +1027,8 @@
                                                         "to accuse someone",
                                                         "<div>Ich kann er nicht mal einen Vorwurf machen. </div>",
                                                         "Ich kann es ihm nicht mal vorwerfen.",
-                                                        "jemandem <b>einen Vorwurf ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "Nv{xEh[K/^",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1055,8 +1055,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>sich </b>(Dat.) <b>Zeit ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "fb9,Cs1-W@",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1069,8 +1069,8 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>die Zusicherung ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "G$(uiwazV}",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1083,8 +1083,8 @@
                                                         "to give a chance",
                                                         "Gibst du mir noch eine Chance.",
                                                         "Kann ich es noch einmal versuchen?",
-                                                        "<b>eine Chance ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "uSkIdzvGFo",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1097,8 +1097,8 @@
                                                         "to play a role",
                                                         "Das spielt keine Rolle.",
                                                         "Das ist unwichtig.",
-                                                        "<b>eine Rolle ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "zcXb3Y-p7T",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1111,8 +1111,8 @@
                                                         "to inform",
                                                         "Du solltest ihm Bescheid geben.",
                                                         "Du solltest ihn informieren.",
-                                                        "<b>Bescheid ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "FvO:>wLy.V",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1125,8 +1125,8 @@
                                                         "to be \"up\" / someone's turn",
                                                         "Wer ist an der Reihe?",
                                                         "Wer ist der nächste?",
-                                                        "<b>an der Reihe ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "q]`c>igE{J",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1139,8 +1139,8 @@
                                                         "to come to the word",
                                                         "Ich komme nicht auf das Wort.",
                                                         "Das Wort fällt mir nicht ein.",
-                                                        "<b>auf das Wort ___</b>"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "t.[C).)k[<",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1153,8 +1153,8 @@
                                                         "to criticize",
                                                         "Die Opposition <b>übt</b> heftige <b>Kritik</b> an den Maßnahmen der Regierung.",
                                                         "Die Opposition kritisiert die Maßnahmen der Regierung heftig.",
-                                                        "Kritik ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "E(M<H(r|)8",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
@@ -1167,8 +1167,8 @@
                                                         "to have a (good/bad) reputation",
                                                         "Diese Firma <b>hat</b> im In- und Ausland <b>einen</b> guten <b>Ruf</b>.",
                                                         "Diese Firma ist im In- und Ausland gut angesehen.",
-                                                        "einen Ruf ___"
-],
+                                                        ""
+                                                    ],
                                                     "guid": "z>$ZC+Wf%_",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                                                     "tags": []
