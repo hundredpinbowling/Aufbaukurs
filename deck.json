@@ -993,7 +993,7 @@
                     "fields": [
                         "<b>eine Chance geben</b>",
                         "",
-                        "",
+                        "give a chance",
                         "",
                         ""
                     ],
@@ -1006,7 +1006,7 @@
                     "fields": [
                         "<b>eine Rolle spielen</b>",
                         "",
-                        "",
+                        "to play a roll",
                         "",
                         ""
                     ],
@@ -1019,7 +1019,7 @@
                     "fields": [
                         "<b>Bescheid geben</b>",
                         "",
-                        "",
+                        "to inform",
                         "",
                         ""
                     ],
@@ -1032,7 +1032,7 @@
                     "fields": [
                         "<b>an der Reihe sein</b>",
                         "",
-                        "",
+                        "to be next",
                         "",
                         ""
                     ],
@@ -1045,7 +1045,7 @@
                     "fields": [
                         "<b>auf das Wort kommen</b>",
                         "",
-                        "",
+                        "think of the word (Not sure)",
                         "",
                         ""
                     ],
@@ -1163,7 +1163,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 10,
     "extendRev": 0,
     "media_files": [],
     "name": "we enjoy learning the german language",
