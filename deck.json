@@ -174,9 +174,9 @@
                     "fields": [
                         "<b>eine Auswahl treffen</b>",
                         "auswählen",
-                        "",
-                        "",
-                        ""
+                        "to make a selection",
+                        "<div>Wir haben eine Auswahl der besten Kandidaten getroffen. </div>",
+                        "Wir haben die besten Kandidaten ausgewählt."
                     ],
                     "guid": "DtZX?T>pbd",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -408,9 +408,9 @@
                     "fields": [
                         "<b>eine Frage stellen</b>",
                         "fragen",
-                        "",
-                        "",
-                        ""
+                        "to ask a question",
+                        "Ich habe noch nicht ihm diese <b>Frage</b> <b>gestellt</b>.",
+                        "Ich habe ihn noch nicht gefragt."
                     ],
                     "guid": "Q_nalCFQw-",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -421,7 +421,7 @@
                     "fields": [
                         "etwas <b>in Frage stellen</b>",
                         "etwas bezweifeln",
-                        "",
+                        "to doubt something",
                         "",
                         ""
                     ],
@@ -434,9 +434,9 @@
                     "fields": [
                         "<b>in Frage kommen</b>",
                         "eine Option sein",
-                        "",
-                        "",
-                        ""
+                        "to be possible, considered",
+                        "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
+                        "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!"
                     ],
                     "guid": "iNqIerz_b$",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -525,9 +525,9 @@
                     "fields": [
                         "etwas <b>in Kauf nehmen</b>",
                         "etwas hinnehmen/akzeptieren müssen",
-                        "",
-                        "",
-                        ""
+                        "to need to accept (something negative)",
+                        "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
+                        "Ich muss akzeptieren, dass ich mich verspäten werde."
                     ],
                     "guid": "EG>EZS4PqT",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -577,9 +577,9 @@
                     "fields": [
                         "<b>in Kraft treten</b>",
                         "ein Gesetz wird gültig",
-                        "",
-                        "",
-                        ""
+                        "to come into force",
+                        "Das Gesetz tritt sofort in Kraft.",
+                        "Das Gesetz ist sofort gültig."
                     ],
                     "guid": "DmZpnR]T)@",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -941,9 +941,9 @@
                     "fields": [
                         "jemandem <b>einen Vorwurf machen</b>",
                         "jemandem etwas vorwerfen",
-                        "",
-                        "",
-                        ""
+                        "to accuse someone",
+                        "<div>Ich kann er nicht mal einen Vorwurf machen. </div>",
+                        "Ich kann es ihm nicht mal vorwerfen."
                     ],
                     "guid": "Nv{xEh[K/^",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1050,6 +1050,71 @@
                         "Das Wort fällt mir nicht ein."
                     ],
                     "guid": "t.[C).)k[<",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kritik üben",
+                        "kritisieren",
+                        "to criticize",
+                        "Die Opposition <b>übt</b> heftige <b>Kritik</b> an den Maßnahmen der Regierung.",
+                        "Die Opposition kritisiert die Maßnahmen der Regierung heftig."
+                    ],
+                    "guid": "E(M<H(r|)8",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Ruf haben",
+                        "von anderen (als gut/schlecht) angesehen",
+                        "to have a (good/bad) reputation",
+                        "Diese Firma <b>hat</b> im In- und Ausland <b>einen</b> guten <b>Ruf</b>.",
+                        "Diese Firma ist im In- und Ausland gut angesehen."
+                    ],
+                    "guid": "z>$ZC+Wf%_",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Fehler machen",
+                        "",
+                        "to make a mistake",
+                        "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
+                        ""
+                    ],
+                    "guid": "J`7G*)u3Q}",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eine Vereinbarung treffen",
+                        "",
+                        "to reach an agreement",
+                        "Sie treffen eine Vereinbarung, um den Preis.",
+                        "Sie vereinbaren den Preis."
+                    ],
+                    "guid": "ut%9;jXG6S",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Ausflug machen",
+                        "reisen",
+                        "to take a trip",
+                        "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
+                        "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>."
+                    ],
+                    "guid": "p|+>5FxYQ;",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
                 }
