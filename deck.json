@@ -3,1127 +3,1333 @@
     "children": [
         {
             "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "9a3fee16-dde1-11ec-a646-9551df25e0c7",
-            "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [
+                                {
+                                    "__type__": "Deck",
+                                    "children": [
+                                        {
+                                            "__type__": "Deck",
+                                            "children": [],
+                                            "crowdanki_uuid": "9a3fee16-dde1-11ec-a646-9551df25e0c7",
+                                            "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+                                            "desc": "",
+                                            "dyn": 0,
+                                            "extendNew": 0,
+                                            "extendRev": 0,
+                                            "media_files": [],
+                                            "name": "Funktionsverbgefügen",
+                                            "notes": [
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "von jemandem <b>Abschied nehmen</b>",
+                                                        "sich von jemandem verabschieden",
+                                                        "to say goodbye to someone",
+                                                        "Ich nehme Abschied von meiner Familie.",
+                                                        "Ich verabschiede mich von meiner Familie.",
+                                                        ""
+                                                    ],
+                                                    "guid": "P)$ba;+^,N",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zum Abschluss bringen</b>",
+                                                        "etwas abschließen",
+                                                        "to bring something to a close",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "jHd*orp-cO",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "(keine) <b>Ahnung haben</b>",
+                                                        "(nicht) wissen",
+                                                        "to have (no) idea",
+                                                        "Ich habe keine Ahnung.",
+                                                        "Ich weiß nicht.",
+                                                        ""
+                                                    ],
+                                                    "guid": "wF:{f^3ap8",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Andeutung machen</b>",
+                                                        "etwas andeuten",
+                                                        "to give a hint",
+                                                        "Die Lehrerin macht eine Andeutung.",
+                                                        "Die Lehrerin deutet etwas an.",
+                                                        ""
+                                                    ],
+                                                    "guid": "b7>Jwq7N&H",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>einen Antrag stellen</b> auf etwas",
+                                                        "etwas beantragen",
+                                                        "to make a request for something",
+                                                        "Ich stelle einen Antrag auf ein Visum.",
+                                                        "Ich beantrage ein Visum.",
+                                                        ""
+                                                    ],
+                                                    "guid": "p*Vuqc^Z>?",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>eine Antwort geben</b>",
+                                                        "jemandem antworten",
+                                                        "to answer someone",
+                                                        "Ich möchte ihr keine Antwort geben.",
+                                                        "Ich möchte ihr nicht antworten.",
+                                                        ""
+                                                    ],
+                                                    "guid": "zEntTv0@4>",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "in Armut leben",
+                                                        "arm leben",
+                                                        "to live in poverty",
+                                                        "Ich esse, als ob ich in Armut leben würde.",
+                                                        "Ich esse, als ob ich arm leben würde.",
+                                                        ""
+                                                    ],
+                                                    "guid": "eP-/q-]e7h",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>außer Atem sein</b>",
+                                                        "erschöpft sein",
+                                                        "to be out of breath",
+                                                        "Aufgrund ihrer Fitness ist sie außer Atem.",
+                                                        "Aufgrund ihrer Fitness ist sie erschöpft.",
+                                                        ""
+                                                    ],
+                                                    "guid": "{R$8`)T5w",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>einen Auftrag geben</b>",
+                                                        "jemanden beauftragen",
+                                                        "to give someone an order/assignment",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "bq~&bqzx=x",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Ausdauer haben</b>",
+                                                        "ausdauernd sein",
+                                                        "to have stamina/persistence",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "Cy+.8DH2^w",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zur Auswahl stellen</b>",
+                                                        "auswählen können",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "jXW/yxEO7D",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zur Wahl stellen</b>",
+                                                        "wählen können",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "eO0BlHT7Oh",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Auswahl treffen</b>",
+                                                        "auswählen",
+                                                        "to make a selection",
+                                                        "<div>Wir haben eine Auswahl der besten Kandidaten getroffen. </div>",
+                                                        "Wir haben die besten Kandidaten ausgewählt.",
+                                                        ""
+                                                    ],
+                                                    "guid": "DtZX?T>pbd",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>ein Bad nehmen</b>",
+                                                        "baden",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "Q`]8,=rM~A",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "eine Beobachtung machen",
+                                                        "jemanden/etwas beobachten",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "g#en@O4?=*",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>in Betracht ziehen</b> (oder) etwas <b>in Erwägung ziehen</b>",
+                                                        "etwas erwägen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "c-e$-k1:#a",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>in/außer Betrieb sein</b>",
+                                                        "(nicht) funktionieren",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "CYnB,Ru0Fq",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "auf jemanden/etwas <b>Bezug nehmen</b>",
+                                                        "sich auf jemanden/etwas beziehen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "Mx{C6kpu8R",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>zur Diskussion stellen/stehen</b>",
+                                                        "über etwas diskutieren",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        "<b>zur Diskussion ____</b>"
+                                                    ],
+                                                    "guid": "Rd)Elf2:92",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemanden <b>unter Druck setzen</b>",
+                                                        "jemanden bedrängen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "M85jDA[PuH",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>unter Druck stehen</b>",
+                                                        "im Stress sein",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "s*}bTT]P~V",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Eindruck machen</b> auf jemanden",
+                                                        "jemanden beeindrucken",
+                                                        "",
+                                                        "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "iFR8X;I;p>",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zu Ende bringen</b>",
+                                                        "etwas beenden",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "G#Oy!c<=tq",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung kommen</b>",
+                                                        "sich entscheiden",
+                                                        "",
+                                                        "1. Ich habe eine Entscheidung getroffen.",
+                                                        "1. Ich habe mich entschieden.",
+                                                        ""
+                                                    ],
+                                                    "guid": "nos~$l%/[S",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>einen Entschluss fassen</b>",
+                                                        "sich entschließen",
+                                                        "",
+                                                        "Ich habe einen Entschluss gefasst.",
+                                                        "Ich habe mich entschlossen.",
+                                                        ""
+                                                    ],
+                                                    "guid": "c>E9z(X$^U",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>in Erfüllung gehen</b>",
+                                                        "erfüllt werden",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "IRN}W3kA-J",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>die Erlaubnis geben</b>",
+                                                        "jemandem etwas erlauben",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "cgSYxJ1{f3",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "die Fähigkeit besitzen/haben",
+                                                        "fähig sein",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "u$3vYAp:TH",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zur Folge haben</b>",
+                                                        "folgen aus etwas",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "x?HQznw>BI",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>ein Foto machen</b>",
+                                                        "fotografieren",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "m5bsAFimw!",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Frage stellen</b>",
+                                                        "fragen",
+                                                        "to ask a question",
+                                                        "Ich habe noch nicht ihm diese <b>Frage</b> <b>gestellt</b>.",
+                                                        "Ich habe ihn noch nicht gefragt.",
+                                                        ""
+                                                    ],
+                                                    "guid": "Q_nalCFQw-",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>in Frage stellen</b>",
+                                                        "etwas bezweifeln",
+                                                        "to doubt something",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "D6_%e(uU?%",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>in Frage kommen</b>",
+                                                        "eine Option sein",
+                                                        "to be possible, considered",
+                                                        "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
+                                                        "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!",
+                                                        ""
+                                                    ],
+                                                    "guid": "iNqIerz_b$",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>Gesellschaft leisten</b>",
+                                                        "bei jemandem sein, damit er nicht alleine ist",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "wx?`rBMT4C",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>ein Gespräch führen </b>mit jemandem",
+                                                        "mit jemandem sprechen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "mP6mS/0Q1#",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>Hilfe leisten</b>",
+                                                        "jemandem helfen",
+                                                        "",
+                                                        "Ich leiste keine Hilfe.",
+                                                        "Ich helfe nicht.",
+                                                        ""
+                                                    ],
+                                                    "guid": "lr}oS$9o&y",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>die Hoffnung haben</b>",
+                                                        "hoffen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "bIYl-V=5w3",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>die Initiative ergreifen</b>",
+                                                        "etwas mit Entschlusskraft beginnen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "I1MA}^c`V*",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>im Irrtum sein</b>",
+                                                        "sich irren",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "C[@Kphghi.",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>in Kauf nehmen</b>",
+                                                        "etwas hinnehmen/akzeptieren müssen",
+                                                        "to need to accept (something negative)",
+                                                        "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
+                                                        "Ich muss akzeptieren, dass ich mich verspäten werde.",
+                                                        ""
+                                                    ],
+                                                    "guid": "EG>EZS4PqT",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zur Kenntnis nehmen</b>",
+                                                        "etwas wahrnehmen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "zZ?l%;_2l%",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über etwas",
+                                                        "sich über etwas bewusst sein",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "rBJP7ZcqN5",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>einen Kompromiss schließen</b>",
+                                                        "sich durch Verhandlung einigen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "x%fyuIC;<b",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>in Kraft treten</b>",
+                                                        "ein Gesetz wird gültig",
+                                                        "to come into force",
+                                                        "Das Gesetz tritt sofort in Kraft.",
+                                                        "Das Gesetz ist sofort gültig.",
+                                                        ""
+                                                    ],
+                                                    "guid": "DmZpnR]T)@",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>einen Kuss geben</b>",
+                                                        "jemanden (freundschaftlich, flüchtig) küssen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "c>.|:9x7+i",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sich </b>(Akk.)<b> in die Lage von jemandem versetzen</b>",
+                                                        "sich vorstellen, man wäre diese Person",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "c|bOs){]yD",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>auf dem laufenden sein</b>",
+                                                        "aktuell informiert sein",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "b>z%980]jU",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>in Mode sein</b>",
+                                                        "modisch/modern/aktuell sein",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "my:R=.G(/%",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sich Mühe geben</b>",
+                                                        "sich bemühen",
+                                                        "",
+                                                        "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
+                                                        "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren.",
+                                                        ""
+                                                    ],
+                                                    "guid": "MVY[=rHpFl",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>den Mut haben</b>",
+                                                        "mutig sein",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "F=05e1?5Qt",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Nachricht erhalten </b>von jemandem",
+                                                        "benachrichtigt werden",
+                                                        "",
+                                                        "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "Lhpn7Cp@fs",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>in Ordnung bringen</b>",
+                                                        "etwas ordnen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "b+}JRlmoMs",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Platz nehmen</b>",
+                                                        "sich setzen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "dl8+U3~9;i",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Protokoll führen</b>",
+                                                        "protokollieren",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "AD!jy4{F9h",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>einen Rat geben</b>",
+                                                        "raten",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "wKxVZgAf}=",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem etwas <b>in Rechnung stellen</b>",
+                                                        "jemandem etwas berechnen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "p(sg~Xy|>6",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>im Recht sein</b>",
+                                                        "recht haben",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "cy)ERRb]F@",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Rede halten</b>",
+                                                        "vor Publikum reden",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "hwhM:@P$6I",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Rücksicht nehmen auf </b>jemanden/etwas",
+                                                        "jemanden/etwas berücksichtigen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "b|uGB5Xls&",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sich </b>(Dat.) <b>Sorgen machen um jemanden/etwas</b>",
+                                                        "sich sorgen um jemanden/etwas",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "xx0Vui>.9W",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Stellung nehmen </b>zu etwas",
+                                                        "die eigene Position zu einem Thema darlegen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "mx1;wF/5#X",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>im Sterben liegen</b>",
+                                                        "sterben",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "i`JW<8vily",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>zur Überzeugung gelangen/kommen</b>",
+                                                        "sich eine eigene Meinung gebildet haben",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "D6_*la%P!}",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>Unterricht erteilen/geben/nehmen/bekommen</b>",
+                                                        "jemanden unterrichten",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "kM?%zEcj1$",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>einen Unterschied machen </b>(zwischen etwas)",
+                                                        "Zwischen etwas unterscheiden",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "I88=BT1{:k",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sich </b>(Akk.) <b>in Verbindung setzen mit </b>jemandem",
+                                                        "mit jemandem Kontakt aufnehmen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "kT4WOOC_f*",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>ein Verbrechen begehen</b>",
+                                                        "etwas Illegales tun",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "sP~0lS6|B4",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "etwas <b>zur Verfügung haben/stellen</b>",
+                                                        "etwas fúr andere bereitstellen/verfügbar",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "vWFm#l%kG4",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sein Versprechen geben/halten/brechen</b>",
+                                                        "jemandem etwas versprechen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "Hoh~pTCm<C",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Verständnis haben </b>fúr jemanden/etwas",
+                                                        "jemanden/etwas verstehen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "zzC:D+DZ)(",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Vorbereitungen treffen</b>",
+                                                        "etwas vorbereiten",
+                                                        "",
+                                                        "Ich treffe Vorbereitungen für die Reise.",
+                                                        "Ich bereite die Reise vor.",
+                                                        ""
+                                                    ],
+                                                    "guid": "wSrbk7V?m7",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "jemandem <b>einen Vorwurf machen</b>",
+                                                        "jemandem etwas vorwerfen",
+                                                        "to accuse someone",
+                                                        "<div>Ich kann er nicht mal einen Vorwurf machen. </div>",
+                                                        "Ich kann es ihm nicht mal vorwerfen.",
+                                                        ""
+                                                    ],
+                                                    "guid": "Nv{xEh[K/^",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "sich (Akk.) <b>zu Wort melden</b>",
+                                                        "sich melden, um etwas zu sagen",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "Kdr)zlTR2p",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>sich </b>(Dat.) <b>Zeit nehmen</b>",
+                                                        "Zeit haben für etwas",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "fb9,Cs1-W@",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>die Zusicherung geben/bekommen</b>",
+                                                        "jemandem etwas zusichern",
+                                                        "",
+                                                        "",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "G$(uiwazV}",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Chance geben</b>",
+                                                        "ein Versuch geben",
+                                                        "to give a chance",
+                                                        "Gibst du mir noch eine Chance.",
+                                                        "Kann ich es noch einmal versuchen?",
+                                                        ""
+                                                    ],
+                                                    "guid": "uSkIdzvGFo",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>eine Rolle spielen</b>",
+                                                        "etwas wichtig sein",
+                                                        "to play a role",
+                                                        "Das spielt keine Rolle.",
+                                                        "Das ist unwichtig.",
+                                                        ""
+                                                    ],
+                                                    "guid": "zcXb3Y-p7T",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>Bescheid geben</b>",
+                                                        "informieren",
+                                                        "to inform",
+                                                        "Du solltest ihm Bescheid geben.",
+                                                        "Du solltest ihn informieren.",
+                                                        ""
+                                                    ],
+                                                    "guid": "FvO:>wLy.V",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>an der Reihe sein</b>",
+                                                        "dran sein / der nächste sein",
+                                                        "to be \"up\" / someone's turn",
+                                                        "Wer ist an der Reihe?",
+                                                        "Wer ist der nächste?",
+                                                        ""
+                                                    ],
+                                                    "guid": "q]`c>igE{J",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "<b>auf das Wort kommen</b>",
+                                                        "das Wort (Dat.) einfallen",
+                                                        "to come to the word",
+                                                        "Ich komme nicht auf das Wort.",
+                                                        "Das Wort fällt mir nicht ein.",
+                                                        ""
+                                                    ],
+                                                    "guid": "t.[C).)k[<",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "Kritik üben",
+                                                        "kritisieren",
+                                                        "to criticize",
+                                                        "Die Opposition <b>übt</b> heftige <b>Kritik</b> an den Maßnahmen der Regierung.",
+                                                        "Die Opposition kritisiert die Maßnahmen der Regierung heftig.",
+                                                        ""
+                                                    ],
+                                                    "guid": "E(M<H(r|)8",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "einen Ruf haben",
+                                                        "von anderen (als gut/schlecht) angesehen",
+                                                        "to have a (good/bad) reputation",
+                                                        "Diese Firma <b>hat</b> im In- und Ausland <b>einen</b> guten <b>Ruf</b>.",
+                                                        "Diese Firma ist im In- und Ausland gut angesehen.",
+                                                        ""
+                                                    ],
+                                                    "guid": "z>$ZC+Wf%_",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "einen Fehler machen",
+                                                        "",
+                                                        "to make a mistake",
+                                                        "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
+                                                        "",
+                                                        ""
+                                                    ],
+                                                    "guid": "J`7G*)u3Q}",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "eine Vereinbarung treffen",
+                                                        "",
+                                                        "to reach an agreement",
+                                                        "Sie treffen eine Vereinbarung, um den Preis.",
+                                                        "Sie vereinbaren den Preis.",
+                                                        ""
+                                                    ],
+                                                    "guid": "ut%9;jXG6S",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                },
+                                                {
+                                                    "__type__": "Note",
+                                                    "fields": [
+                                                        "einen Ausflug machen",
+                                                        "reisen",
+                                                        "to take a trip",
+                                                        "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
+                                                        "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>.",
+                                                        ""
+                                                    ],
+                                                    "guid": "p|+>5FxYQ;",
+                                                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                                                    "tags": []
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "crowdanki_uuid": "d10c7d3e-dddb-11ec-a83e-bd2c465139d0",
+                                    "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 10,
+                                    "extendRev": 0,
+                                    "media_files": [
+                                        "15px-Loudspeaker.svg-eb577fbb7961e5457fbdb50384b1977473c3df07.png"
+                                    ],
+                                    "name": "we enjoy learning the german language",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "<h1>Erwägung</h1>",
+                                                "<div>Worttrennung:</div><dl><dd>Er·wä·gung,&nbsp;Plural:&nbsp;Er·wä·gun·gen</dd></dl><div>Aussprache:</div><dl><dd><a href=\"https://de.wiktionary.org/wiki/Hilfe:IPA\">IPA</a>: [ɛɐ̯ˈvɛːɡʊŋ]</dd><dd><a href=\"https://de.wiktionary.org/wiki/Hilfe:H%C3%B6rbeispiele\">Hörbeispiele:</a>&nbsp;<img src=\"15px-Loudspeaker.svg-eb577fbb7961e5457fbdb50384b1977473c3df07.png\">&nbsp;<a href=\"https://upload.wikimedia.org/wikipedia/commons/c/ce/De-Erw%C3%A4gung.ogg\">Erwägung</a><sup>&nbsp;(<a href=\"https://de.wiktionary.org/wiki/Datei:De-Erw%C3%A4gung.ogg\">Info</a>)</sup></dd><dd><a href=\"https://de.wiktionary.org/wiki/Hilfe:Reime\">Reime:</a>&nbsp;<a href=\"https://de.wiktionary.org/wiki/Reim:Deutsch:-%C9%9B%CB%90%C9%A1%CA%8A%C5%8B\">-ɛːɡʊŋ</a></dd></dl><div>Bedeutungen:</div><dl><dd>[1] das prüfende&nbsp;<a href=\"https://de.wiktionary.org/wiki/nachdenken\">Nachdenken</a>&nbsp;über etwas oder verschiedene Möglichkeiten, wobei auch die möglichen Folgen bedacht werden</dd></dl><div>Herkunft:</div><dl><dd><a href=\"https://de.wiktionary.org/wiki/Ableitung\">Ableitung</a>&nbsp;zum Stamm des Verbs&nbsp;<i><a href=\"https://de.wiktionary.org/wiki/erw%C3%A4gen\">erwägen</a></i>&nbsp;mit dem&nbsp;<a href=\"https://de.wiktionary.org/wiki/Derivatem\">Derivatem</a>&nbsp;(<a href=\"https://de.wiktionary.org/wiki/Ableitungsmorphem\">Ableitungsmorphem</a>)&nbsp;<i><a href=\"https://de.wiktionary.org/wiki/-ung\">-ung</a></i></dd></dl><div>Synonyme:</div><dl><dd>[1]&nbsp;<a href=\"https://de.wiktionary.org/wiki/Abw%C3%A4gung\">Abwägung</a>,&nbsp;<a href=\"https://de.wiktionary.org/wiki/Reflexion\">Reflexion</a>,&nbsp;<a href=\"https://de.wiktionary.org/wiki/%C3%9Cberlegung\">Überlegung</a></dd></dl><div>Beispiele:</div><dl><dd>[1] Die freie Stelle des Projektleiters wurde aufgrund rein fachlicher&nbsp;<i>Erwägungen</i>&nbsp;besetzt.</dd><dd>[1] „Die Energiewende jedoch, die ich im Prinzip als richtig und unabwendbar betrachte, ist – aus der Fukushima-Panik geboren, nicht aus kühler&nbsp;<i>Erwägung</i>&nbsp;– so verkorkst, dass nur ein konzeptioneller Neuansatz, eine zeitliche Streckung und eine konjunktur- wie klimaverträgliche Verteilung der Lasten helfen kann.“<sup><a href=\"https://de.wiktionary.org/wiki/Erw%C3%A4gung#cite_note-1\">[1]</a></sup></dd><dd>[1] „Neben rassenhygienischen Vorstellungen der Eugenik wurden kriegswirtschaftliche&nbsp;<i>Erwägungen</i>&nbsp;während des Zweiten Weltkrieges zur Begründung der Vernichtung lebensunwerten Lebens herangezogen.“<sup><a href=\"https://de.wiktionary.org/wiki/Erw%C3%A4gung#cite_note-2\">[2]</a></sup></dd></dl><div>Redewendungen:</div><dl><dd><a href=\"https://de.wiktionary.org/w/index.php?title=etwas_in_Erw%C3%A4gung_ziehen&amp;action=edit&amp;redlink=1\">etwas in&nbsp;<i>Erwägung</i>&nbsp;ziehen</a></dd></dl><div>Charakteristische Wortkombinationen:</div><dl><dd>[1]&nbsp;<a href=\"https://de.wiktionary.org/wiki/nach\">nach</a>&nbsp;<a href=\"https://de.wiktionary.org/wiki/reiflich\">reiflicher</a>&nbsp;<i>Erwägung</i></dd></dl>Übersetzungen<br>"
+                                            ],
+                                            "guid": "pTa<sUb3aH",
+                                            "note_model_uuid": "d10ce274-dddb-11ec-a83e-bd2c465139d0",
+                                            "tags": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "crowdanki_uuid": "44a63018-e058-11ec-a2b4-195173778e45",
+                            "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Aufbaukurs",
+                            "notes": []
+                        }
+                    ],
+                    "crowdanki_uuid": "44a5d0a0-e058-11ec-a2b4-195173778e45",
+                    "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Courses",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "44a58c62-e058-11ec-a2b4-195173778e45",
+            "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
-            "name": "Funktionsverbgefügen",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "von jemandem <b>Abschied nehmen</b>",
-                        "sich von jemandem verabschieden",
-                        "to say goodbye to someone",
-                        "Ich nehme Abschied von meiner Familie.",
-                        "Ich verabschiede mich von meiner Familie."
-                    ],
-                    "guid": "P)$ba;+^,N",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zum Abschluss bringen</b>",
-                        "etwas abschließen",
-                        "to bring something to a close",
-                        "",
-                        ""
-                    ],
-                    "guid": "jHd*orp-cO",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "(keine) <b>Ahnung haben</b>",
-                        "(nicht) wissen",
-                        "to have (no) idea",
-                        "Ich habe keine Ahnung.",
-                        "Ich weiß nicht."
-                    ],
-                    "guid": "wF:{f^3ap8",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Andeutung machen</b>",
-                        "etwas andeuten",
-                        "to give a hint",
-                        "Die Lehrerin macht eine Andeutung.",
-                        "Die Lehrerin deutet etwas an."
-                    ],
-                    "guid": "b7>Jwq7N&H",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Antrag stellen</b> auf etwas",
-                        "etwas beantragen",
-                        "to make a request for something",
-                        "Ich stelle einen Antrag auf ein Visum.",
-                        "Ich beantrage ein Visum."
-                    ],
-                    "guid": "p*Vuqc^Z>?",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>eine Antwort geben</b>",
-                        "jemandem antworten",
-                        "to answer someone",
-                        "Ich möchte ihr keine Antwort geben.",
-                        "Ich möchte ihr nicht antworten."
-                    ],
-                    "guid": "zEntTv0@4>",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "in Armut leben",
-                        "arm leben",
-                        "to live in poverty",
-                        "Ich esse, als ob ich in Armut leben würde.",
-                        "Ich esse, als ob ich arm leben würde."
-                    ],
-                    "guid": "eP-/q-]e7h",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>außer Atem sein</b>",
-                        "erschöpft sein",
-                        "to be out of breath",
-                        "Aufgrund ihrer Fitness ist sie außer Atem.",
-                        "Aufgrund ihrer Fitness ist sie erschöpft."
-                    ],
-                    "guid": "{R$8`)T5w",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>einen Auftrag geben</b>",
-                        "jemanden beauftragen",
-                        "to give someone an order/assignment",
-                        "",
-                        ""
-                    ],
-                    "guid": "bq~&bqzx=x",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Ausdauer haben</b>",
-                        "ausdauernd sein",
-                        "to have stamina/persistence",
-                        "",
-                        ""
-                    ],
-                    "guid": "Cy+.8DH2^w",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Auswahl stellen</b>",
-                        "auswählen können",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "jXW/yxEO7D",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Wahl stellen</b>",
-                        "wählen können",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "eO0BlHT7Oh",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Auswahl treffen</b>",
-                        "auswählen",
-                        "to make a selection",
-                        "<div>Wir haben eine Auswahl der besten Kandidaten getroffen. </div>",
-                        "Wir haben die besten Kandidaten ausgewählt."
-                    ],
-                    "guid": "DtZX?T>pbd",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Bad nehmen</b>",
-                        "baden",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "Q`]8,=rM~A",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "eine Beobachtung machen",
-                        "jemanden/etwas beobachten",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "g#en@O4?=*",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>in Betracht ziehen</b> (oder) etwas <b>in Erwägung ziehen</b>",
-                        "etwas erwägen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "c-e$-k1:#a",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in/außer Betrieb sein</b>",
-                        "(nicht) funktionieren",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "CYnB,Ru0Fq",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "auf jemanden/etwas <b>Bezug nehmen</b>",
-                        "sich auf jemanden/etwas beziehen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "Mx{C6kpu8R",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>zur Diskussion stellen/stehen</b>",
-                        "über etwas diskutieren",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "Rd)Elf2:92",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemanden <b>unter Druck setzen</b>",
-                        "jemanden bedrängen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "M85jDA[PuH",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>unter Druck stehen</b>",
-                        "im Stress sein",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "s*}bTT]P~V",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Eindruck machen</b> auf jemanden",
-                        "jemanden beeindrucken",
-                        "",
-                        "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
-                        ""
-                    ],
-                    "guid": "iFR8X;I;p>",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zu Ende bringen</b>",
-                        "etwas beenden",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "G#Oy!c<=tq",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung kommen</b>",
-                        "sich entscheiden",
-                        "",
-                        "1. Ich habe eine Entscheidung getroffen.",
-                        "1. Ich habe mich entschieden."
-                    ],
-                    "guid": "nos~$l%/[S",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Entschluss fassen</b>",
-                        "sich entschließen",
-                        "",
-                        "Ich habe einen Entschluss gefasst.",
-                        "Ich habe mich entschlossen."
-                    ],
-                    "guid": "c>E9z(X$^U",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in Erfüllung gehen</b>",
-                        "erfüllt werden",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "IRN}W3kA-J",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>die Erlaubnis geben</b>",
-                        "jemandem etwas erlauben",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "cgSYxJ1{f3",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "die Fähigkeit besitzen/haben",
-                        "fähig sein",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "u$3vYAp:TH",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Folge haben</b>",
-                        "folgen aus etwas",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "x?HQznw>BI",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Foto machen</b>",
-                        "fotografieren",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "m5bsAFimw!",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Frage stellen</b>",
-                        "fragen",
-                        "to ask a question",
-                        "Ich habe noch nicht ihm diese <b>Frage</b> <b>gestellt</b>.",
-                        "Ich habe ihn noch nicht gefragt."
-                    ],
-                    "guid": "Q_nalCFQw-",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>in Frage stellen</b>",
-                        "etwas bezweifeln",
-                        "to doubt something",
-                        "",
-                        ""
-                    ],
-                    "guid": "D6_%e(uU?%",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in Frage kommen</b>",
-                        "eine Option sein",
-                        "to be possible, considered",
-                        "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
-                        "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!"
-                    ],
-                    "guid": "iNqIerz_b$",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>Gesellschaft leisten</b>",
-                        "bei jemandem sein, damit er nicht alleine ist",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "wx?`rBMT4C",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Gespräch führen </b>mit jemandem",
-                        "mit jemandem sprechen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "mP6mS/0Q1#",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>Hilfe leisten</b>",
-                        "jemandem helfen",
-                        "",
-                        "Ich leiste keine Hilfe.",
-                        "Ich helfe nicht."
-                    ],
-                    "guid": "lr}oS$9o&y",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>die Hoffnung haben</b>",
-                        "hoffen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "bIYl-V=5w3",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>die Initiative ergreifen</b>",
-                        "etwas mit Entschlusskraft beginnen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "I1MA}^c`V*",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>im Irrtum sein</b>",
-                        "sich irren",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "C[@Kphghi.",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>in Kauf nehmen</b>",
-                        "etwas hinnehmen/akzeptieren müssen",
-                        "to need to accept (something negative)",
-                        "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
-                        "Ich muss akzeptieren, dass ich mich verspäten werde."
-                    ],
-                    "guid": "EG>EZS4PqT",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Kenntnis nehmen</b>",
-                        "etwas wahrnehmen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "zZ?l%;_2l%",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über etwas",
-                        "sich über etwas bewusst sein",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "rBJP7ZcqN5",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Kompromiss schließen</b>",
-                        "sich durch Verhandlung einigen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "x%fyuIC;<b",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in Kraft treten</b>",
-                        "ein Gesetz wird gültig",
-                        "to come into force",
-                        "Das Gesetz tritt sofort in Kraft.",
-                        "Das Gesetz ist sofort gültig."
-                    ],
-                    "guid": "DmZpnR]T)@",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>einen Kuss geben</b>",
-                        "jemanden (freundschaftlich, flüchtig) küssen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "c>.|:9x7+i",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Akk.)<b> in die Lage von jemandem versetzen</b>",
-                        "sich vorstellen, man wäre diese Person",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "c|bOs){]yD",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>auf dem laufenden sein</b>",
-                        "aktuell informiert sein",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "b>z%980]jU",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in Mode sein</b>",
-                        "modisch/modern/aktuell sein",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "my:R=.G(/%",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich Mühe geben</b>",
-                        "sich bemühen",
-                        "",
-                        "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
-                        "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren."
-                    ],
-                    "guid": "MVY[=rHpFl",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>den Mut haben</b>",
-                        "mutig sein",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "F=05e1?5Qt",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Nachricht erhalten </b>von jemandem",
-                        "benachrichtigt werden",
-                        "",
-                        "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
-                        ""
-                    ],
-                    "guid": "Lhpn7Cp@fs",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>in Ordnung bringen</b>",
-                        "etwas ordnen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "b+}JRlmoMs",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Platz nehmen</b>",
-                        "sich setzen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "dl8+U3~9;i",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Protokoll führen</b>",
-                        "protokollieren",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "AD!jy4{F9h",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>einen Rat geben</b>",
-                        "raten",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "wKxVZgAf}=",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem etwas <b>in Rechnung stellen</b>",
-                        "jemandem etwas berechnen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "p(sg~Xy|>6",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>im Recht sein</b>",
-                        "recht haben",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "cy)ERRb]F@",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Rede halten</b>",
-                        "vor Publikum reden",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "hwhM:@P$6I",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Rücksicht nehmen auf </b>jemanden/etwas",
-                        "jemanden/etwas berücksichtigen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "b|uGB5Xls&",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Dat.) <b>Sorgen machen um jemanden/etwas</b>",
-                        "sich sorgen um jemanden/etwas",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "xx0Vui>.9W",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Stellung nehmen </b>zu etwas",
-                        "die eigene Position zu einem Thema darlegen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "mx1;wF/5#X",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>im Sterben liegen</b>",
-                        "sterben",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "i`JW<8vily",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>zur Überzeugung gelangen/kommen</b>",
-                        "sich eine eigene Meinung gebildet haben",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "D6_*la%P!}",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>Unterricht erteilen/geben/nehmen/bekommen</b>",
-                        "jemanden unterrichten",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "kM?%zEcj1$",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Unterschied machen </b>(zwischen etwas)",
-                        "Zwischen etwas unterscheiden",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "I88=BT1{:k",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Akk.) <b>in Verbindung setzen mit </b>jemandem",
-                        "mit jemandem Kontakt aufnehmen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "kT4WOOC_f*",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Verbrechen begehen</b>",
-                        "etwas Illegales tun",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "sP~0lS6|B4",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Verfügung haben/stellen</b>",
-                        "etwas fúr andere bereitstellen/verfügbar",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "vWFm#l%kG4",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sein Versprechen geben/halten/brechen</b>",
-                        "jemandem etwas versprechen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "Hoh~pTCm<C",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Verständnis haben </b>fúr jemanden/etwas",
-                        "jemanden/etwas verstehen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "zzC:D+DZ)(",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Vorbereitungen treffen</b>",
-                        "etwas vorbereiten",
-                        "",
-                        "Ich treffe Vorbereitungen für die Reise.",
-                        "Ich bereite die Reise vor."
-                    ],
-                    "guid": "wSrbk7V?m7",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>einen Vorwurf machen</b>",
-                        "jemandem etwas vorwerfen",
-                        "to accuse someone",
-                        "<div>Ich kann er nicht mal einen Vorwurf machen. </div>",
-                        "Ich kann es ihm nicht mal vorwerfen."
-                    ],
-                    "guid": "Nv{xEh[K/^",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "sich (Akk.) <b>zu Wort melden</b>",
-                        "sich melden, um etwas zu sagen",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "Kdr)zlTR2p",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Dat.) <b>Zeit nehmen</b>",
-                        "Zeit haben für etwas",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "fb9,Cs1-W@",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>die Zusicherung geben/bekommen</b>",
-                        "jemandem etwas zusichern",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "G$(uiwazV}",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Chance geben</b>",
-                        "ein Versuch geben",
-                        "to give a chance",
-                        "Gibst du mir noch eine Chance.",
-                        "Kann ich es noch einmal versuchen?"
-                    ],
-                    "guid": "uSkIdzvGFo",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Rolle spielen</b>",
-                        "etwas wichtig sein",
-                        "to play a role",
-                        "Das spielt keine Rolle.",
-                        "Das ist unwichtig."
-                    ],
-                    "guid": "zcXb3Y-p7T",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Bescheid geben</b>",
-                        "informieren",
-                        "to inform",
-                        "Du solltest ihm Bescheid geben.",
-                        "Du solltest ihn informieren."
-                    ],
-                    "guid": "FvO:>wLy.V",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>an der Reihe sein</b>",
-                        "dran sein / der nächste sein",
-                        "to be \"up\" / someone's turn",
-                        "Wer ist an der Reihe?",
-                        "Wer ist der nächste?"
-                    ],
-                    "guid": "q]`c>igE{J",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>auf das Wort kommen</b>",
-                        "das Wort (Dat.) einfallen",
-                        "to come to the word",
-                        "Ich komme nicht auf das Wort.",
-                        "Das Wort fällt mir nicht ein."
-                    ],
-                    "guid": "t.[C).)k[<",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Kritik üben",
-                        "kritisieren",
-                        "to criticize",
-                        "Die Opposition <b>übt</b> heftige <b>Kritik</b> an den Maßnahmen der Regierung.",
-                        "Die Opposition kritisiert die Maßnahmen der Regierung heftig."
-                    ],
-                    "guid": "E(M<H(r|)8",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "einen Ruf haben",
-                        "von anderen (als gut/schlecht) angesehen",
-                        "to have a (good/bad) reputation",
-                        "Diese Firma <b>hat</b> im In- und Ausland <b>einen</b> guten <b>Ruf</b>.",
-                        "Diese Firma ist im In- und Ausland gut angesehen."
-                    ],
-                    "guid": "z>$ZC+Wf%_",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "einen Fehler machen",
-                        "",
-                        "to make a mistake",
-                        "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
-                        ""
-                    ],
-                    "guid": "J`7G*)u3Q}",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "eine Vereinbarung treffen",
-                        "",
-                        "to reach an agreement",
-                        "Sie treffen eine Vereinbarung, um den Preis.",
-                        "Sie vereinbaren den Preis."
-                    ],
-                    "guid": "ut%9;jXG6S",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "einen Ausflug machen",
-                        "reisen",
-                        "to take a trip",
-                        "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
-                        "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>."
-                    ],
-                    "guid": "p|+>5FxYQ;",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                }
-            ]
+            "name": "German",
+            "notes": []
         }
     ],
-    "crowdanki_uuid": "d10c7d3e-dddb-11ec-a83e-bd2c465139d0",
-    "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+    "crowdanki_uuid": "44a535dc-e058-11ec-a2b4-195173778e45",
+    "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
     "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
         {
             "__type__": "DeckConfig",
             "autoplay": true,
@@ -1176,11 +1382,68 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "name": "Languages::German::Courses::Aufbaukurs::we enjoy learning the german language",
+    "name": "Languages",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d10ce274-dddb-11ec-a83e-bd2c465139d0",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1230,6 +1493,15 @@
                     "rtl": false,
                     "size": 20,
                     "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "fake close",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",
@@ -1256,6 +1528,13 @@
                         2,
                         3
                     ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        5
+                    ]
                 ]
             ],
             "sortf": 1,
@@ -1281,6 +1560,17 @@
                     "name": "Card 2",
                     "ord": 1,
                     "qfmt": "Was ist die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“?\n\n<br><br>\n{{type:de_Bedeutung}}\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\n„{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}"
+                },
+                {
+                    "afmt": "\n{{de_Funktionsverbgefüge}}\n\n\n<div style='font-family: \"Arial\"; font-size: 20px;'>{{de_Bedeutung}}</div>\n\n<div style='font-family: \"Arial\"; font-size: 20px;'>{{en_Bedeutung}}</div>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 3",
+                    "ord": 2,
+                    "qfmt": "\n„<i>{{fake close}}</i>“?\n\n"
                 }
             ],
             "type": 0
