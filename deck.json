@@ -16,7 +16,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "von jemandem&nbsp;<b>Abschied nehmen</b>",
+                        "von jemandem <b>Abschied nehmen</b>",
                         "sich von jemandem verabschieden",
                         "to say goodbye to someone",
                         "Ich nehme Abschied von meiner Familie.",
@@ -29,7 +29,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>zum Abschluss bringen</b>",
+                        "etwas <b>zum Abschluss bringen</b>",
                         "etwas abschließen",
                         "to bring something to a close",
                         "",
@@ -42,7 +42,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "(keine)&nbsp;<b>Ahnung haben</b>",
+                        "(keine) <b>Ahnung haben</b>",
                         "(nicht) wissen",
                         "to have (no) idea",
                         "Ich habe keine Ahnung.",
@@ -68,7 +68,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>einen Antrag stellen</b>&nbsp;auf etwas",
+                        "<b>einen Antrag stellen</b> auf etwas",
                         "etwas beantragen",
                         "to make a request for something",
                         "Ich stelle einen Antrag auf ein Visum.",
@@ -81,7 +81,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>eine Antwort geben</b>",
+                        "jemandem <b>eine Antwort geben</b>",
                         "jemandem antworten",
                         "to answer someone",
                         "Ich möchte ihr keine Antwort geben.",
@@ -120,7 +120,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>einen Auftrag geben</b>",
+                        "jemandem <b>einen Auftrag geben</b>",
                         "jemanden beauftragen",
                         "to give someone an order/assignment",
                         "",
@@ -211,7 +211,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>in Betracht ziehen</b><br>etwas&nbsp;<b>in Erwägung ziehen</b>",
+                        "etwas <b>in Betracht ziehen</b> (oder) etwas <b>in Erwägung ziehen</b>",
                         "etwas erwägen",
                         "",
                         "",
@@ -237,7 +237,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "auf jemanden/etwas&nbsp;<b>Bezug nehmen</b>",
+                        "auf jemanden/etwas <b>Bezug nehmen</b>",
                         "sich auf jemanden/etwas beziehen",
                         "",
                         "",
@@ -263,7 +263,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemanden&nbsp;<b>unter Druck setzen</b>",
+                        "jemanden <b>unter Druck setzen</b>",
                         "jemanden bedrängen",
                         "",
                         "",
@@ -289,10 +289,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Eindruck machen</b>&nbsp;auf jemanden",
+                        "<b>Eindruck machen</b> auf jemanden",
                         "jemanden beeindrucken",
                         "",
-                        "Die Eiskunstläuferin hat starken&nbsp;<b>Eindruck</b>&nbsp;auf die Jury&nbsp;<b>gemacht</b>.",
+                        "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
                         ""
                     ],
                     "guid": "iFR8X;I;p>",
@@ -302,7 +302,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>zu Ende bringen</b>",
+                        "etwas <b>zu Ende bringen</b>",
                         "etwas beenden",
                         "",
                         "",
@@ -315,7 +315,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "1.<b> eine Entscheidung treffen</b><br>2.&nbsp;<b>zu einer Entscheidung kommen</b>",
+                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung kommen</b>",
                         "sich entscheiden",
                         "",
                         "1. Ich habe eine Entscheidung getroffen.",
@@ -354,7 +354,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>die Erlaubnis geben</b>",
+                        "jemandem <b>die Erlaubnis geben</b>",
                         "jemandem etwas erlauben",
                         "",
                         "",
@@ -380,7 +380,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>zur Folge haben</b>",
+                        "etwas <b>zur Folge haben</b>",
                         "folgen aus etwas",
                         "",
                         "",
@@ -419,7 +419,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>in Frage stellen</b>",
+                        "etwas <b>in Frage stellen</b>",
                         "etwas bezweifeln",
                         "",
                         "",
@@ -445,7 +445,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>Gesellschaft leisten</b>",
+                        "jemandem <b>Gesellschaft leisten</b>",
                         "bei jemandem sein, damit er nicht alleine ist",
                         "",
                         "",
@@ -458,7 +458,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>ein Gespräch führen&nbsp;</b>mit jemandem",
+                        "<b>ein Gespräch führen </b>mit jemandem",
                         "mit jemandem sprechen",
                         "",
                         "",
@@ -471,7 +471,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>Hilfe leisten</b>",
+                        "jemandem <b>Hilfe leisten</b>",
                         "jemandem helfen",
                         "",
                         "Ich leiste keine Hilfe.",
@@ -523,7 +523,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>in Kauf nehmen</b>",
+                        "etwas <b>in Kauf nehmen</b>",
                         "etwas hinnehmen/akzeptieren müssen",
                         "",
                         "",
@@ -536,7 +536,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>zur Kenntnis nehmen</b>",
+                        "etwas <b>zur Kenntnis nehmen</b>",
                         "etwas wahrnehmen",
                         "",
                         "",
@@ -549,7 +549,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>sich&nbsp;</b>(Dat.)&nbsp;<b>im klaren sein </b>über etwas",
+                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über etwas",
                         "sich über etwas bewusst sein",
                         "",
                         "",
@@ -588,7 +588,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>einen Kuss geben</b>",
+                        "jemandem <b>einen Kuss geben</b>",
                         "jemanden (freundschaftlich, flüchtig) küssen",
                         "",
                         "",
@@ -601,7 +601,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>sich&nbsp;</b>(Akk.)<b>&nbsp;in die Lage von jemandem versetzen</b>",
+                        "<b>sich </b>(Akk.)<b> in die Lage von jemandem versetzen</b>",
                         "sich vorstellen, man wäre diese Person",
                         "",
                         "",
@@ -643,8 +643,8 @@
                         "<b>sich Mühe geben</b>",
                         "sich bemühen",
                         "",
-                        "Politiker sollten&nbsp;<b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
-                        "Politiker sollten&nbsp;<b>sich bemühen</b>, internationale Beziehungen zu stabilisieren."
+                        "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
+                        "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren."
                     ],
                     "guid": "MVY[=rHpFl",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -666,10 +666,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>eine Nachricht erhalten&nbsp;</b>von jemandem",
+                        "<b>eine Nachricht erhalten </b>von jemandem",
                         "benachrichtigt werden",
                         "",
-                        "<b>Geben&nbsp;</b>Sie sofort&nbsp;<b>Nachricht</b>, wenn etwas passieren sollte!",
+                        "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
                         ""
                     ],
                     "guid": "Lhpn7Cp@fs",
@@ -679,7 +679,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>in Ordnung bringen</b>",
+                        "etwas <b>in Ordnung bringen</b>",
                         "etwas ordnen",
                         "",
                         "",
@@ -718,7 +718,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>einen Rat geben</b>",
+                        "jemandem <b>einen Rat geben</b>",
                         "raten",
                         "",
                         "",
@@ -731,7 +731,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem etwas&nbsp;<b>in Rechnung stellen</b>",
+                        "jemandem etwas <b>in Rechnung stellen</b>",
                         "jemandem etwas berechnen",
                         "",
                         "",
@@ -770,7 +770,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Rücksicht nehmen auf&nbsp;</b>jemanden/etwas",
+                        "<b>Rücksicht nehmen auf </b>jemanden/etwas",
                         "jemanden/etwas berücksichtigen",
                         "",
                         "",
@@ -783,7 +783,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>sich&nbsp;</b>(Dat.)&nbsp;<b>Sorgen machen um jemanden/etwas</b>",
+                        "<b>sich </b>(Dat.) <b>Sorgen machen um jemanden/etwas</b>",
                         "sich sorgen um jemanden/etwas",
                         "",
                         "",
@@ -796,7 +796,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Stellung nehmen&nbsp;</b>zu etwas",
+                        "<b>Stellung nehmen </b>zu etwas",
                         "die eigene Position zu einem Thema darlegen",
                         "",
                         "",
@@ -848,7 +848,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>einen Unterschied machen&nbsp;</b>(zwischen etwas)",
+                        "<b>einen Unterschied machen </b>(zwischen etwas)",
                         "Zwischen etwas unterscheiden",
                         "",
                         "",
@@ -861,7 +861,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>sich&nbsp;</b>(Akk.)&nbsp;<b>in Verbindung setzen mit&nbsp;</b>jemandem",
+                        "<b>sich </b>(Akk.) <b>in Verbindung setzen mit </b>jemandem",
                         "mit jemandem Kontakt aufnehmen",
                         "",
                         "",
@@ -887,7 +887,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas&nbsp;<b>zur Verfügung haben/stellen</b>",
+                        "etwas <b>zur Verfügung haben/stellen</b>",
                         "etwas fúr andere bereitstellen/verfügbar",
                         "",
                         "",
@@ -913,7 +913,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Verständnis haben&nbsp;</b>fúr jemanden/etwas",
+                        "<b>Verständnis haben </b>fúr jemanden/etwas",
                         "jemanden/etwas verstehen",
                         "",
                         "",
@@ -939,7 +939,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "jemandem&nbsp;<b>einen Vorwurf machen</b>",
+                        "jemandem <b>einen Vorwurf machen</b>",
                         "jemandem etwas vorwerfen",
                         "",
                         "",
@@ -952,7 +952,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "sich (Akk.)&nbsp;<b>zu Wort melden</b>",
+                        "sich (Akk.) <b>zu Wort melden</b>",
                         "sich melden, um etwas zu sagen",
                         "",
                         "",
@@ -965,7 +965,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>sich&nbsp;</b>(Dat.)&nbsp;<b>Zeit nehmen</b>",
+                        "<b>sich </b>(Dat.) <b>Zeit nehmen</b>",
                         "Zeit haben für etwas",
                         "",
                         "",
@@ -993,9 +993,18 @@
                     "fields": [
                         "<b>eine Chance geben</b>",
                         "",
+<<<<<<< HEAD
+=======
+<<<<<<< variant A
+                        "to give a chance",
+                        "Gibst du mir noch eine Chance.",
+                        "Kann ich es noch einmal versuchen?"
+>>>>>>> variant B
+======= end
                         "give a chance",
                         "",
                         ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "uSkIdzvGFo",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1005,10 +1014,17 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>eine Rolle spielen</b>",
+<<<<<<< variant A
+                        "etwas wichtig sein",
+                        "to play a role",
+                        "Das spielt keine Rolle.",
+                        "Das ist unwichtig."
+>>>>>>> variant B
                         "",
                         "to play a roll",
                         "",
                         ""
+======= end
                     ],
                     "guid": "zcXb3Y-p7T",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1019,9 +1035,18 @@
                     "fields": [
                         "<b>Bescheid geben</b>",
                         "",
+<<<<<<< HEAD
+=======
+<<<<<<< variant A
+                        "",
+                        "Du solltest ihm Bescheid geben.",
+                        "Du solltest ihn informieren."
+>>>>>>> variant B
+======= end
                         "to inform",
                         "",
                         ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "FvO:>wLy.V",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1031,10 +1056,17 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>an der Reihe sein</b>",
+<<<<<<< variant A
+                        "dran sein / der nächste sein",
+                        "to be \"up\" / someone's turn",
+                        "Wer ist an der Reihe?",
+                        "Wer ist der nächste?"
+>>>>>>> variant B
                         "",
                         "to be next",
                         "",
                         ""
+======= end
                     ],
                     "guid": "q]`c>igE{J",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1044,10 +1076,17 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>auf das Wort kommen</b>",
+<<<<<<< variant A
+                        "das Wort (Dat.) einfallen",
+                        "to come to the word",
+                        "Ich komme nicht auf das Wort.",
+                        "Das Wort fällt mir nicht ein."
+>>>>>>> variant B
                         "",
                         "think of the word (Not sure)",
                         "",
                         ""
+======= end
                     ],
                     "guid": "t.[C).)k[<",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1057,60 +1096,8 @@
         }
     ],
     "crowdanki_uuid": "d10c7d3e-dddb-11ec-a83e-bd2c465139d0",
-    "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+    "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
     "deck_configurations": [
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
         {
             "__type__": "DeckConfig",
             "autoplay": true,
@@ -1141,10 +1128,10 @@
                     4,
                     0
                 ],
-                "order": 0,
+                "order": 1,
                 "perDay": 20
             },
-            "newGatherPriority": 0,
+            "newGatherPriority": 3,
             "newMix": 0,
             "newPerDayMinimum": 0,
             "newSortOrder": 0,
@@ -1166,7 +1153,7 @@
     "extendNew": 10,
     "extendRev": 0,
     "media_files": [],
-    "name": "we enjoy learning the german language",
+    "name": "Languages::German::Courses::Aufbaukurs::we enjoy learning the german language",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -1256,7 +1243,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "Was ist die Funktionsverbgefüge von <br>\n„<i>{{de_Bedeutung}}</i>“?\n\n{{#de_Bsp mit deutscher Bedeutung}}\n<br><br>\n„{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}\n\n<br><br>\n{{type:de_Funktionsverbgefüge}}"
+                    "qfmt": "Was ist die Funktionsverbgefüge von <br>\n„<i>{{de_Bedeutung}}</i>“?\n\n<br><br>\n{{type:de_Funktionsverbgefüge}}\n\n{{#de_Bsp mit deutscher Bedeutung}}\n<br><br>\n„{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}"
                 },
                 {
                     "afmt": "Die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“ ist\n\n<br><br>\n\n{{type:de_Bedeutung}}\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\nz.B. „{{de_Bsp mit Funktionsverbgefüge}}“\n{{#de_Bsp mit deutscher Bedeutung}}\n→ „{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{en_Bedeutung}}\n{{/en_Bedeutung}}",
@@ -1267,7 +1254,7 @@
                     "did": null,
                     "name": "Card 2",
                     "ord": 1,
-                    "qfmt": "Was ist die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“?\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\n„{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}\n\n<br><br>\n{{type:de_Bedeutung}}"
+                    "qfmt": "Was ist die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“?\n\n<br><br>\n{{type:de_Bedeutung}}\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\n„{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}"
                 }
             ],
             "type": 0
