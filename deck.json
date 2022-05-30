@@ -993,9 +993,15 @@
                     "fields": [
                         "<b>eine Chance geben</b>",
                         "",
+<<<<<<< HEAD
                         "to give a chance",
                         "Gibst du mir noch eine Chance.",
                         "Kann ich es noch einmal versuchen?"
+=======
+                        "give a chance",
+                        "",
+                        ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "uSkIdzvGFo",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1005,10 +1011,17 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>eine Rolle spielen</b>",
+<<<<<<< HEAD
                         "etwas wichtig sein",
                         "to play a role",
                         "Das spielt keine Rolle.",
                         "Das ist unwichtig."
+=======
+                        "",
+                        "to play a roll",
+                        "",
+                        ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "zcXb3Y-p7T",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1019,9 +1032,15 @@
                     "fields": [
                         "<b>Bescheid geben</b>",
                         "",
+<<<<<<< HEAD
                         "",
                         "Du solltest ihm Bescheid geben.",
                         "Du solltest ihn informieren."
+=======
+                        "to inform",
+                        "",
+                        ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "FvO:>wLy.V",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1031,10 +1050,17 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>an der Reihe sein</b>",
+<<<<<<< HEAD
                         "dran sein / der nächste sein",
                         "to be \"up\" / someone's turn",
                         "Wer ist an der Reihe?",
                         "Wer ist der nächste?"
+=======
+                        "",
+                        "to be next",
+                        "",
+                        ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "q]`c>igE{J",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1044,10 +1070,17 @@
                     "__type__": "Note",
                     "fields": [
                         "<b>auf das Wort kommen</b>",
+<<<<<<< HEAD
                         "das Wort (Dat.) einfallen",
                         "to come to the word",
                         "Ich komme nicht auf das Wort.",
                         "Das Wort fällt mir nicht ein."
+=======
+                        "",
+                        "think of the word (Not sure)",
+                        "",
+                        ""
+>>>>>>> 5d37a241a19a4295c0310a23cffaac1fac4cfa7b
                     ],
                     "guid": "t.[C).)k[<",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1111,7 +1144,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 10,
     "extendRev": 0,
     "media_files": [],
     "name": "Languages::German::Courses::Aufbaukurs::we enjoy learning the german language",
