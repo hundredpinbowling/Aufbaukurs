@@ -117,7 +117,7 @@
                                                         "to live in poverty",
                                                         "Ich esse, als ob ich in Armut leben würde.",
                                                         "Ich esse, als ob ich arm leben würde.",
-                                                        ""
+                                                        "in Armut ___"
                                                     ],
                                                     "guid": "eP-/q-]e7h",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -282,7 +282,7 @@
                                                     "fields": [
                                                         "<b>zur Diskussion stellen/stehen</b>",
                                                         "über etwas diskutieren",
-                                                        "",
+                                                        "<span style=\"color: rgb(38, 81, 128); background-color: rgb(255, 255, 255);\"><a href=\"https://www.linguee.com/english-german/translation/be+under+consideration.html\">be under consideration</a>&nbsp;<span style=\"color: rgb(136, 136, 136); font-style: italic;\">v</span></span><span style=\"color: rgb(51, 51, 51); font-style: italic; background-color: rgb(255, 255, 255);\">&nbsp;</span><span style=\"color: rgb(136, 136, 136); font-style: italic; background-color: rgb(255, 255, 255);\">(<span style=\"color: rgb(38, 81, 128); font-style: normal;\"><a href=\"https://www.linguee.com/english-german/translation/was.html\">was</a></span>&nbsp;or&nbsp;<span style=\"color: rgb(38, 81, 128); font-style: normal;\"><a href=\"https://www.linguee.com/english-german/translation/were.html\">were</a></span>,&nbsp;<span style=\"color: rgb(38, 81, 128); font-style: normal;\"><a href=\"https://www.linguee.com/english-german/translation/been.html\">been</a></span>)</span>",
                                                         "",
                                                         "",
                                                         "<b>zur Diskussion ___</b>"
@@ -327,7 +327,7 @@
                                                         "",
                                                         "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
                                                         "",
-                                                        "<b>Eindruck machen</b> auf ___"
+                                                        "<b>Eindruck ___</b>&nbsp;auf jemandem"
                                                     ],
                                                     "guid": "iFR8X;I;p>",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -355,7 +355,7 @@
                                                         "",
                                                         "1. Ich habe eine Entscheidung getroffen.",
                                                         "1. Ich habe mich entschieden.",
-                                                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung ___</b>"
+                                                        "1.<b> eine Entscheidung ___</b><br>2. <b>zu einer Entscheidung ___</b>"
                                                     ],
                                                     "guid": "nos~$l%/[S",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -422,8 +422,8 @@
                                                     "fields": [
                                                         "etwas <b>zur Folge haben</b>",
                                                         "folgen aus etwas",
-                                                        "",
-                                                        "",
+                                                        "to result in something",
+                                                        "<span style=\"color: rgb(51, 51, 51); background-color: rgb(248, 248, 248);\">Die Aussage des Politikers hatte öffentliche Kritik zur Folge.</span>",
                                                         "",
                                                         "etwas <b>zur Folge ___</b>"
                                                     ],
@@ -481,7 +481,7 @@
                                                         "to be possible, considered",
                                                         "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
                                                         "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!",
-                                                        ""
+                                                        "<b>in Frage ___</b>"
                                                     ],
                                                     "guid": "iNqIerz_b$",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -495,7 +495,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "jemandem&nbsp;<b>Gesellschaft ___</b>"
                                                     ],
                                                     "guid": "wx?`rBMT4C",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -579,7 +579,7 @@
                                                         "to need to accept (something negative)",
                                                         "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
                                                         "Ich muss akzeptieren, dass ich mich verspäten werde.",
-                                                        ""
+                                                        "etwas&nbsp;<b>in Kauf ___</b>"
                                                     ],
                                                     "guid": "EG>EZS4PqT",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -607,7 +607,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über ___"
+                                                        "<b>sich </b>(Dat.) <b>im klaren ___&nbsp;</b>über etwas"
                                                     ],
                                                     "guid": "rBJP7ZcqN5",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -632,7 +632,7 @@
                                                     "fields": [
                                                         "<b>in Kraft treten</b>",
                                                         "ein Gesetz wird gültig",
-                                                        "to come into force",
+                                                        "to come into force (to come into effect)",
                                                         "Das Gesetz tritt sofort in Kraft.",
                                                         "Das Gesetz ist sofort gültig.",
                                                         "<b>in Kraft ___</b>"
@@ -649,7 +649,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "jemandem&nbsp;<b>einen Kuss ___</b>"
                                                     ],
                                                     "guid": "c>.|:9x7+i",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -663,7 +663,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "<b>sich&nbsp;</b>(Akk.)<b>&nbsp;in die Lage von jemandem ____</b>"
                                                     ],
                                                     "guid": "c|bOs){]yD",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -705,7 +705,7 @@
                                                         "",
                                                         "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
                                                         "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren.",
-                                                        ""
+                                                        "<b>sich Mühe ___</b>"
                                                     ],
                                                     "guid": "MVY[=rHpFl",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -733,7 +733,7 @@
                                                         "",
                                                         "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
                                                         "",
-                                                        ""
+                                                        "<b>eine Nachricht ___&nbsp;</b>von jemandem"
                                                     ],
                                                     "guid": "Lhpn7Cp@fs",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -845,7 +845,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "<b>Rücksicht ___ auf&nbsp;</b>jemanden/etwas"
                                                     ],
                                                     "guid": "b|uGB5Xls&",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -873,7 +873,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Stellung nehmen </b>zu ___"
+                                                        "<b>Stellung ___&nbsp;</b>zu etwas"
                                                     ],
                                                     "guid": "mx1;wF/5#X",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -929,7 +929,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>einen Unterschied machen </b>(zwischen ___"
+                                                        "<b>einen Unterschied ___&nbsp;</b>(zwischen etwas)"
                                                     ],
                                                     "guid": "I88=BT1{:k",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -999,7 +999,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Verständnis haben </b>fúr ___"
+                                                        "<b>Verständnis ___&nbsp;</b>fúr jemandem/etwas"
                                                     ],
                                                     "guid": "zzC:D+DZ)(",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1041,7 +1041,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "sich (Akk.)&nbsp;<b>zu Wort ___</b>"
                                                     ],
                                                     "guid": "Kdr)zlTR2p",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1181,7 +1181,7 @@
                                                         "to make a mistake",
                                                         "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
                                                         "",
-                                                        ""
+                                                        "einen Fehler ___"
                                                     ],
                                                     "guid": "J`7G*)u3Q}",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1195,7 +1195,7 @@
                                                         "to reach an agreement",
                                                         "Sie treffen eine Vereinbarung, um den Preis.",
                                                         "Sie vereinbaren den Preis.",
-                                                        ""
+                                                        "eine Vereinbarung ___"
                                                     ],
                                                     "guid": "ut%9;jXG6S",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1209,7 +1209,7 @@
                                                         "to take a trip",
                                                         "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
                                                         "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>.",
-                                                        ""
+                                                        "einen Ausflug ___"
                                                     ],
                                                     "guid": "p|+>5FxYQ;",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1224,7 +1224,7 @@
                                             "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
                                             "desc": "",
                                             "dyn": 0,
-                                            "extendNew": 0,
+                                            "extendNew": 30,
                                             "extendRev": 0,
                                             "media_files": [],
                                             "name": "funktionverbbutonlycloze",
@@ -1321,7 +1321,7 @@
                                                         "to live in poverty",
                                                         "Ich esse, als ob ich in Armut leben würde.",
                                                         "Ich esse, als ob ich arm leben würde.",
-                                                        ""
+                                                        "in Armut ___"
                                                     ],
                                                     "guid": "eP-/q-]e7h",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1486,7 +1486,7 @@
                                                     "fields": [
                                                         "<b>zur Diskussion stellen/stehen</b>",
                                                         "über etwas diskutieren",
-                                                        "",
+                                                        "<span style=\"color: rgb(38, 81, 128); background-color: rgb(255, 255, 255);\"><a href=\"https://www.linguee.com/english-german/translation/be+under+consideration.html\">be under consideration</a>&nbsp;<span style=\"color: rgb(136, 136, 136); font-style: italic;\">v</span></span><span style=\"color: rgb(51, 51, 51); font-style: italic; background-color: rgb(255, 255, 255);\">&nbsp;</span><span style=\"color: rgb(136, 136, 136); font-style: italic; background-color: rgb(255, 255, 255);\">(<span style=\"color: rgb(38, 81, 128); font-style: normal;\"><a href=\"https://www.linguee.com/english-german/translation/was.html\">was</a></span>&nbsp;or&nbsp;<span style=\"color: rgb(38, 81, 128); font-style: normal;\"><a href=\"https://www.linguee.com/english-german/translation/were.html\">were</a></span>,&nbsp;<span style=\"color: rgb(38, 81, 128); font-style: normal;\"><a href=\"https://www.linguee.com/english-german/translation/been.html\">been</a></span>)</span>",
                                                         "",
                                                         "",
                                                         "<b>zur Diskussion ___</b>"
@@ -1531,7 +1531,7 @@
                                                         "",
                                                         "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
                                                         "",
-                                                        "<b>Eindruck machen</b> auf ___"
+                                                        "<b>Eindruck ___</b>&nbsp;auf jemandem"
                                                     ],
                                                     "guid": "iFR8X;I;p>",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1559,7 +1559,7 @@
                                                         "",
                                                         "1. Ich habe eine Entscheidung getroffen.",
                                                         "1. Ich habe mich entschieden.",
-                                                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung ___</b>"
+                                                        "1.<b> eine Entscheidung ___</b><br>2. <b>zu einer Entscheidung ___</b>"
                                                     ],
                                                     "guid": "nos~$l%/[S",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1626,8 +1626,8 @@
                                                     "fields": [
                                                         "etwas <b>zur Folge haben</b>",
                                                         "folgen aus etwas",
-                                                        "",
-                                                        "",
+                                                        "to result in something",
+                                                        "<span style=\"color: rgb(51, 51, 51); background-color: rgb(248, 248, 248);\">Die Aussage des Politikers hatte öffentliche Kritik zur Folge.</span>",
                                                         "",
                                                         "etwas <b>zur Folge ___</b>"
                                                     ],
@@ -1685,7 +1685,7 @@
                                                         "to be possible, considered",
                                                         "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
                                                         "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!",
-                                                        ""
+                                                        "<b>in Frage ___</b>"
                                                     ],
                                                     "guid": "iNqIerz_b$",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1699,7 +1699,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "jemandem&nbsp;<b>Gesellschaft ___</b>"
                                                     ],
                                                     "guid": "wx?`rBMT4C",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1783,7 +1783,7 @@
                                                         "to need to accept (something negative)",
                                                         "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
                                                         "Ich muss akzeptieren, dass ich mich verspäten werde.",
-                                                        ""
+                                                        "etwas&nbsp;<b>in Kauf ___</b>"
                                                     ],
                                                     "guid": "EG>EZS4PqT",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1811,7 +1811,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über ___"
+                                                        "<b>sich </b>(Dat.) <b>im klaren ___&nbsp;</b>über etwas"
                                                     ],
                                                     "guid": "rBJP7ZcqN5",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1836,7 +1836,7 @@
                                                     "fields": [
                                                         "<b>in Kraft treten</b>",
                                                         "ein Gesetz wird gültig",
-                                                        "to come into force",
+                                                        "to come into force (to come into effect)",
                                                         "Das Gesetz tritt sofort in Kraft.",
                                                         "Das Gesetz ist sofort gültig.",
                                                         "<b>in Kraft ___</b>"
@@ -1853,7 +1853,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "jemandem&nbsp;<b>einen Kuss ___</b>"
                                                     ],
                                                     "guid": "c>.|:9x7+i",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1867,7 +1867,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "<b>sich&nbsp;</b>(Akk.)<b>&nbsp;in die Lage von jemandem ____</b>"
                                                     ],
                                                     "guid": "c|bOs){]yD",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1909,7 +1909,7 @@
                                                         "",
                                                         "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
                                                         "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren.",
-                                                        ""
+                                                        "<b>sich Mühe ___</b>"
                                                     ],
                                                     "guid": "MVY[=rHpFl",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1937,7 +1937,7 @@
                                                         "",
                                                         "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
                                                         "",
-                                                        ""
+                                                        "<b>eine Nachricht ___&nbsp;</b>von jemandem"
                                                     ],
                                                     "guid": "Lhpn7Cp@fs",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2049,7 +2049,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "<b>Rücksicht ___ auf&nbsp;</b>jemanden/etwas"
                                                     ],
                                                     "guid": "b|uGB5Xls&",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2077,7 +2077,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Stellung nehmen </b>zu ___"
+                                                        "<b>Stellung ___&nbsp;</b>zu etwas"
                                                     ],
                                                     "guid": "mx1;wF/5#X",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2133,7 +2133,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>einen Unterschied machen </b>(zwischen ___"
+                                                        "<b>einen Unterschied ___&nbsp;</b>(zwischen etwas)"
                                                     ],
                                                     "guid": "I88=BT1{:k",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2203,7 +2203,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        "<b>Verständnis haben </b>fúr ___"
+                                                        "<b>Verständnis ___&nbsp;</b>fúr jemandem/etwas"
                                                     ],
                                                     "guid": "zzC:D+DZ)(",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2245,7 +2245,7 @@
                                                         "",
                                                         "",
                                                         "",
-                                                        ""
+                                                        "sich (Akk.)&nbsp;<b>zu Wort ___</b>"
                                                     ],
                                                     "guid": "Kdr)zlTR2p",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2385,7 +2385,7 @@
                                                         "to make a mistake",
                                                         "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
                                                         "",
-                                                        ""
+                                                        "einen Fehler ___"
                                                     ],
                                                     "guid": "J`7G*)u3Q}",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2399,7 +2399,7 @@
                                                         "to reach an agreement",
                                                         "Sie treffen eine Vereinbarung, um den Preis.",
                                                         "Sie vereinbaren den Preis.",
-                                                        ""
+                                                        "eine Vereinbarung ___"
                                                     ],
                                                     "guid": "ut%9;jXG6S",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2413,7 +2413,7 @@
                                                         "to take a trip",
                                                         "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
                                                         "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>.",
-                                                        ""
+                                                        "einen Ausflug ___"
                                                     ],
                                                     "guid": "p|+>5FxYQ;",
                                                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
