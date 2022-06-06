@@ -4,6 +4,1499 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "0a6bcb06-e59e-11ec-9513-f109757a3b3a",
+            "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Feste Präpositionen",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ändern an +Dat.",
+                        "ändern",
+                        "an",
+                        "Dat.",
+                        "??",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "N<TkTZyXz!",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "arbeiten an +Dat.",
+                        "arbeiten",
+                        "an",
+                        "Dat.",
+                        "to work (on)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "o>|inwnhKO",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "schreiben an +Dat.",
+                        "schreiben",
+                        "an",
+                        "Dat.",
+                        "to write a work [z.B. Doktorarbeit]",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "y(p#Mf-PD,",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "erkennen an +Dat.",
+                        "erkennen",
+                        "an",
+                        "Dat.",
+                        "to recognize (by)",
+                        "Er erkannte an meiner Reaktion, dass ich verstanden hatte.",
+                        "He could tell by my reaction that I had understood.",
+                        "",
+                        "S. 52, Wiktionary"
+                    ],
+                    "guid": "p^p{C.qJm.",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "interessiert sein an +Dat.",
+                        "interessiert sein",
+                        "an",
+                        "Dat.",
+                        "to be interested (in)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "l*{MZ}vx@n",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "leiden an +Dat.",
+                        "leiden",
+                        "an",
+                        "Dat.",
+                        "to be afflicted (with), to suffer (from)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "J.VVVviQ_:",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "teilnehmen an +Dat.",
+                        "teilnehmen",
+                        "an",
+                        "Dat.",
+                        "to participate (in), attend",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "DnBi/&xb{b",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "zweifeln an +Dat.",
+                        "zweifeln",
+                        "an",
+                        "Dat.",
+                        "to doubt",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "lI`VW}]f2X",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "denken an +Akk.",
+                        "denken",
+                        "an",
+                        "Akk.",
+                        "to keep in mind, to think (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "MOrP*rSk:>",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich erinnern an +Akk.",
+                        "sich erinnern",
+                        "an",
+                        "Akk.",
+                        "to remember, recall, look back (on)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "IsjQ0#.>Y|",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gewöhnen an +Akk.",
+                        "gewöhnen",
+                        "an",
+                        "Akk.",
+                        "to grow accustomed (to), adapt (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "jC)U[hpQwg",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "glauben an +Akk.",
+                        "glauben",
+                        "an",
+                        "Akk.",
+                        "to believe (in), trust (in)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "s|sU.^tDgx",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "schreiben an +Akk.",
+                        "schreiben",
+                        "an",
+                        "Akk.",
+                        "to write (on) [literal]",
+                        "Er schrieb ein paar Zahlen an die Tafel.",
+                        "He wrote a few numbers on the board.",
+                        "",
+                        "S. 52, Wiktionary"
+                    ],
+                    "guid": "O^#_6oB^}0",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich wenden an +Akk.",
+                        "sich wenden",
+                        "an",
+                        "Akk.",
+                        "to reach out (to) / to consult / to appeal (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "he|V~T3txZ",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "achten auf +Akk.",
+                        "achten",
+                        "auf",
+                        "Akk.",
+                        "to pay attention (to), look out (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "lWxT)V(=q?",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "antworten auf +Akk.",
+                        "antworten",
+                        "auf",
+                        "Akk.",
+                        "to answer, respond (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "FgY|Ql~GJ}",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "aufpassen auf +Akk.",
+                        "aufpassen",
+                        "auf",
+                        "Akk.",
+                        "to look out (for), to attend (to), to keep an eye (on)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "EkD=OXc1]b",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich beziehen auf +Akk.",
+                        "sich beziehen",
+                        "auf",
+                        "Akk.",
+                        "to refer (to), to relate (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "Ocg>JYX2$D",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich freuen auf +Akk.",
+                        "sich freuen",
+                        "auf",
+                        "Akk.",
+                        "to look forward (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "Pq89,-|zjK",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ankommen auf +Akk.",
+                        "ankommen",
+                        "auf",
+                        "Akk.",
+                        "to depend (on)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "opVHGKS9l5",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich verlassen auf +Akk.",
+                        "sich verlassen",
+                        "auf",
+                        "Akk.",
+                        "to rely (on)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "yF%~,YTY-1",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "verzichten auf +Akk.",
+                        "verzichten",
+                        "auf",
+                        "Akk.",
+                        "to abstain (from) / to renounce",
+                        "Ich versuche immer noch, auf Sudoku-Rätsel zu verzichten.",
+                        "I continue to try to abstain from sudoku puzzles.",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "g|YBmF0;-3",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich vorbereiten auf +Akk.",
+                        "sich vorbereiten",
+                        "auf",
+                        "Akk.",
+                        "to prepare (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "B_c4AV6-:)",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "warten auf +Akk.",
+                        "warten",
+                        "auf",
+                        "Akk.",
+                        "to wait (for/on)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "D57[E*c:<*",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eifersüchtig sein auf +Akk.",
+                        "eifersüchtig sein",
+                        "auf",
+                        "Akk.",
+                        "to be jealous (of)",
+                        "",
+                        "",
+                        "neidisch sein (auf)",
+                        "S. 52"
+                    ],
+                    "guid": "P0EP.U%4#N",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "neidisch sein auf +Akk.",
+                        "neidisch sein",
+                        "auf",
+                        "Akk.",
+                        "to be envious (of)",
+                        "",
+                        "",
+                        "eifersüchtig sein (auf)",
+                        "S. 52"
+                    ],
+                    "guid": "n$IKfb-,77",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "stolz sein auf +Akk.",
+                        "stolz sein",
+                        "auf",
+                        "Akk.",
+                        "to be proud (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "Da~eHW53cp",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich bedanken bei +Dat.",
+                        "sich bedanken",
+                        "bei",
+                        "Dat.",
+                        "to thank someone",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "m$r^A]u>3W",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bleiben bei +Dat.",
+                        "bleiben",
+                        "bei",
+                        "Dat.",
+                        "to stick (to), keep (at), remain (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "Nbr8g<K{_Y",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich entschuldigen bei +Dat.",
+                        "sich entschuldigen",
+                        "bei",
+                        "Dat.",
+                        "to apologize (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "J>ieY(_2X$",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "danken für +Akk.",
+                        "danken",
+                        "für",
+                        "Akk.",
+                        "to thank (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "thwENjPyi+",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich entscheiden für +Akk.",
+                        "sich entscheiden",
+                        "für",
+                        "Akk.",
+                        "to decide (on) / to settle (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "g+!:W1_qS<",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich entschuldigen für +Akk.",
+                        "sich entschuldigen",
+                        "für",
+                        "Akk.",
+                        "to apologize (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "M4FcXepap2",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich interessieren für +Akk.",
+                        "sich interessieren",
+                        "für",
+                        "Akk.",
+                        "to be interested (in)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "jL0%9J&PMr",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sein für +Akk.",
+                        "sein",
+                        "für",
+                        "Akk.",
+                        "to be in favor (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "dS#d8FVj<V",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sorgen für +Akk.",
+                        "sorgen",
+                        "für",
+                        "Akk.",
+                        "to cater (for) / to take care (of) / to provide (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "s~<d/,(02r",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "geeignet sein für +Akk.",
+                        "geeignet sein",
+                        "für",
+                        "Akk.",
+                        "to be suitable (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 52"
+                    ],
+                    "guid": "h,<DK|12is",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gut sein für +Akk.",
+                        "gut sein",
+                        "für",
+                        "Akk.",
+                        "to be good (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "e,.[U:R8rm",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "schlecht sein für +Akk.",
+                        "schlecht sein",
+                        "für",
+                        "Akk.",
+                        "to be bad (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "QeLyVHLjix",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nützlich sein für +Akk.",
+                        "nützlich sein",
+                        "für",
+                        "Akk.",
+                        "to be beneficial (to) / to be useful (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "rgin<{>dF`",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "wichtig sein für +Akk.",
+                        "wichtig sein",
+                        "für",
+                        "Akk.",
+                        "to be important (to/for) / to concern",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "uyTS{PC)PF",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "zuständig sein für +Akk.",
+                        "zuständig sein",
+                        "für",
+                        "Akk.",
+                        "to be responsible, appropriate (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "cY@;hIuV<|",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "stimmen für +Akk.",
+                        "stimmen",
+                        "für",
+                        "Akk.",
+                        "to vote (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "CxyUc?4W{j",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "protestieren gegen +Akk.",
+                        "protestieren",
+                        "gegen",
+                        "Akk.",
+                        "to protest (against)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "jtG~:FGP]?",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "stimmen gegen +Akk.",
+                        "stimmen",
+                        "gegen",
+                        "Akk.",
+                        "to vote (against)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "k`}bP2H[*(",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "allergisch sein gegen +Akk.",
+                        "allergisch sein",
+                        "gegen",
+                        "Akk.",
+                        "too be allergic (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "s,bO%ESTor",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sein gegen +Akk.",
+                        "sein",
+                        "gegen",
+                        "Akk.",
+                        "to be opposed (to)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "pP?^oV[xUm",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich entscheiden gegen +Akk.",
+                        "sich entscheiden",
+                        "gegen",
+                        "Akk.",
+                        "to decide (against)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "E}j1AG~ay8",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich verlieben in +Akk.",
+                        "sich verlieben",
+                        "in",
+                        "Akk.",
+                        "to fall (in) love (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "o1iFMOgaJ3",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "verliebt sein in +Akk.",
+                        "verliebt sein",
+                        "in",
+                        "Akk.",
+                        "to be (in) love (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "D(:*n;MfiB",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "anfangen mit +Dat.",
+                        "anfangen",
+                        "mit",
+                        "Dat.",
+                        "to begin (with)",
+                        "",
+                        "",
+                        "beginnen (mit)",
+                        "S. 53"
+                    ],
+                    "guid": "kdXhfz:9}c",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "beginnen mit +Dat.",
+                        "beginnen",
+                        "mit",
+                        "Dat.",
+                        "to begin (with)",
+                        "",
+                        "",
+                        "angfangen (mit)",
+                        "S. 53"
+                    ],
+                    "guid": "vhGf~dV:b%",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "aufhören mit +Dat.",
+                        "aufhören",
+                        "mit",
+                        "Dat.",
+                        "to cease (from), to quit",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "rL|dEwmYs5",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich beschäftigen mit +Dat.",
+                        "sich beschäftigen",
+                        "mit",
+                        "Dat.",
+                        "to occupy oneself (with), absorb oneself (in)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "p9>MOkDsNR",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "reden mit +Dat.",
+                        "reden",
+                        "mit",
+                        "Dat.",
+                        "to talk (to)",
+                        "",
+                        "",
+                        "sprechen (mit)",
+                        "S. 53"
+                    ],
+                    "guid": "NH9yuaizd!",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sprechen mit +Dat.",
+                        "sprechen",
+                        "mit",
+                        "Dat.",
+                        "to speak (to)",
+                        "",
+                        "",
+                        "reden (mit)",
+                        "S. 53"
+                    ],
+                    "guid": "f*~]B*Jk`x",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "streiten mit +Dat.",
+                        "streiten",
+                        "mit",
+                        "Dat.",
+                        "to argue (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "sO^_W<3#@z",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich unterhalten mit +Dat.",
+                        "sich unterhalten",
+                        "mit",
+                        "Dat.",
+                        "to converse (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "G:Q5a><H:!",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "vergleichen mit +Dat.",
+                        "vergleichen",
+                        "mit",
+                        "Dat.",
+                        "to compare (to/with) / to check (against)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "imN&p(JUz,",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich verstehen mit +Dat.",
+                        "sich verstehen",
+                        "mit",
+                        "Dat.",
+                        "to get along (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "E,09p+T;Uj",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "befreundet sein mit +Dat.",
+                        "befreundet sein",
+                        "mit",
+                        "Dat.",
+                        "to be close friends (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "lacM$Pfc3+",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einverstanden sein mit +Dat.",
+                        "einverstanden sein",
+                        "mit",
+                        "Dat.",
+                        "to agree, concur (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "bD65nw#`+m",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fertig sein mit +Dat.",
+                        "fertig sein",
+                        "mit",
+                        "Dat.",
+                        "to be done (with) / to be done doing",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "Ns,6OU$<%N",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "zufrieden sein mit +Dat.",
+                        "zufrieden sein",
+                        "mit",
+                        "Dat.",
+                        "to be pleased, happy (with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "BV0O/!;Z-m",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fragen nach +Dat.",
+                        "fragen",
+                        "nach",
+                        "Dat.",
+                        "to inquire (of) / to ask (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "O(8m,f2[PD",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich erkundigen nach +Dat.",
+                        "sich erkundigen",
+                        "nach",
+                        "Dat.",
+                        "to inquire (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "l[*{Eo?CC4",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "riechen nach +Dat.",
+                        "riechen",
+                        "nach",
+                        "Dat.",
+                        "to smell (of)",
+                        "Es reicht hier nach verbrannter Milch.",
+                        "",
+                        "",
+                        "S. 53, S.45/46"
+                    ],
+                    "guid": "pv:2n.=eGI",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "schmecken nach +Dat.",
+                        "schmecken",
+                        "nach",
+                        "Dat.",
+                        "to taste (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "i3l4}uI.b#",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich sehnen nach +Dat.",
+                        "sich sehnen",
+                        "nach",
+                        "Dat.",
+                        "to long/yearn (for)",
+                        "Sie sehnt sich oft nach ihrer Familie.",
+                        "",
+                        "",
+                        "S. 53, S.44/1"
+                    ],
+                    "guid": "I%X:R-FBN<",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich ärgern über +Akk.",
+                        "sich ärgern",
+                        "über",
+                        "Akk.",
+                        "to be annoyed (about/at/with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "Ql;xg:ZifU",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich aufregen über +Akk.",
+                        "sich aufregen",
+                        "über",
+                        "Akk.",
+                        "to trouble, become upset (over)",
+                        "Ich habe mich sehr über die Nachricht aufgeregt. ",
+                        "",
+                        "",
+                        "S. 53, S.44/4"
+                    ],
+                    "guid": "GPcm)>I)4>",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "berichten über +Akk.",
+                        "berichten",
+                        "über",
+                        "Akk.",
+                        "to cover / to give an account (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "QnH3L9w+Uw",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich beschweren über +Akk.",
+                        "sich beschweren",
+                        "über",
+                        "Akk.",
+                        "to complain (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "qh&.8{sJn0",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "diskutieren über +Akk.",
+                        "diskutieren",
+                        "über",
+                        "Akk.",
+                        "to discuss",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "crf,+Ej,du",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "streiten über +Akk.",
+                        "streiten",
+                        "über",
+                        "Akk.",
+                        "to argue (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "ho5Kf=uwvx",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich freuen über +Akk.",
+                        "sich freuen",
+                        "über",
+                        "Akk.",
+                        "to be pleased (about/with)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "n1V~Rg972c",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich informieren über +Akk.",
+                        "sich informieren",
+                        "über",
+                        "Akk.",
+                        "to catch up (on)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "gv]^,;pGX/",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "lachen über +Akk.",
+                        "lachen",
+                        "über",
+                        "Akk.",
+                        "to laugh (about/at)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "IK7@FJicC/",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nachdenken über +Akk.",
+                        "nachdenken",
+                        "über",
+                        "Akk.",
+                        "to reflect (on) / to consider",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "y97mW7D60L",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "froh sein über +Akk.",
+                        "froh sein",
+                        "über",
+                        "Akk.",
+                        "to be glad (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "tud:6r#sXs",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "glücklich sein über +Akk.",
+                        "glücklich sein",
+                        "über",
+                        "Akk.",
+                        "to rejoice (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "Oioq|O$;_G",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "traurig sein über +Akk.",
+                        "traurig sein",
+                        "über",
+                        "Akk.",
+                        "to be upset (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "c(#)]K+|Le",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich bemühen um +Akk.",
+                        "sich bemühen",
+                        "um",
+                        "Akk.",
+                        "to strive (towards) / to exert oneself (for)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "Gh/O*rr<<#",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bitten um +Akk.",
+                        "bitten",
+                        "um",
+                        "Akk.",
+                        "to ask (for) / to request",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "r7Crbx{y=7",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "es geht um +Akk.",
+                        "es geht",
+                        "um",
+                        "Akk.",
+                        "to be (about)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "Noo8BKc_gm",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "es handelt sich um +Akk.",
+                        "es handelt sich",
+                        "um",
+                        "Akk.",
+                        "it is a question (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "pPuh$9K+?>",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich kümmern um +Akk.",
+                        "sich kümmern",
+                        "um",
+                        "Akk.",
+                        "to take care (of)",
+                        "",
+                        "",
+                        "",
+                        "S. 53"
+                    ],
+                    "guid": "o,>.^3+x?s",
+                    "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "9a3fee16-dde1-11ec-a646-9551df25e0c7",
             "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
             "desc": "",
@@ -105,7 +1598,7 @@
                         "to live in poverty",
                         "Ich esse, als ob ich in Armut leben würde.",
                         "Ich esse, als ob ich arm leben würde.",
-                        ""
+                        "in Armut ___"
                     ],
                     "guid": "eP-/q-]e7h",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -156,34 +1649,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas <b>zur Auswahl stellen</b>",
-                        "auswählen können",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>zur Auswahl ___</b>"
-                    ],
-                    "guid": "jXW/yxEO7D",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Wahl stellen</b>",
-                        "wählen können",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>zur Wahl ___</b>"
-                    ],
-                    "guid": "eO0BlHT7Oh",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<b>eine Auswahl treffen</b>",
                         "auswählen",
                         "to make a selection",
@@ -192,244 +1657,6 @@
                         "<b>eine Auswahl ___</b>"
                     ],
                     "guid": "DtZX?T>pbd",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Bad nehmen</b>",
-                        "baden",
-                        "",
-                        "",
-                        "",
-                        "<b>ein Bad ___</b>"
-                    ],
-                    "guid": "Q`]8,=rM~A",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "eine Beobachtung machen",
-                        "jemanden/etwas beobachten",
-                        "",
-                        "",
-                        "",
-                        "eine Beobachtung ___"
-                    ],
-                    "guid": "g#en@O4?=*",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>in Betracht ziehen</b> (oder) etwas <b>in Erwägung ziehen</b>",
-                        "etwas erwägen",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>in Betracht ___</b> (oder) etwas <b>in Erwägung ___</b>"
-                    ],
-                    "guid": "c-e$-k1:#a",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in/außer Betrieb sein</b>",
-                        "(nicht) funktionieren",
-                        "",
-                        "",
-                        "",
-                        "<b>in/außer Betrieb ___</b>"
-                    ],
-                    "guid": "CYnB,Ru0Fq",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "auf jemanden/etwas <b>Bezug nehmen</b>",
-                        "sich auf jemanden/etwas beziehen",
-                        "",
-                        "",
-                        "",
-                        "auf jemanden/etwas <b>Bezug ___</b>"
-                    ],
-                    "guid": "Mx{C6kpu8R",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>zur Diskussion stellen/stehen</b>",
-                        "über etwas diskutieren",
-                        "",
-                        "",
-                        "",
-                        "<b>zur Diskussion ___</b>"
-                    ],
-                    "guid": "Rd)Elf2:92",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemanden <b>unter Druck setzen</b>",
-                        "jemanden bedrängen",
-                        "",
-                        "",
-                        "",
-                        "jemanden <b>unter Druck ___</b>"
-                    ],
-                    "guid": "M85jDA[PuH",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>unter Druck stehen</b>",
-                        "im Stress sein",
-                        "",
-                        "",
-                        "",
-                        "<b>unter Druck ___</b>"
-                    ],
-                    "guid": "s*}bTT]P~V",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Eindruck machen</b> auf jemanden",
-                        "jemanden beeindrucken",
-                        "",
-                        "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
-                        "",
-                        "<b>Eindruck machen</b> auf ___"
-                    ],
-                    "guid": "iFR8X;I;p>",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zu Ende bringen</b>",
-                        "etwas beenden",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>zu Ende ___</b>"
-                    ],
-                    "guid": "G#Oy!c<=tq",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung kommen</b>",
-                        "sich entscheiden",
-                        "",
-                        "1. Ich habe eine Entscheidung getroffen.",
-                        "1. Ich habe mich entschieden.",
-                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung ___</b>"
-                    ],
-                    "guid": "nos~$l%/[S",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Entschluss fassen</b>",
-                        "sich entschließen",
-                        "",
-                        "Ich habe einen Entschluss gefasst.",
-                        "Ich habe mich entschlossen.",
-                        "<b>einen Entschluss ___</b>"
-                    ],
-                    "guid": "c>E9z(X$^U",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in Erfüllung gehen</b>",
-                        "erfüllt werden",
-                        "",
-                        "",
-                        "",
-                        "<b>in Erfüllung ___</b>"
-                    ],
-                    "guid": "IRN}W3kA-J",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>die Erlaubnis geben</b>",
-                        "jemandem etwas erlauben",
-                        "",
-                        "",
-                        "",
-                        "jemandem <b>die Erlaubnis ___</b>"
-                    ],
-                    "guid": "cgSYxJ1{f3",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "die Fähigkeit besitzen/haben",
-                        "fähig sein",
-                        "",
-                        "",
-                        "",
-                        "die Fähigkeit ___"
-                    ],
-                    "guid": "u$3vYAp:TH",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Folge haben</b>",
-                        "folgen aus etwas",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>zur Folge ___</b>"
-                    ],
-                    "guid": "x?HQznw>BI",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Foto machen</b>",
-                        "fotografieren",
-                        "",
-                        "",
-                        "",
-                        "<b>ein Foto ___</b>"
-                    ],
-                    "guid": "m5bsAFimw!",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
                 },
@@ -469,7 +1696,7 @@
                         "to be possible, considered",
                         "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
                         "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!",
-                        ""
+                        "<b>in Frage ___</b>"
                     ],
                     "guid": "iNqIerz_b$",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -480,82 +1707,12 @@
                     "fields": [
                         "jemandem <b>Gesellschaft leisten</b>",
                         "bei jemandem sein, damit er nicht alleine ist",
+                        "to keep someone company",
                         "",
                         "",
-                        "",
-                        ""
+                        "jemandem&nbsp;<b>Gesellschaft ___</b>"
                     ],
                     "guid": "wx?`rBMT4C",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Gespräch führen </b>mit jemandem",
-                        "mit jemandem sprechen",
-                        "",
-                        "",
-                        "",
-                        "<b>ein Gespräch ___ </b>mit jemandem"
-                    ],
-                    "guid": "mP6mS/0Q1#",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>Hilfe leisten</b>",
-                        "jemandem helfen",
-                        "",
-                        "Ich leiste keine Hilfe.",
-                        "Ich helfe nicht.",
-                        "jemandem <b>Hilfe ___</b>"
-                    ],
-                    "guid": "lr}oS$9o&y",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>die Hoffnung haben</b>",
-                        "hoffen",
-                        "",
-                        "",
-                        "",
-                        "<b>die Hoffnung ___</b>"
-                    ],
-                    "guid": "bIYl-V=5w3",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>die Initiative ergreifen</b>",
-                        "etwas mit Entschlusskraft beginnen",
-                        "",
-                        "",
-                        "",
-                        "<b>die Initiative ___</b>"
-                    ],
-                    "guid": "I1MA}^c`V*",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>im Irrtum sein</b>",
-                        "sich irren",
-                        "",
-                        "",
-                        "",
-                        "<b>im Irrtum ___</b>"
-                    ],
-                    "guid": "C[@Kphghi.",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
                 },
@@ -567,51 +1724,9 @@
                         "to need to accept (something negative)",
                         "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
                         "Ich muss akzeptieren, dass ich mich verspäten werde.",
-                        ""
+                        "etwas&nbsp;<b>in Kauf ___</b>"
                     ],
                     "guid": "EG>EZS4PqT",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Kenntnis nehmen</b>",
-                        "etwas wahrnehmen",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>zur Kenntnis ___</b>"
-                    ],
-                    "guid": "zZ?l%;_2l%",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über etwas",
-                        "sich über etwas bewusst sein",
-                        "",
-                        "",
-                        "",
-                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über ___"
-                    ],
-                    "guid": "rBJP7ZcqN5",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Kompromiss schließen</b>",
-                        "sich durch Verhandlung einigen",
-                        "",
-                        "",
-                        "",
-                        "<b>einen Kompromiss ___</b>"
-                    ],
-                    "guid": "x%fyuIC;<b",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
                 },
@@ -634,10 +1749,10 @@
                     "fields": [
                         "jemandem <b>einen Kuss geben</b>",
                         "jemanden (freundschaftlich, flüchtig) küssen",
+                        "to give someone a kiss",
                         "",
                         "",
-                        "",
-                        ""
+                        "jemandem&nbsp;<b>einen Kuss ___</b>"
                     ],
                     "guid": "c>.|:9x7+i",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -648,10 +1763,10 @@
                     "fields": [
                         "<b>sich </b>(Akk.)<b> in die Lage von jemandem versetzen</b>",
                         "sich vorstellen, man wäre diese Person",
+                        "to put yourself in someone's shoes",
                         "",
                         "",
-                        "",
-                        ""
+                        "<b>sich&nbsp;</b>(Akk.)<b>&nbsp;in die Lage von jemandem ___</b>"
                     ],
                     "guid": "c|bOs){]yD",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -660,40 +1775,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>auf dem laufenden sein</b>",
-                        "aktuell informiert sein",
-                        "",
-                        "",
-                        "",
-                        "<b>auf dem laufenden ___</b>"
-                    ],
-                    "guid": "b>z%980]jU",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>in Mode sein</b>",
-                        "modisch/modern/aktuell sein",
-                        "",
-                        "",
-                        "",
-                        "<b>in Mode ___</b>"
-                    ],
-                    "guid": "my:R=.G(/%",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<b>sich Mühe geben</b>",
                         "sich bemühen",
-                        "",
+                        "to try hard / to exert oneself",
                         "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
                         "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren.",
-                        ""
+                        "<b>sich Mühe ___</b>"
                     ],
                     "guid": "MVY[=rHpFl",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -702,26 +1789,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>den Mut haben</b>",
-                        "mutig sein",
-                        "",
-                        "",
-                        "",
-                        "<b>den Mut ___</b>"
-                    ],
-                    "guid": "F=05e1?5Qt",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<b>eine Nachricht erhalten </b>von jemandem",
                         "benachrichtigt werden",
-                        "",
+                        "to receive a message from someone",
                         "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
                         "",
-                        ""
+                        "<b>eine Nachricht ___&nbsp;</b>von jemandem"
                     ],
                     "guid": "Lhpn7Cp@fs",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -730,110 +1803,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "etwas <b>in Ordnung bringen</b>",
-                        "etwas ordnen",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>in Ordnung ___</b>"
-                    ],
-                    "guid": "b+}JRlmoMs",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Platz nehmen</b>",
-                        "sich setzen",
-                        "",
-                        "",
-                        "",
-                        "<b>Platz ___</b>"
-                    ],
-                    "guid": "dl8+U3~9;i",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Protokoll führen</b>",
-                        "protokollieren",
-                        "",
-                        "",
-                        "",
-                        "<b>Protokoll ___</b>"
-                    ],
-                    "guid": "AD!jy4{F9h",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>einen Rat geben</b>",
-                        "raten",
-                        "",
-                        "",
-                        "",
-                        "jemandem <b>einen Rat ___</b>"
-                    ],
-                    "guid": "wKxVZgAf}=",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem etwas <b>in Rechnung stellen</b>",
-                        "jemandem etwas berechnen",
-                        "",
-                        "",
-                        "",
-                        "jemandem etwas <b>in Rechnung ___</b>"
-                    ],
-                    "guid": "p(sg~Xy|>6",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>im Recht sein</b>",
-                        "recht haben",
-                        "",
-                        "",
-                        "",
-                        "<b>im Recht ___</b>"
-                    ],
-                    "guid": "cy)ERRb]F@",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>eine Rede halten</b>",
-                        "vor Publikum reden",
-                        "",
-                        "",
-                        "",
-                        "<b>eine Rede ___</b>"
-                    ],
-                    "guid": "hwhM:@P$6I",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<b>Rücksicht nehmen auf </b>jemanden/etwas",
                         "jemanden/etwas berücksichtigen",
+                        "to be considerate of someone/something",
                         "",
                         "",
-                        "",
-                        ""
+                        "<b>Rücksicht nehmen ___&nbsp;</b>jemanden/etwas"
                     ],
                     "guid": "b|uGB5Xls&",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -842,168 +1817,14 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>sich </b>(Dat.) <b>Sorgen machen um jemanden/etwas</b>",
-                        "sich sorgen um jemanden/etwas",
-                        "",
-                        "",
-                        "",
-                        "<b>sich </b>(Dat.) <b>Sorgen ___ um jemandem/etwas</b>"
-                    ],
-                    "guid": "xx0Vui>.9W",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Stellung nehmen </b>zu etwas",
-                        "die eigene Position zu einem Thema darlegen",
-                        "",
-                        "",
-                        "",
-                        "<b>Stellung nehmen </b>zu ___"
-                    ],
-                    "guid": "mx1;wF/5#X",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>im Sterben liegen</b>",
-                        "sterben",
-                        "",
-                        "",
-                        "",
-                        "<b>im Sterben ___</b>"
-                    ],
-                    "guid": "i`JW<8vily",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>zur Überzeugung gelangen/kommen</b>",
-                        "sich eine eigene Meinung gebildet haben",
-                        "",
-                        "",
-                        "",
-                        "<b>zur Überzeugung ___</b>"
-                    ],
-                    "guid": "D6_*la%P!}",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "jemandem <b>Unterricht erteilen/geben/nehmen/bekommen</b>",
-                        "jemanden unterrichten",
-                        "",
-                        "",
-                        "",
-                        "jemandem <b>Unterricht ___</b>"
-                    ],
-                    "guid": "kM?%zEcj1$",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>einen Unterschied machen </b>(zwischen etwas)",
-                        "Zwischen etwas unterscheiden",
-                        "",
-                        "",
-                        "",
-                        "<b>einen Unterschied machen </b>(zwischen ___"
-                    ],
-                    "guid": "I88=BT1{:k",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<b>sich </b>(Akk.) <b>in Verbindung setzen mit </b>jemandem",
                         "mit jemandem Kontakt aufnehmen",
+                        "to get in contact with someone",
                         "",
                         "",
-                        "",
-                        ""
+                        "<b>sich&nbsp;</b>(Akk.)&nbsp;<b>in Verbindung ___ mit&nbsp;</b>jemandem"
                     ],
                     "guid": "kT4WOOC_f*",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>ein Verbrechen begehen</b>",
-                        "etwas Illegales tun",
-                        "",
-                        "",
-                        "",
-                        "<b>ein Verbrechen ___</b>"
-                    ],
-                    "guid": "sP~0lS6|B4",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "etwas <b>zur Verfügung haben/stellen</b>",
-                        "etwas fúr andere bereitstellen/verfügbar",
-                        "",
-                        "",
-                        "",
-                        "etwas <b>zur Verfügung ___</b>"
-                    ],
-                    "guid": "vWFm#l%kG4",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sein Versprechen geben/halten/brechen</b>",
-                        "jemandem etwas versprechen",
-                        "",
-                        "",
-                        "",
-                        "<b>sein Versprechen ___</b>"
-                    ],
-                    "guid": "Hoh~pTCm<C",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Verständnis haben </b>fúr jemanden/etwas",
-                        "jemanden/etwas verstehen",
-                        "",
-                        "",
-                        "",
-                        "<b>Verständnis haben </b>fúr ___"
-                    ],
-                    "guid": "zzC:D+DZ)(",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Vorbereitungen treffen</b>",
-                        "etwas vorbereiten",
-                        "",
-                        "Ich treffe Vorbereitungen für die Reise.",
-                        "Ich bereite die Reise vor.",
-                        "<b>Vorbereitungen ___</b>"
-                    ],
-                    "guid": "wSrbk7V?m7",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
                 },
@@ -1026,40 +1847,12 @@
                     "fields": [
                         "sich (Akk.) <b>zu Wort melden</b>",
                         "sich melden, um etwas zu sagen",
+                        "to make oneself heard / to interject [usually in class, asking a question]",
                         "",
                         "",
-                        "",
-                        ""
+                        "sich (Akk.)&nbsp;<b>zu Wort ___</b>"
                     ],
                     "guid": "Kdr)zlTR2p",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>sich </b>(Dat.) <b>Zeit nehmen</b>",
-                        "Zeit haben für etwas",
-                        "",
-                        "",
-                        "",
-                        "<b>sich </b>(Dat.) <b>Zeit ___</b>"
-                    ],
-                    "guid": "fb9,Cs1-W@",
-                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>die Zusicherung geben/bekommen</b>",
-                        "jemandem etwas zusichern",
-                        "",
-                        "",
-                        "",
-                        "<b>die Zusicherung ___</b>"
-                    ],
-                    "guid": "G$(uiwazV}",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
                 },
@@ -1169,7 +1962,7 @@
                         "to make a mistake",
                         "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
                         "",
-                        ""
+                        "einen Fehler ___"
                     ],
                     "guid": "J`7G*)u3Q}",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1183,7 +1976,7 @@
                         "to reach an agreement",
                         "Sie treffen eine Vereinbarung, um den Preis.",
                         "Sie vereinbaren den Preis.",
-                        ""
+                        "eine Vereinbarung ___"
                     ],
                     "guid": "ut%9;jXG6S",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1197,7 +1990,7 @@
                         "to take a trip",
                         "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
                         "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>.",
-                        ""
+                        "einen Ausflug ___"
                     ],
                     "guid": "p|+>5FxYQ;",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1212,7 +2005,7 @@
             "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
             "desc": "",
             "dyn": 0,
-            "extendNew": 0,
+            "extendNew": 100,
             "extendRev": 0,
             "media_files": [],
             "name": "Funktionsverbgefüge-Cloze",
@@ -1505,7 +2298,7 @@
                         "",
                         "Die Eiskunstläuferin hat starken <b>Eindruck</b> auf die Jury <b>gemacht</b>.",
                         "",
-                        "<b>Eindruck machen</b> auf ___"
+                        "<b>Eindruck </b>___<b> </b>auf jemand"
                     ],
                     "guid": "iFR8X;I;p>",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1533,7 +2326,7 @@
                         "",
                         "1. Ich habe eine Entscheidung getroffen.",
                         "1. Ich habe mich entschieden.",
-                        "1.<b> eine Entscheidung treffen</b><br>2. <b>zu einer Entscheidung ___</b>"
+                        "1.<b> eine Entscheidung ___</b><br>2. <b>zu einer Entscheidung ___</b>"
                     ],
                     "guid": "nos~$l%/[S",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1743,7 +2536,7 @@
                         "",
                         "",
                         "",
-                        "<b>sich </b>(Dat.) <b>im klaren sein </b>über ___"
+                        "<b>sich </b>(Dat.) <b>im klaren </b>___<b> </b>über etwas"
                     ],
                     "guid": "rBJP7ZcqN5",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -1780,12 +2573,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>auf dem laufenden sein</b>",
+                        "<b>auf dem Laufenden sein</b>",
                         "aktuell informiert sein",
                         "",
                         "",
                         "",
-                        "<b>auf dem laufenden ___</b>"
+                        "<b>auf dem Laufenden ___</b>"
                     ],
                     "guid": "b>z%980]jU",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2210,6 +3003,202 @@
                     "guid": "z>$ZC+Wf%_",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "in Armut leben",
+                        "arm leben",
+                        "to live in poverty",
+                        "Ich esse, als ob ich in Armut leben würde.",
+                        "Ich esse, als ob ich arm leben würde.",
+                        "in Armut ___"
+                    ],
+                    "guid": "eP-/q-]e7h",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>in Frage kommen</b>",
+                        "eine Option sein",
+                        "to be possible, considered",
+                        "Dürfen wir Süßigkeiten kaufen? Das kommt nicht in Frage!",
+                        "Dürfen wir Süßigkeiten kaufen? (Nein) Das ist nicht eine Option!",
+                        "<b>in Frage ___</b>"
+                    ],
+                    "guid": "iNqIerz_b$",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "etwas <b>in Kauf nehmen</b>",
+                        "etwas hinnehmen/akzeptieren müssen",
+                        "to need to accept (something negative)",
+                        "<div>\nIch nehme in Kauf, dass ich mich verspäten werde.</div>",
+                        "Ich muss akzeptieren, dass ich mich verspäten werde.",
+                        "etwas&nbsp;<b>in Kauf ___</b>"
+                    ],
+                    "guid": "EG>EZS4PqT",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>sich </b>(Akk.)<b> in die Lage von jemandem versetzen</b>",
+                        "sich vorstellen, man wäre diese Person",
+                        "to put yourself in someone's shoes",
+                        "",
+                        "",
+                        "<b>sich&nbsp;</b>(Akk.)<b>&nbsp;in die Lage von jemandem ___</b>"
+                    ],
+                    "guid": "c|bOs){]yD",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Fehler machen",
+                        "",
+                        "to make a mistake",
+                        "Ich glaube, Sie <b>machen einen </b>großen<b> Fehler</b>!",
+                        "",
+                        "einen Fehler ___"
+                    ],
+                    "guid": "J`7G*)u3Q}",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eine Vereinbarung treffen",
+                        "",
+                        "to reach an agreement",
+                        "Sie treffen eine Vereinbarung, um den Preis.",
+                        "Sie vereinbaren den Preis.",
+                        "eine Vereinbarung ___"
+                    ],
+                    "guid": "ut%9;jXG6S",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Ausflug machen",
+                        "reisen",
+                        "to take a trip",
+                        "Wenn morgen schönes Wetter ist, werden wir <b>einen Ausflug </b><b>machen</b>.",
+                        "Wenn morgen schönes Wetter ist, werden wir <b>reisen</b>.",
+                        "einen Ausflug ___"
+                    ],
+                    "guid": "p|+>5FxYQ;",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "jemandem <b>Gesellschaft leisten</b>",
+                        "bei jemandem sein, damit er nicht alleine ist",
+                        "to keep someone company",
+                        "",
+                        "",
+                        "jemandem&nbsp;<b>Gesellschaft ___</b>"
+                    ],
+                    "guid": "wx?`rBMT4C",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "jemandem <b>einen Kuss geben</b>",
+                        "jemanden (freundschaftlich, flüchtig) küssen",
+                        "to give someone a kiss",
+                        "",
+                        "",
+                        "jemandem&nbsp;<b>einen Kuss ___</b>"
+                    ],
+                    "guid": "c>.|:9x7+i",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>sich Mühe geben</b>",
+                        "sich bemühen",
+                        "to try hard / to exert oneself",
+                        "Politiker sollten <b>sich Mühe geben</b>, internationale Beziehungen zu stabilisieren.",
+                        "Politiker sollten <b>sich bemühen</b>, internationale Beziehungen zu stabilisieren.",
+                        "<b>sich Mühe ___</b>"
+                    ],
+                    "guid": "MVY[=rHpFl",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>eine Nachricht erhalten </b>von jemandem",
+                        "benachrichtigt werden",
+                        "to receive a message from someone",
+                        "<b>Geben </b>Sie sofort <b>Nachricht</b>, wenn etwas passieren sollte!",
+                        "",
+                        "<b>eine Nachricht ___&nbsp;</b>von jemandem"
+                    ],
+                    "guid": "Lhpn7Cp@fs",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>Rücksicht nehmen auf </b>jemanden/etwas",
+                        "jemanden/etwas berücksichtigen",
+                        "to be considerate of someone/something",
+                        "",
+                        "",
+                        "<b>Rücksicht nehmen ___&nbsp;</b>jemanden/etwas"
+                    ],
+                    "guid": "b|uGB5Xls&",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>sich </b>(Akk.) <b>in Verbindung setzen mit </b>jemandem",
+                        "mit jemandem Kontakt aufnehmen",
+                        "to get in contact with someone",
+                        "",
+                        "",
+                        "<b>sich&nbsp;</b>(Akk.)&nbsp;<b>in Verbindung ___ mit&nbsp;</b>jemandem"
+                    ],
+                    "guid": "kT4WOOC_f*",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sich (Akk.) <b>zu Wort melden</b>",
+                        "sich melden, um etwas zu sagen",
+                        "to make oneself heard / to interject [usually in class, asking a question]",
+                        "",
+                        "",
+                        "sich (Akk.)&nbsp;<b>zu Wort ___</b>"
+                    ],
+                    "guid": "Kdr)zlTR2p",
+                    "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
                 }
             ]
         }
@@ -2248,7 +3237,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 0
             },
             "newGatherPriority": 3,
             "newMix": 0,
@@ -2324,8 +3313,143 @@
     "extendNew": 10,
     "extendRev": 0,
     "media_files": [],
-    "name": "Languages::German::Courses::Aufbaukurs::we enjoy learning the german language",
+    "name": "we enjoy learning the german language",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Verb+Präposition+Fall",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Verb",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Präposition",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Fall",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "en_Bedeutung",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Satz",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "en_Satz",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "de_Synonyme",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "Quelle",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "de_verb+prep",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        1,
+                        4
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        4
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">{{de_Präposition}}</span> <span style=\"color: yellow;\">+{{de_Fall}}</span></div></div>\n\n{{#en_Bedeutung}}\n<div style=\"font-size: medium; color: grey;\">{{en_Bedeutung}}</div>\n{{/en_Bedeutung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Präposition Cloze",
+                    "ord": 0,
+                    "qfmt": "<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">___</span></div>\n\n{{#en_Bedeutung}}\n<div style=\"font-size: medium; color: grey;\">{{en_Bedeutung}}</div>\n{{/en_Bedeutung}}"
+                },
+                {
+                    "afmt": "<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">{{de_Präposition}}</span> <span style=\"color: yellow;\">+{{de_Fall}}</span></div>\n\n<div style=\"font-size: medium; color: grey\">{{en_Bedeutung}}</div>\n\n{{#de_Satz}}\n<br>\n<div style=\"color: lightgrey;\">„{{de_Satz}}“</div>\n{{/de_Satz}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "en > de",
+                    "ord": 1,
+                    "qfmt": "{{#en_Bedeutung}}\n\t<div style=\"font-size: x-large;\">{{en_Bedeutung}}</div>\n\n\t{{#de_Synonyme}}\n\t\t<div style=\"font-size: medium; color: grey\">Synonym(e): <span style=\"color: silver;\">{{de_Synonyme}}</span></div>\n\t{{/de_Synonyme}}\n\n\t{{#en_Satz}}\n\t<br>\n\t<div style=\"color: lightgrey;\">„{{en_Satz}}“</div>\n\t{{/en_Satz}}\n{{/en_Bedeutung}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
@@ -2378,8 +3502,8 @@
                 },
                 {
                     "description": "",
-                    "font": "Arial",
-                    "name": "fake close",
+                    "font": "Liberation Sans",
+                    "name": "fake cloze",
                     "ord": 5,
                     "rtl": false,
                     "size": 20,
@@ -2395,24 +3519,11 @@
                     0,
                     "any",
                     [
-                        0,
-                        1,
-                        2,
-                        4
+                        2
                     ]
                 ],
                 [
                     1,
-                    "any",
-                    [
-                        0,
-                        1,
-                        2,
-                        3
-                    ]
-                ],
-                [
-                    2,
                     "any",
                     [
                         5
@@ -2422,7 +3533,7 @@
             "sortf": 1,
             "tmpls": [
                 {
-                    "afmt": "Die Funktionsverbgefüge von <br>\n„<i>{{de_Bedeutung}}</i>“ ist\n\n<br><br>\n\n{{type:de_Funktionsverbgefüge}}\n\n{{#de_Bsp mit deutscher Bedeutung}}\n<br><br>\nz.B. „{{de_Bsp mit deutscher Bedeutung}}“\n{{#de_Bsp mit Funktionsverbgefüge}}\n→ „{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n{{/de_Bsp mit deutscher Bedeutung}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{en_Bedeutung}}\n{{/en_Bedeutung}}",
+                    "afmt": "{{#en_Bedeutung}}\n\t<div style=\"font-size: x-large;\">{{de_Funktionsverbgefüge}}</div>\n\t<hr>\n\t<div style=\"font-size: medium; font-style: italic; color: silver;\">ist das Funktionsverbgefüge von</div>\n\t<div>{{en_Bedeutung}}</div>\n\t{{#de_Bedeutung}}\n\t\t<div style=\"font-size: medium; color: grey;\">{{de_Bedeutung}}\n\t{{/de_Bedeutung}}\n{{/en_Bedeutung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -2430,29 +3541,18 @@
                     "did": 1653989782016,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "Was ist die Funktionsverbgefüge von <br>\n„<i>{{de_Bedeutung}}</i>“?\n\n<br><br>\n{{type:de_Funktionsverbgefüge}}\n\n{{#de_Bsp mit deutscher Bedeutung}}\n<br><br>\n„{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}"
+                    "qfmt": "{{#en_Bedeutung}}\n\t<div style=\"font-size: x-large;\">?</div>\n\t<hr>\n\t<div style=\"font-size: medium; font-style: italic; color: silver;\">ist das Funktionsverbgefüge von</div>\n\t<div>{{en_Bedeutung}}</div>\n\t{{#de_Bedeutung}}\n\t\t<div style=\"font-size: medium; color: grey;\">{{hint:de_Bedeutung}}\n\t{{/de_Bedeutung}}\n{{/en_Bedeutung}}"
                 },
                 {
-                    "afmt": "Die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“ ist\n\n<br><br>\n\n{{type:de_Bedeutung}}\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\nz.B. „{{de_Bsp mit Funktionsverbgefüge}}“\n{{#de_Bsp mit deutscher Bedeutung}}\n→ „{{de_Bsp mit deutscher Bedeutung}}“\n{{/de_Bsp mit deutscher Bedeutung}}\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{en_Bedeutung}}\n{{/en_Bedeutung}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "Was ist die Bedeutung von <br>\n„<i>{{de_Funktionsverbgefüge}}</i>“?\n\n<br><br>\n{{type:de_Bedeutung}}\n\n{{#de_Bsp mit Funktionsverbgefüge}}\n<br><br>\n„{{de_Bsp mit Funktionsverbgefüge}}“\n{{/de_Bsp mit Funktionsverbgefüge}}\n\n{{#en_Bedeutung}}\n<br><br>\n{{hint:en_Bedeutung}}\n{{/en_Bedeutung}}"
-                },
-                {
-                    "afmt": "{{de_Funktionsverbgefüge}}\n\n\n<div style='font-family: \"Arial\"; font-size: 20px;'>{{de_Bedeutung}}</div>\n\n<div style='font-family: \"Arial\"; font-size: 20px;'>{{en_Bedeutung}}</div>\n",
+                    "afmt": "<div style=\"font-size: x-large;\">„{{de_Funktionsverbgefüge}}“</div>\n<div style=\"color: grey;\">{{en_Bedeutung}}</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": 1653989782016,
-                    "name": "Cloze",
-                    "ord": 2,
-                    "qfmt": "„<i>{{fake close}}</i>“?\n\n"
+                    "name": "Cloze Verb",
+                    "ord": 1,
+                    "qfmt": "{{#fake cloze}}\n\t<div style=\"font-size: x-large;\">„{{fake cloze}}“</div>\n\t<div style=\"color: grey;\">{{en_Bedeutung}}</div>\n{{/fake cloze}}\n"
                 }
             ],
             "type": 0
