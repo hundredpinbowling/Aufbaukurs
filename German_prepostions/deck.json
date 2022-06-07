@@ -1,0 +1,1460 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "9b8ebcc2-e69f-11ec-af89-dd286e843365",
+    "deck_config_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "d10c83c4-dddb-11ec-a83e-bd2c465139d0",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "German prepostions",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Verb",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Preposition",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Case",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Source",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Example",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Extra",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "English",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "German Prepostions",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n{{English}}\n\n\n<hr>\n{{Example}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Verb}} {{Preposition}} ({{Case}}) "
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "ändern",
+                "an",
+                "Dativ",
+                "S. 52",
+                "In diesem Fall kann [...] sich während des Erhebungszeitraums die Konfiguration ändern (an einen Lastkraftwagen wird ein Anhänger gekoppelt oder [...] der Anhänger wird [...] gewechselt; bei einer Sattelzugmaschine wird der Sattelauflieger gewechselt). -> In this case, [...] there may be a change of configuration during the survey period (with a lorry acquiring a trailer or changing trailer during [...] the period, or [...] a road tractor changing its semi-trailer).<br>Wählen Sie für DHCP oder BOOTP Ein oder Aus mit U oder V. Drücken Sie für die IP-, [...] Subnetzmasken- und Gateway-Adresse U oder V, um die Zahl (000 [...] bis 255) an der Stelle zu ändern, an der der Cursor blinkt. -> For DHCP or BOOTP, select On or Off using U or V. For IP [...] Address, Subnet Mask, and Gateway addresses, [...] press U or V to change the number (000 to 255) where the cursor [...] is blinking.<br>Der Erzeuger kann seine Entscheidung spätestens [...] zu dem Zeitpunkt ändern, an dem eine Kontrolle [...] seines Tierbestands angekündigt wird. -> The producer may alter this choice at the latest [...] before the announcement of an on-the-spot check on the number of his animals.<br>Was muss sich also ändern an der Industriepolitik der Zukunft? -> What must be changed in the industrial policy of the future?<br>Wenn Sie einen anderen Zielordner bevorzugen, klicken Sie die [...] Schaltfläche Ändern an und wählen einen [...] anderen Dateiordner aus. -> If you would prefer a different target [...] folder, click on Change and select a suitable folder.",
+                "",
+                ""
+            ],
+            "guid": "O+vaEY/(Y5",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "arbeiten",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Sie arbeitet an ihrer Abschlussarbeit. -> She is working on her thesis.<br>Ich arbeite an mehreren Projekten gleichzeitig. -> I am working on several projects at once.Arbeiten an Bau- und Installationsvorhaben, [...] die von Arbeitnehmern eines Unternehmens außerhalb seines Wirtschaftsgebiets [...] ausgeführt werden, werden unter folgenden Bedingungen der wirtschaftlichen Produktion des Gastlandes zugerechnet: das Unternehmen produziert einen erheblichen Teil der Dienstleistungen des Gastlandes, es besitzt dort Grundstücke oder Gebäude, es unterhält dort mindestens eine Produktionsstätte, die zeitlich unbeschränkt oder vorübergehend betrieben werden soll, es führt für die lokalen Aktivitäten einen vollständigen und gesonderten Satz von Konten, es zahlt Einkommenssteuern an das Gastland, es zeigt eine erhebliche physische Präsenz, auf dem Unternehmenskonto gehen Zahlungen für vom Unternehmen ausgeführte Arbeiten ein usw. Sind diese Bedingungen nicht erfüllt, sollten die Aktivitäten als Export von Dienstleistungen durch ein gebietsansässiges Unternehmen eingestuft werden. -> Work performed on construction projects [...] and installations, by employees of an enterprise in locations outside the economic [...] territory of the enterprise, will be treated as part of the production of the host economy when the enterprise meets the following criteria: it is engaged in a significant amount of production of services there or it owns land or buildings located there; it maintains at least one production establishment in the country and plans to operate indefinitely or over a long period of time; it maintains a complete and separate set of accounts of local activities; it pays income taxes to the host country; it has a substantial physical presence; it received funds for enterprise work for the enterprise account, etc. If these conditions are not present, the activity should be classified as an export of services by a resident enterprise.<br>Größere Renovierungen sind solche, bei [...] denen die Gesamtkosten der Arbeiten an der Gebäudehülle und/oder [...] den Energieeinrichtungen wie [...] Heizung, Warmwasserversorgung, Klimatisierung, Belüftung und Beleuchtung 25 % des Gebäudewertes, den Wert des Grundstücks, auf dem das Gebäude errichtet wurde, nicht mitgerechnet, übersteigen, oder wenn mehr als 25 % der Gebäudehülle einer Renovierung unterzogen werden. -> Major renovations are cases such as those [...] where the total cost of the renovation related to the building [...] shell and/or energy installations [...] such as heating, hot water supply, air-conditioning, ventilation andlighting is higher than 25 % of the value of the building, excluding the value of the land upon which the building is situated, or those where more than 25 % of the building shell undergoes renovation.<br>Elektrofachkräfte sind aufgrund ihrer fachlichen Ausbildung, Kenntnisse und Erfahrungen sowie Kenntnis [...] der einschlägigen Normen und [...] Bestimmungen in der Lage, Arbeiten an elektrischen Anlagen [...] auszuführen und mögliche Gefahren selbständig zu erkennen. -> Electrical specialists are, due to their technical training, knowledge and experiences and their [...] knowledge of the relevant standards and [...] regulations, able to work on electrical systems [...] and to independently recognize possible hazards.<br>Je nach Sachstand werden die Arbeiten an der Richtlinie zur Änderung [...] der Richtlinie 82/714/EG über die technischen Anforderungen [...] für Binnenschiffe fortgesetzt und können die Beratungen über einen Vorschlag für eine Rahmenrichtlinie über die Beförderung gefährlicher Güter auf Binnenwasserstraßen entweder separat oder als Teil der Rahmenrichtlinie über die Beförderung gefährlicher Güter auf dem Straßen-, Schienen- und Binnenschifffahrtsweg aufgenommen werden. -> Depending on the state of play, the work on the Directive [...] amending Directive 82/714/EC laying down technical requirements [...] for inland waterway vessels will continue and work may start on a proposal for a framework Directive on the carriage of dangerous goods in inland waterways either on its own, or as a part of the Framework Directive on carriage of dangerous goods on road, rail and inland waterways.<br>Ob Sonnenschein, Dauerregen, Frost oder Nebel - diese Einrichtungen zur Energieversorgung leisten ihren Beitrag für einen sicheren und komfortablen Betrieb von Schienenfahrzeugen unter allen Witterungsbedingungen: Die Notstarteinrichtung stellt bei entladenen Batterien die zum Start erforderliche Energie direkt aus der Hochspannungsleitung zur Verfügung, Hochspannungsheizungen sorgen für die richtige [...] Temperatur in den Reisezugwagen, die Trenn- und Erdungseinrichtung [...] ermöglicht ein gefahrloses Arbeiten an Hochspannungsanlagen. -> Whether sunshine or continuous rain, whether frost or fog - these energy supply devices contribute to safe and comfortable operation of railway vehicles under all weather conditions: The high-voltage flat battery power supply provides the energy required for starting when the batteries are discharged, directly from the high-voltage line; high-voltage heating systems ensure the correct [...] temperature in the passenger coaches and the disconnecting and earthing [...] device facilitates safe working on high-voltage equipment.",
+                "",
+                "work on"
+            ],
+            "guid": "oUT5vxUAN6",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schreiben",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Die Kommission schlägt vor, [...] dass die EU in dem Schreiben an den haitianischen [...] Premierminister, in dem die Aufhebung der [...] Maßnahmen angekündigt wird, auf die Bedeutung hinweist, die sie der Demokratie, der Rechtsstaatlichkeit, der verantwortungsvollen Staatsführung und den Menschenrechten beimisst, und die haitianische Regierung ermutigt, ihre Bemühungen um die Erfüllung der Verpflichtungen fortzusetzen, die sie gegenüber der EU und der haitianischen Bevölkerung eingegangen ist. -> The Commission [...] proposes that the letter to the Haitian Prime [...] Minister announcing the lifting of the measures should stress [...] the importance that the EU places on the democracy, the rule of law, good governance and human rights and that it encourages the Haitian government to maintain its efforts in implementing the commitments it has entered into vis-à-vis the EU and the people of Haiti.<br>Am 8. März 1995 richtete die belgische [...] Regierung ein Schreiben an die Kommission, [...] in dem sie ihre Absicht ankündigte, gegen [...] das Königreich Spanien ein Vertragsverletzungsverfahren nach Artikel 170 EG-Vertrag wegen Verstoßes gegen Artikel 34 EG-Vertrag einzuleiten. -> On 8 March 1995, the Belgian Government sent [...] the Commission a letter in which it expressed [...] its intention to commence Treaty-infringement [...] proceedings under Article 170 of the Treaty against the Kingdom of Spain for infringement of Article 34 of the Treaty.<br>AMICE unterstützt ihre Bemühungen und [...] hat in einem Schreiben an maßgebliche ungarische [...] Parlamentsabgeordnete diese offensichtliche [...] Überreaktion kritisiert, die bedeutsame Rolle dieser beiden Gegenseitigkeitsgesellschaften als letzte nationale Kraftfahrzeugversicherer in Ungarn unterstrichen und Beispiele für angemessene und verhältnismäßige Reaktionen auf die jüngste Insolvenz in der Branche geliefert. -> AMICE supports their [...] efforts and has, in a letter to key Hungarian [...] Parliamentarians, criticised this blatant overreaction, [...] underlined the important role of these two mutuals as the last domestic motor insurers in Hungary, and has provided examples for appropriate and proportionate reactions to the recent insolvency in the industry.<br>Mehr als Zehntausend in ihrem Land [...] ansässige und genau identifizierte Kubaner [...] haben bereits ein Schreiben an den Präsidenten [...] der Nationalversammlung der Republik [...] Kuba unterzeichnet, in dem sie gemäß Artikel 88 (g) der kubanischen Verfassung von 1976 höflich darum ersuchen, das Volk zu befragen, ob es eine Änderung der genannten Verfassung in dem Sinne wünscht, daß sie die freie Meinungsäußerung, die Vereinigungsfreiheit, den Pluralismus und die Wahl der Regierung in einer direkten, freien und geheimen Abstimmung gewährleistet. -> More than ten thousand clearly [...] identified Cuban citizens resident in Cuba [...] have now signed a letter addressed to the [...] President of the National Assembly of People's [...] Power of the Republic of Cuba respectfully requesting, in accordance with article 88(g) of the 1976 Constitution, that a plebiscite be held to consult the people on whether they wish to amend the Constitution to the effect that it would guarantee freedom of expression, freedom of association, pluralism and the election of the government through a direct, free and secret ballot.<br>Zahlreiche Schreiben an Politik und Presse, um auf die [...] Lösungsmöglichkeiten für die drängenden Energieprobleme hinzuweisen, [...] u. a. an Bundeskanzlerin Merkel, Bundeswirtschaftsminister Glos, Umweltminister Gabriel und an diverse andere Stellen in der deutschen Bundesregierung und in Landesregierungen. -> Numerous writings to politicians and press to advise of [...] solutions for the pestering energy problems, i. a. to Chancellor [...] Merkel, Minister for economic affairs Glos, Minister for environment Gabriel and to other diverse authorities in the German federal government and regional governments.",
+                "",
+                ""
+            ],
+            "guid": "pM!{ji:Dy",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "erkennen",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Die EA, die Europäische Kommission, die EFTA und die [...] zuständigen nationalen Behörden erkennen an, dass die Akkreditierung - so sie [...] als verbindliche Kontrollebene [...] einen zusätzlichen Nutzen erbringen soll - als hoheitliche Aufgabe in voller Übereinstimmung mit den einschlägigen, sich weiterentwickelnden technischen Anforderungen zu erfolgen hat; Voraussetzungen hierfür sind Unabhängigkeit und Verantwortlichkeit gegenüber allen betroffenen Parteien, wobei sowohl in den reglementierten als auch in den nicht reglementierten (marktgesteuerten) Konformitätsbewertungsbereichen keinerlei Einzelinteressen verfolgt werden dürfen, es zu keinerlei Einflussnahme durch die Wirtschaft kommen darf und die Akkreditierungs- und Konformitätsbewertungsstellen sowie die Akkreditierungsstellen untereinander nicht im Wettbewerb stehen dürfen. -&gt; EA, the European Commission, EFTA and the competent [...] national authorities acknowledge that in order for accreditation to have added [...] value as an authoritative [...] level of control, it needs to be performed as a public authority activity, to be carried out in full compliance with the applicable, evolving technical requirements, in conditions of independence and accountability towards all the interested parties, with no single interest predominating, free from commercial pressure and without competition between accreditation bodies and conformity assessment bodies as well as among accreditation bodies themselves, both in the regulated and non-regulated (market driven) areas for conformity assessment.<br>Sie erkennen an, dass (i) alle Rechte, [...] Titel und Interessen an alle Kopien der Software und der Dokumentation, und alle [...] Patente, Urheberrechte, Geschäftsgeheimnisse, Marken und andere proprietäre Rechte darin verkörperten oder damit verbundenen, sind und bleiben mit Bruce Street oder seinen Lizenzgebern Dritter; (Ii) kein Recht oder Interesse an der Software oder der Dokumentation vermittelt andere als eine beschränkte Lizenz zur Verwendung Sie in Übereinstimmung mit dieser Vereinbarung; (Iii) die Software und Dokumentation sind durch die copyright-Gesetze des australischen geschützt; und (iv) Bruce Street behauptet, dass die Software und Dokumentation wertvolle vertrauliche und geheime Informationen von Bruce Street, verkörpern die Entwicklung von denen benötigt die Ausgaben viel Zeit und Geld. -&gt; You acknowledge that (i) all right, [...] title and interest in and to all copies of the Software and Documentation, and all patents, [...] copyrights, trade secrets, trademarks and other proprietary rights embodied therein or associated therewith, are and shall remain with Bruce Street or its third party licensors; (ii) no right or interest in the Software or Documentation is conveyed other than a limited license to use them in accordance with this Agreement; (iii) the Software and Documentation are protected by the copyright laws of the Australia; and (iv) Bruce Street asserts that the Software and Documentation embody valuable confidential and secret information of Bruce Street, the development of which required the expenditure of considerable time and money.<br>(3) Die Parteien erkennen an, dass die allgemeinen Prinzipien der Richtlinien 89/391 und 98/24 zum Schutz von Gesundheit [...] und Sicherheit [...] der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit jederzeit anwendbar bleiben (einschließlich insbesondere Artikel 4: Ermittlung und Bewertung des Risikos; Artikel 5: Risikoverhütung; Artikel 6: Besondere Schutz- und Vorbeugungsmaßnahmen; Artikel 7: Vorkehrungen für das Verhalten bei Unfällen, Zwischenfällen und Notfällen; Artikel 8: Unterrichtung und Unterweisung der Arbeitnehmer). -&gt; (3) The Parties acknowledge that the general principles of Directive 89/391, and of Directive 98/24 on the protection [...] of the health and [...] safety of workers from the risks related to chemical agents at work remain at all times applicable (including, in particular, Article 4: determination and risk assessment; Article 5: risk prevention; Article 6: specific protection and prevention measures; Article 7: arrangements to deal with accidents, incidents and emergencies; Article 8: information and training for workers).<br>Sie erkennen an, dass die Erreichung [...] der Ziele dieser Politik in ihrem gemeinsamen Interesse liegt, und kommen überein, [...] zu diesem Zweck den Organen die Anwendung aller in der Verfassung vorgesehenen Mittel und Verfahren zu empfehlen, insbesondere eine angemessene Verwendung der zur Verwirklichung der Ziele der Union zur Verfügung stehenden Mittel der Union. -&gt; They recognise it to be in their [...] common interest that the objectives of this policy be so attained and agree to recommend [...] to this end that the institutions implement all the means and procedures laid down by the Constitution, particularly by making adequate use of the Union resources intended for the realisation of its objectives.<br>Wir erkennen an, dass ein ehrgeiziges [...] und ausgewogenes Ergebnis in allen Verhandlungsbereichen von entscheidender Bedeutung [...] ist, damit, insbesondere durch weitere Verbesserungen bei der wirksamen und uneingeschränkten Einbeziehung der Entwicklungsländer in das multilaterale Handelssystem, allen WTO-Mitgliedern Möglichkeiten eröffnet werden können, und damit unter Berücksichtigung des Erfordernisses, dass die Beiträge mit dem Grundsatz der differenzierten Sonderbehandlung vereinbar sein müssen, ein sicheres, stabiles und ausgewogenes Umfeld für Handel und Investitionen geschaffen werden kann. -&gt; We acknowledge that an ambitious [...] and balanced outcome in all areas under negotiation is decisive for creating opportunities [...] for all WTO members in particular by further enhancing the effective integration and full participation of developing countries in the multilateral trading system, and a safe, stable and equitable environment for trade and investment, bearing in mind that contributions must be consistent with the principle of special and differential treatment.",
+                "",
+                ""
+            ],
+            "guid": "lGui_6~36:",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "interessiert sein",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Letztere werden vermutlich mehr an einer intensiveren [...] Auseinandersetzung mit der lokalen Region interessiert sein, an Begegnung und Unterhaltung mit Menschen, [...] oder eben an der Lebensqualität [...] der Region, derentwegen sie sich ja auch für dieses Urlaubsziel entschieden haben. -> One may safely assume that the [...] latter will be more interested in becoming acquainted with the region they visit, in meeting people [...] and talking to them, or in the quality of life [...] they find there which was the reason they opted for it.<br>weltoffen: offen sein, interessiert sein an allem Neuen und daraus die Essenzen für den eigenen [...] Stil ziehen -> open-mindedness: be open and interested in everything that is new and make this the essence of your own style<br>Deutsche [...] Unternehmen müssten deshalb besonders interessiert sein an intelligenten Finanzierungsformen. -> Therefore, German [...] companies should have to be extraordinarily interested in intelligent ways for financing.<br>Diese Firmen konnen die aggregierte Statistiken uber Ihre Besuche auf dieser und anderen Websites, um Ihnen Werbung uber Reisen im [...] Zusammenhang mit Waren und [...] Dienstleistungen, die Sie interessiert sein an die Informationen, [...] die sie sammeln keine personlichen information. -> These companies may use aggregated statistics about your visits to this and [...] other websites in order to provide advertisements about travel-related [...] goods and services that you may be interested in.<br>Ich würde interessiert sein, an, mehr Informationen [...] über eine kürzere Arbeit Woche zu erhalten. -> I would be interested in receiving more information [...] on a shorter work week.",
+                "",
+                ""
+            ],
+            "guid": "f2}VrlX@!",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "leiden",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Das Baby litt an Blähungen. -> The baby was suffering from wind.4.3 Ferner werden in verschiedenen Teilen der Welt enorme Mengen an Pestiziden [...] verschwendet oder unnötig [...] eingesetzt, und viele Menschen leiden an Vergiftungen, weil die [...] Landwirte, Betreiber und die lokalen [...] Behörden nicht über neue technische Anwendungen informiert sind oder ihr einschlägiges Wissen nicht aktualisiert haben und weil die für den Pestizideinsatz genutzten Maschinen oftmals veraltet bzw. nicht richtig gewartet sind. -> 4.3 Moreover, in various parts of the world, a huge quantity of pesticides is [...] wasted or used needlessly, and a [...] large number of people suffer from poisoning because [...] farmers, operators and local authorities [...] do not know or have not been updated about new technological applications and because the equipment used for pesticides is often obsolete or poorly maintained.<br>Etwa 10 Prozent aller [...] Menschen über 70 Jahre leiden an einer solchen Herzinsuffizienz, [...] bei der die Pumpfunktion unseres [...] wichtigsten Muskels eingeschränkt ist. -> About 10 percent of all people [...] over 70 years of age suffer from such a cardiac [...] insufficiency, where the pumping action of [...] the body's most important muscle is restricted.<br>In Kol.1,24 [...] spricht Paulus von den \"Leiden an seinem Fleisch\", wenn [...] er über die Versöhnung zwischen den Juden und Heiden spricht. -> In Col.1,24 Paul speaks of a \"suffering in his flesh\" when he [...] mentions the reconciliation between the Jews and the Gentiles.<br>Rzeszów ist damit ein wichtiger Standort für die geplante Kapazitätserweiterung und Wachstumsstrategie von Turbo & Emissions Systems in Europa. BorgWarner wird hier in der Lage sein, der wachsenden Nachfrage der europäischen Hersteller nach Aufladesystemen für besonders sparsame und emissionsarme Motoren erfolgreich zu begegnen. das Familien [...] unterstützt, deren Kinder an Krebs- oder [...] Blutkrankheiten leiden, an das Centro Infantil [...] Boldrini, das an Krebs erkrankte Kinder [...] behandelt und an das Casa de Repouso Bom Pastor, das sich im Zuge der Krebsbehandlung um Erwachsene und Eltern kümmert. -> Rzeszów is therefore an important site for the planned increase in capacity and growth strategy of Turbo & Emissions Systems in Europe, enabling BorgWarner to successfully meet the growing demand of European manufacturers for turbocharging systems to produce [...] particularly economical and low-emission [...] engines. whose children suffer from cancer or blood [...] disorders, to the Centro Infantil Boldrini, [...] which treats children with cancer, and to the Casa de Repouso Bom Pastor, which looks after adults and parents in the course of cancer treatment.<br>Derzeitige sicherheitsbezogene [...] Forschungsmaßnahmen in Europa leiden an einer Zersplitterung [...] der Anstrengungen, am Fehlen einer [...] kritischen Masse bezüglich Größenordnung und Umfang und an fehlenden Verbindungen und mangelnder Interoperabilität. -> Existing security related research [...] activities in Europe suffer from the fragmentation [...] of efforts, the lack of critical mass [...] of scale and scope and the lack of connections and interoperability.",
+                "",
+                "suffer from<br>be troubled with"
+            ],
+            "guid": "FLAeLl8+vb",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "teilnhemen",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Hunderte von Athleten nahmen am Wettbewerb teil. -> Hundreds of athletes partook in the competition.Der betreffende Mitgliedstaat führt Überwachungsmaßnahmen durch und ergreift alle erforderlichen und geeigneten Maßnahmen, um sicherzustellen, dass alle Schiffe haben bei der Einfahrt in den Bereich Zuständigkeitsbereich einer Küstenstation, die ein eines von der Internationalen Seeschifffahrtsorganisation genehmigtes IMO gemäß Regel 11 Kapitel V SOLAS angenommenen und von einem oder mehreren Staaten, von denen mindestens einer ein Mitgliedstaat ist, betriebenen Meldepflichtsystems betreibt, gemäß den geltenden Regeln und Verfahren gemäß den [...] einschlägigen [...] Leitlinien und Kriterien der IMO an dem System teilzunehmen teilnehmen und die erforderlichen Informationen [...] melden, unbeschadet der [...] Verpflichtung zur Meldung etwaiger zusätzlicher Informationen, die ein Mitgliedstaat im Einklang mit der IMO-Entschließung A.851(20) anfordert. -> The Member State concerned shall monitor and take all necessary and appropriate measures to ensure that all ships entering the area of competence of a coastal station operating a mandatory reporting system approved by the International Maritime Organisation must participate in the system in accordance with the applicable rules and procedures adopted by the IMO according to Regulation 11 Chapter V SOLAS and operated by one or more States, of which at least one is a Member State, [...] in accordance with [...] the relevant guidelines and criteria developed by the IMO, comply with that system in reporting the information [...] required without [...] prejudice to additional information required by a Member State in accordance with IMO Resolution A.851(20).<br>Im Hinblick auf eine weitere Vereinfachung der Abwicklung der Vergabeverfahren sollte ein Wirtschaftsteilnehmer [...] an einem Verfahren mittels einer [...] ehrenwörtlichen Erklärung teilnehmen können, in der [...] er versichert, dass auf ihn keines der Ausschlusskriterien [...] für das betreffende Vergabeverfahren zutrifft; dies gilt nicht für das nichtoffene Verfahren, den wettbewerblichen Dialog oder das Verhandlungsverfahren nach Veröffentlichung der Bekanntmachung eines Auftrags, wenn der öffentliche Auftraggeber die Anzahl der Bieter beschränkt, die er zur Teilnahme an den Verhandlungen bzw. zur Angebotsabgabe auffordert. -> With a view to further simplifying the management of the procurement procedures, [...] economic operators [...] should be able to participate in a procedure [...] on the basis of a declaration on their honour stating that they [...] are not in one of the situations giving grounds for exclusion from that procurement procedure, except in the case of restricted procedures, competitive dialogue and negotiated procedures after publication of a contract notice whenever the contracting authority limits the number of candidates to be invited to negotiate or submit a tender.<br>Lizenziert in der nationale Verband des Landes, in dem es gehört. spezifische Punkte des Turniers: a) Ersetzen Sie das \"Spiel\" Blatt \"mit der Präsentation von Lizenzen nach dem Eintreffen im Zentrum für Management des Turniers. b) Jeder Spieler in [...] einem Verein verpflichtet, [...] andere als die nicht am Turnier teilnehmen entlassen. c) Nur 16 Spieler [...] auf dem Blatt und nach Überprüfung [...] der Lizenzen erlaubt ist, spielen. d) Nur 16 Spieler und 3 Beamten auf dem Schaublatt wird auf dem Podium werden bei der Preisverleihung. -> Licensed in the National Federation of the country to which it belongs. specific paragraphs in the tournament: a) Replace the \"game sheet\" with presentation of licenses upon arrival at the Center for Management of the tournament. b) Any player dismissed in [...] a club other than that [...] committed can not participate in the tournament. c) Only 16 players [...] listed on the sheet and after [...] verification of licenses are allowed to play. d) Only 16 players and 3 officials on the record sheet will be on the podium at the awards ceremony.<br>Es wird hoffentlich möglich sein, dass an der ersten Tagung der neuen Parlamentarischen Versammlung Euro-Med, die unter irischem Ratsvorsitz, allerdings [...] im griechischen Parlament stattfinden wird, der Präsident des Rates und der Präsident [...] der Kommission teilnehmen können. -> For the first meeting of the new Euro-Med Parliamentary Assembly, which will be be held under the Irish Presidency but hosted by the [...] Hellenic Parliament, I hope it will be possible for the President of the Council and the [...] President of the Commission to attend.<br>Ganz wichtig für den Start der Minsker OSZE-Gruppe war eine Zusage des Regimes, die bislang tatsächlich eingehalten wurde: Neben Vertretern der Staatsmacht können auch Repräsentanten des (legitimen) Obersten Sowjet, der politischen Parteien, der Gewerkschaften und der organisierten Zivilgesellschaft ungehindert Kontakt zur OSZE-Gruppe pflegen und an [...] den Beratungen zu den genannten Themen [...] gleichberechtigt teilnehmen - in einer \"freien [...] und offenen Debatte ohne Furcht\", wie [...] Botschafter Hans-Georg Wieck, der deutsche Leiter der Gruppe und als früherer Bonner Botschafter in Moskau mit dem Terrain bestens vertraut, nachdrücklich betont. -> Particularly important for the start of the OSCE Group in Minsk was a concession by the regime which has so far actually been kept. Not only government officials but representatives of the (legitimate) Supreme Soviet, the political parties, the trade unions and civil society organizations are entitled to [...] maintain unimpeded contact with the OSCE [...] Group and participate in discussions of the [...] various topics mentioned - in a \"free and [...] open debate without fear\", as Ambassador Hans-Georg Wieck, the German Head of the Group (who as former German Ambassador to Moscow is very familiar with the territory) stressed.",
+                "",
+                "participate<br>partake<br>join<br>join in"
+            ],
+            "guid": "O?9RPQ!6>8",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zweifeln",
+                "an",
+                "Dativ",
+                "S. 52",
+                "Andere Delegationen nehmen eine ablehnende oder reservierte Haltung zu der Einrichtung eines Garantiefonds ein, weil sie [...] insbesondere - an der [...] Fähigkeit des Fonds zur Selbstfinanzierung zweifeln; - Zweifel an der Bereitschaft des betreffenden [...] Sektors hegen, die von [...] der Kommission angegebenen Beträge bereitzustellen; - eine Gemeinschaftsfinanzierung in Höhe von 90 Mio. ECU nicht für gerechtfertigt halten; - die Auffassung vertreten, daß der Fonds kein geeignetes Mittel zur Bereitstellung von privatem Kapital darstellen würde; - der Ansicht sind, daß das Ziel des vorgeschlagenen Beschlusses unter Umständen nicht erreicht würde, da der Fonds sich veranlaßt sehen könnte, seine Maßnahmen auf Großproduktionen mit großem Budget zu konzentrieren; - die Meinung vertreten, daß die Förderung der Film- und Fernsehproduktion angesichts des Subsidiaritätsprinzips in erster Linie in der Zuständigkeit der Mitgliedstaaten verbleiben sollte. -> Other delegations were unsympathetic to or reluctant to accept the idea of the establishment of a Guarantee [...] Fund, inter alia since [...] they: - were doubtful about the Fund's capacity to finance itself; - doubted whether the sector [...] concerned wished [...] to provide the amounts indicated by the Commission; - thought that there were no grounds for Community funding of ECU 90 million; - took the view that the Fund would not be the appropriate instrument for mobilizing private capital; - held that the aim of the proposed Decision was unlikely to be achieved, since the Fund could be required to focus its action on large-budget productions; - commented that the promotion of cinema and television production should, in line with the principle of subsidiarity, continue to be primarily the responsibility of the Member States.<br>4.3 Bei begründeten Zweifeln an der Kreditwürdigkeit des Käufers, insbesondere bei einer nach Abschluss [...] des Kaufvertrages eintretenden [...] wesentlichen Verschlechterung der Vermögensverhältnisse des Käufers, durch die die Ansprüche des Verkäufers gefährdet werden, Wechsel- und Scheckproteste vorliegen, das Vergleichsverfahren über das Vermögen des Käufers beantragt worden ist oder der Käufer in Insolvenz fällt, sind wir berechtigt, unabhängig von etwaig eingeräumten Zahlungszielen, weitere Lieferungen nur gegen Vorkasse oder Sicherheiten auszuführen. -> 4.3 If there is reasonable doubt regarding the buyer's creditworthiness, in particular relating to a major deterioration [...] of the buyer's [...] financial circumstances following conclusion of a sales contract which could jeopardise the vendor's claims, there are bill and cheque protests, arrangement proceedings pertaining to the buyer's assets have been applied for, or the buyer becomes insolvent, we are authorised, irrespective of any granted payment terms, to only execute subsequent deliveries with advance payment or by furnishing some form of collateral.<br>Zahlt der Käufer nicht vereinbarungsgemäß oder wird hinsichtlich des Käufers die Eröffnung eines Insolvenzverfahrens [...] beantragt oder werden uns Umstände bekannt, [...] die zu ernsthaften Zweifeln an der Zahlungsfähigkeit [...] oder Kreditwürdigkeit des Käufers [...] oder der Vertragserfüllung durch den Käufer Anlaß geben, so können wir - unbeschadet sonstiger Rechte oder Ansprüche - von sämtlichen bestehenden Verträgen mit dem Käufer, gleich welcher Art, ganz oder teilweise zurücktreten; statt dessen können wir nach unserer Wahl auch die Erfüllung solcher Verträge aufschieben, unsere Leistungsbereitschaft von einer Vorauszahlung oder der Stellung von geeigneten Sicherheiten durch den Käufer abhängig machen oder alle bestehenden Forderungen aus der bestehenden Geschäftsbeziehung für sofort fällig erklären. -> Should Buyer not pay as agreed or insolvency proceedings be instituted against Buyer or [...] should we come to know circumstances [...] giving rise to serious doubts concerning the solvency [...] or credit worthiness of Buyer or [...] contract compliance by Buyer, we may - without prejudice to any other rights or remedies - cancel all existing contracts with Buyer of whatever kind, wholly or partly and instead we may at our option defer compliance of such contracts, making our performance dependent on an advance payment or the provision of suitable collaterals by Buyer or declare immediately due all receivables from an existing contract relationship.<br>Standen zu Beginn des Sommers einerseits Europa mit seinen Verschuldungsproblemen sowie einem in [...] Stabilitätsdiskussionen geratenen Euro und [...] andererseits China mit Zweifeln an der Nachhaltigkeit [...] seiner Wachstumsraten im Vordergrund [...] der kritischen Diskussion, stellt sich heute zunehmend die Frage, wie weit die USA in der Lage sind, die in sie gesetzten Erwartungen in Bezug auf einen anhaltenden Wirtschaftsaufschwung zu erfüllen. -> Whereas the critical debate at the beginning of the summer centred on both Europe - with its debt problems and the euro whose stability had been a [...] cause of some speculation - and China, [...] where there had been doubts about the sustainability [...] of its growth rates, the question [...] now increasingly being asked is to what extent the United States will be able to meet the expectations that have been pinned on it in terms of driving a sustainable economic recovery.<br>Gemäß der Consob-Mitteilung Nr. 6064293 vom 28. Juli 2006 hat Reply S.p.A an keinen ungewöhnlichen und/oder abnormen Operationen, wie in dieser Mitteilung definiert, teilgenommen. Zu den ungewöhnlichen und abnormen Transaktionen zählen solche, die aufgrund ihrer Bedeutung, der Art der beteiligten Parteien, ihres Gegenstandes, der Mittel zur Bestimmung des Transferpreises oder der [...] zeitlichen Abfolge des Ereignisses (nah am [...] Jahresende) Grund zu Zweifeln an der Korrektheit/Vollständigkeit [...] der finanziellen Angaben, [...] der Interessenskonflikte, der Absicherung des Unternehmenskapitals oder des Schutzes von Minderheiteninteressen geben. -> Pursuant to the Consob communication no. 6064293 of 28 July, 2006, Reply S.p.A has not taken part in any unusual and/or abnormal operations as defined in that Communication, under which unusual and abnormal transactions are those which because of their significance or importance, the nature of the parties involved, the object of the transaction, the means of determining the transfer price or of the [...] timing of the event (close of the year [...] end) may give rise to doubts regarding the accuracy/completeness [...] of the information in [...] the financial statements, conflicts of interest, the safeguarding of the entity's assets or the protection of minority interests.",
+                "",
+                ""
+            ],
+            "guid": "vUU0`=_Fb#",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "denken",
+                "an",
+                "Akkusativ",
+                "S. 52",
+                "Bitte denken Sie an das Meeting nächste Woche. -> Please keep in mind the meeting next week.<br>Wenn du für deinen Campingausflug packst, denk an das Wetter. -> When packing for your camping trip bear the weather in mind.Im zweiten Fall wäre etwa zu denken an Zustellungsanträge, denen [...] unlesbare Schriftstücke beigefügt sind, oder an Schriftstücke, [...] denen kein Zustellungsantrag beigefügt ist, oder an Zustellungsanträge, bei denen die Anschrift des Empfängers nicht ermittelt werden konnte. -> The second might cover, for example, requests [...] relating to illegible documents or, conversely, to documents [...] not accompanied by any request, [...] or a request relating to an addressee whose address could not be established.<br>Sie denken an die Analyse der Stärken [...] und Schwächen Ihres Unternehmens, die Verbesserung der Geschäftsprozesse, Einführung [...] von Qualitätsmanagementsysteme, neue Produkte und Dienstleistungen, Erschließung neuer Marktpotenziale, Veränderung des Marktauftritts, neue Technologien, Personalentwicklung, eine Verbesserung der Aufbau- und Ablauforganisation oder die Erneuerung der strategische Unternehmensplanung. -> You think about the analysis of [...] strengths and flaccidities of your enterprise, the improvement of business processes, introduction [...] into quality management systems, new products and services, opening of new market potentials, new technologies, human resource development, improvement of the organisational structure and the office routine organisation or the renewal of the strategic corporate planning.<br>Ticsa bereitet sich mit handwerklichem Wert auf die Zukunft vor, der auf das Exklusive und Einzigartige würdigt; die Kreation eines neuen Designs, der die Umgebung verschönert; eine Mischung des Neuen mit dem Klassischen, um Copyrights zu kreieren; wir kombinieren schon existierende Elemente, um neue Produkte zu [...] schaffen und [...] schließlich das ökologische Design, denn wir denken an die nächsten Generationen und respektieren [...] den natürlichen Zyklus der Materialien. -> Ticsa is preparing for the future contributing with an artisan value, which in terms, translates into a new way to appreciate the unique and exclusive; creating a nice design to embellish the surroundings; mixing the new with the classic to create author pieces; combining already existing elements to create new products and finally, designing in [...] an environmental [...] friendly way, keeping in mind the next generations and respecting the natural cycles of the materials.<br>Die Menschen denken an eine Prozession [...] von einer Art von Magiern, fast wie mit einer Tarnkappe. -> People think of a procession of some [...] kind of magicians, almost as with the cap of invisibility.<br>Als sich 1988 die Auseinandersetzungen um das von der NAGRA (Nationale Arbeitsgemeinschaft zur Beseitigung radioaktiver Abfälle) am Fusse des Wellenbergs geplante Atommüll-Endlager zuspitzt, ist [...] Murer derart davon betroffen, dass er, noch ohne [...] an einen Film zu denken, an den Wochenenden nach [...] Nidwalden fährt und mit den Leuten zu reden beginnt. -> When, in 1988, tensions escalate over plans by NAGRA (the national radioactive waste removal company) to build a permanent nuclear waste disposal site at the foot of the Wellenberg, Murer [...] is so affected that, [...] without even thinking about a film, he travels [...] to Nidwalden at the weekends and starts talking to the people there.",
+                "",
+                "consider<br>keep in mind<br>bear in mind<br>think of<br>bear in mind"
+            ],
+            "guid": "L.[[Hx`8W{",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich erinennern",
+                "an",
+                "Akkusativ",
+                "S. 52",
+                "Mein Kollege erinnerte mich an unser Meeting mit dem Kunden. -> My colleague reminded me of our meeting with the customer.<br>Wenn ich mich gestresst fühle, muss ich mich selbst daran erinnern, ruhig zu bleiben. -> When I feel stressed, I have to remind myself to keep calm.<br>Meine Großmutter erinnert sich oft an ihre Kindheit. -> My grandmother often remembers her childhood.duffy hat mich in vielen arten und weisen inspiriert beim [...] erstellen meiner eigenen level. ich kann [...] mich noch gut daran erinnern, wie ich labyrinth [...] of puzzles das erste mal sah und noch [...] zu mir selbst dachte: 'ach das wird leicht. 5 minuten und fertig' & das war zumindest, bis ich das erste problem mit dem trigger im wasser sah und keine offensichtliche möglichkeit mit leichtigkeit das problem zu lösen & dies erstreckt sich durch das gesamte level. es werden sachen begonnen und dann wieder aufgehört, da ein stück vom puzzle fehlt. es verbreitet frust. duffy hat so viele sachen gemacht, die mir zeigen, wie man ein level einfach aussehen lassen kann, und sich dann zu einem horrortrip entwickeln. ich weiß, dass ich niemals level schreiben können werde, die so sind wie die von duffy, und da frage ich mich dann immer wieder, was in seinem kopf vorgehen muss. wie zur hölle kann man solche level planen, die dem spieler fast die tränen in die augen treiben? -> duffy has inspired me in many ways [...] with many of his levels to try and [...] create my own levels. i remember when i first saw labyrinth [...] of puzzles and thought to myself [...] 'that is gonna be an easy one max 5 minutes and done' & that was until i encountered the first problem with the trigger in the water and no way of getting at it easyly & this continues throughout the whole level. you start things and stop things again because you can't find the last missing bit to the puzzle. it causes frustration. duffy has done many many things that have shown me what you can do to make a level look easy and then unfold to a true nightmare. i know i will never be able to write levels like that myself and it sure makes me wonder what must be going on in his mind. how in the blue hell can you plan a level that will cause the player to almost start crying ?<br>Die Produktion und Weiterverarbeitung von Kupfer und seinen Nebenprodukten erfordert eine besondere Sorgfalt beim Gesundheitsschutz und der Arbeitssicherheit Hier ist jeder Mitarbeiter gefragt, seinen Beitrag zu leisten Arbeitsschutz und Arbeitssicherheitsvorschriften sind [...] wichtige Leitlinien Wir müssen uns selbst und die Kollegen [...] jeden Tag neu daran erinnern, diese Vorschriften [...] einzuhalten -> The production and processing of copper requires particular care as regards health protection and occupational safety Each employee is required to make his contribution Labour protection and occupational safety [...] regulations are important guidelines [...] Every day we have to remind ourselves and our [...] colleagues that these directives must be observed<br>100 Insoweit ist daran zu erinnern, dass nach Art. 43 Abs. [...] 2 und 3 der Verordnung Nr. 40/94 der von dem Inhaber einer älteren [...] nationalen oder Gemeinschaftsmarke erhobene Widerspruch gegen eine Gemeinschaftsmarkenanmeldung zurückzuweisen ist, wenn der Widersprechende nicht auf Verlangen des Anmelders den Nachweis erbringt, dass er innerhalb der letzten fünf Jahre vor der Veröffentlichung der Gemeinschaftsmarkenanmeldung seine ältere Marke in der Gemeinschaft oder in dem Staat, in dem sie geschützt ist, für die Waren oder Dienstleistungen, für die sie eingetragen ist und auf die er sich zur Begründung seines Widerspruchs beruft, ernsthaft benutzt hat oder dass berechtigte Gründe für die Nichtbenutzung vorliegen. -> 100 In that regard, it should be noted that, under [...] Article 43(2) and (3) of Regulation No 40/94, opposition to registration [...] of a Community trade mark by the proprietor of an earlier Community or national trade mark must be rejected if that proprietor does not, at the request of the applicant, furnish proof that, during the five-year period preceding the date of publication of the Community trade mark application, the earlier trade mark has been put to genuine use in the Community or in the Member State in which it is protected in connection with the goods or services in respect of which it is registered and which he cites as justification for his opposition, or that there are proper reasons for non-use.<br>Bezüglich der Frage, ob die Rechtsmittelführerinnen von der [...] Verordnung Nr. 123/97 individuell betroffen [...] sind, ist daran zu erinnern, dass ein Rechtsakt [...] nach ständiger Rechtsprechung seine [...] allgemeine Geltung und damit seinen Normcharakter nicht dadurch verliert, dass sich die Rechtssubjekte, auf die er in einem bestimmten Zeitpunkt Anwendung findet, der Zahl oder sogar der Identität nach mehr oder weniger genau bestimmen lassen, solange feststeht, dass diese Anwendung aufgrund einer objektiven rechtlichen oder tatsächlichen Situation erfolgt, die in dem Rechtsakt im Zusammenhang mit seiner Zielsetzung umschrieben ist (vgl. u. a. Urteil Codorniu/Rat, Randnr. 18). -> On the question whether the appellants are [...] individually concerned by Regulation No 123/97, [...] it is settled case-law that the general [...] application and hence the legislative nature [...] of a measure is not called into question by the fact that it is possible to identify more or less exactly the number or even the identity of the persons to whom it applies at any given time, as long as it is established that it applies to them by virtue of an objective legal or factual situation defined by the measure in question in relation to its purpose (see, inter alia, Codorniu, paragraph 18).<br>Ich darf noch [...] einmal daran erinnern: Missbilligung [...] der unverhältnismäßigen Reaktion Russlands, Unterstützung Georgiens auf [...] finanziellem, humanitärem, wirtschaftlichem und politischem Gebiet, Bekräftigung der Stärkung der Beziehungen zwischen der Europäischen Union und Georgien, Umsetzung des Sechs-Punkte-Plans zur Beilegung des Konflikts, einschließlich - wie von einigen herausgestellt - der Errichtung eines internationalen Überwachungsmechanismus, Engagement der Europäischen Union vor Ort durch Entsendung eines Sonderbeauftragten, Stärkung der östlichen Partnerschaft, insbesondere zum Schwarzmeerraum und zur Ukraine - das wurde in den heutigen Schlussfolgerungen ausdrücklich unterstrichen - und eine Energiepolitik, die auf europäischer Ebene diversifizierter, unabhängiger und besser organisiert ist. -> I would remind you of these: condemnation [...] of Russia's disproportionate reaction; support for Georgia in the financial, humanitarian, [...] economic and political spheres; confirmation of the strengthening of the relationship between the European Union and Georgia; implementation of the six-point conflict resolution plan including - and several of you have stressed this point - the existence of an international monitoring mechanism; commitment of the European Union on the ground by sending a Special Representative; strengthening of the eastern partnership, particularly with regard to the Black Sea area and Ukraine, which was explicitly underlined in today's conclusions, and an energy policy which is more diverse and independent and better organised at European level.",
+                "",
+                "remind<br>remembrance<br>remember<br>recollect"
+            ],
+            "guid": "Fjcdnnr<?N",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gewöhnen",
+                "an",
+                "Akkusativ",
+                "S. 52",
+                "Es dauerte eine Weile, bis sich der Hund an sein neues Zuhause gewöhnt hatte. -> It took the dog some time to get used to his new home.<br>Ich habe mich schnell an die neue Situation gewöhnt. -> I quickly accustomed myself to the new situation.<br>Ich habe mich an das Wüstenklima gewöhnt. -> I have adapted to the desert climate.<br>Er gewöhnte sich allmählich an die lange Arbeitszeit in der Firma. -> He gradually attuned to the long working hours in the company.A. K.: Die Kunsthochschule und das Gewöhnen an eine Ökonomie, wie sie im [...] Kunstfeld herrscht, führt uns relativ weit weg [...] von der Fragestellung des Abends. -> A.K.: The Art Academy and how it [...] reconciles its students to the economics that rule the art world leads [...] us relatively far from our [...] discussion topic this evening, but of course the question of how we can interact with the economy is completely valid.<br>Wie er sich entwickelte und die [...] Mechanik dieses immer-weiter-Fortschreitens in [...] den Krieg, das Gewöhnen an die Brutalität, [...] das Abstumpfen gegenüber der Brutalität [...] des Krieges und die fortwährende Investition in den Krieg sind immer noch völlig ungelöste Fragen in der Forschung. -> How it developed and the mechanism of advancing more and more into [...] the war, the getting to terms with the brutality, [...] the getting dull towards the brutality [...] of the war and the keeping on investing in the war, is a totally unsolved question.<br>Ohne Vertrauen kein Training Wichtig für das Vertrauen ist auch, dass [...] man den Tieren Zeit lässt, sich an [...] die neue Umgebung zu gewöhnen, an die Geräusche, an [...] den Tagesablauf, an das Futter - und natürlich an uns Pfleger. -> To build trust, it is also important to [...] provide the animals with the time [...] necessary to become accustomed to their new environment [...] - to noises, the daily routine, [...] the food, and, of course, to us care staff.<br>Ein Tipp für Urlauber aus Übersee: Gönnen Sie sich nach der Landung und vor dem [...] Abflug eine oder zwei Nächte Aufenthalt in Windhoek - zum Ankommen, [...] Akklimatisieren und zum Gewöhnen an den Linksverkehr. -> do yourself a favour and spend one or two nights in [...] Windhoek after your arrival and before your leave - to find your bearings, [...] acclimatize and to adjust to driving on the left.<br>Bei den Fahrern und sämtlichen Team-Mitarbeitern vom LEOPARD TREK Team herrscht schon heute grosses Vertrauen, dabei haben die Vorbereitungen für die Rennsaison 2011 [...] gerade erst begonnen - mit der Abstimmung von Sitzpositionen und [...] Einstellungen und dem ersten Gewöhnen an das neue Equipment. -> A real sense of confidence surrounds Team LEOPARD TREK riders and staff, as they have already begun [...] preparations for the 2011 race calendar, dialing in measurements, making [...] adjustments and getting acclimated to their new equipment.",
+                "",
+                "accustom to<br>inure to<br>get used to<br>get accustomed to<br>get used to<br>accustom oneself to<br>adapt to<br>attune to<br>adjust oneself to<br>acclimatize to<br>get accustomed to<br>acclimatise to<br>become inured to"
+            ],
+            "guid": "n.Kmp8(UOs",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "glauben",
+                "an",
+                "Akkusativ",
+                "S. 52",
+                "Ich glaube an Feen. -> I believe in fairies.<br>Ich glaube, ich habe aus Versehen den Herd angelassen. -> I believe I accidentally left the stove on.Wir glauben an eine Regionalpolitik, [...] die das Ungleichgewicht zwischen den wohlhabendsten und den ärmsten Regionen wieder [...] ins Gleichgewicht bringt, Solidarität fördert, ärmeren Regionen hilft, ihren Rückstand gegenüber den entwickelteren Regionen aufzuholen, Industrieregionen, die einen wirtschaftlichen Rückgang erleben, umstrukturiert, die Wirtschaft in den ländlichen Gebieten diversifiziert, der Schaffung von Arbeitsplätzen den Vorrang einräumt und den Mitgliedstaaten dabei hilft, den Herausforderungen der Erweiterung und Globalisierung entgegenzutreten. -> We believe in a regional policy that [...] redresses the economic imbalance between the wealthiest and poorest regions of the [...] Union, promoting solidarity, helping lagging regions to catch up with the most prosperous ones, restructuring industrial regions in decline, diversifying the economies of rural areas, setting job creation as a primary concern, strengthening the economic, social and territorial cohesion of the Union and helping member states to face the challenges of enlargement and globalisation.<br>Wir, das multinationale Volk der Rußländischen Föderation, vereint durch das gemeinsame Schicksal auf unserem Boden, die Rechte und Freiheiten des Menschen, den inneren Frieden und die Eintracht bekräftigend, die historisch entstandene staatliche Einheit wahrend, ausgehend von den allgemein anerkannten Prinzipien der Gleichberechtigung und Selbstbestimmung der Völker, das Ansehen der Vorfahren ehrend, die [...] uns Liebe und Achtung [...] gegenüber dem Vaterland sowie den Glauben an das Gute und an die Gerechtigkeit [...] überliefert haben, die [...] souveräne Staatlichkeit Rußlands wiederbelebend und die Unerschütterlichkeit seiner demokratischen Grundlagen bekräftigend, danach strebend, das Wohlergehen und das Gedeihen Rußlands zu gewährleisten, ausgehend von der Verantwortung für unsere Heimat vor der jetzigen und vor künftigen Generationen, im Bewußtsein, Teil der Weltgemeinschaft zu sein, geben uns die VERFASSUNG DER RUSSLÄNDISCHEN FÖDERATION. -> We, the multinational people of the Russian Federation, united by a common fate on our land, establishing human rights and freedoms, civic peace and accord, preserving the historically established state unity, proceeding from the universally recognized principles of equality and self-determination of peoples, revering the [...] memory of ancestors who [...] have conveyed to us the love for the Fatherland, belief in the good and [...] justice, reviving the sovereign [...] statehood of Russia and asserting the firmness of its democratic basic, striving to ensure the well-being and prosperity of Russia, proceeding from the responsibility for our Fatherland before the present and future generations, recognizing ourselves as part of the world community, adopt the CONSTITUTION OF THE RUSSIAN FEDERATION.<br>Und das ist die Zeit, die noch vor euch liegt, die kommen wird unwiderruflich und die überwunden werden muß, weil es nun gilt, die Böcke von den Schafen zu scheiden, weil eine Klärung der Gesinnung des einzelnen kommen muß, weil sich der einzelne entscheiden muß für oder gegen Gott und eine solche Entscheidung in völlig freiem Willen stattfinden soll und daher auch eine Bedrängnis von seiten irdischer Gewalt zugelassen ist, wie aber auch Gnaden von oben [...] ungewöhnlich Kraft geben denen, die sie [...] nützen wollen im Glauben an Gott - an Jesus Christus, [...] den Sohn Gottes und Erlöser der Welt. -> And that is the time that still lies ahead of you, that will come irrevocably and that has to be overcome as it is now a matter of separating the goats from the sheep because a clarification of the mentality of the individual has to come because the individual has to decide for or against God and such a decision is supposed to take place in complete free will and that is why also an oppression on the part of earthly authority is allowed but as also favours from [...] above give unusual strength to those [...] who want to use them in faith in God - in Jesus Christ, [...] the son of God and redeemer of the world.<br>Während die Beweislast für das Vorliegen einer behaupteten Vertragsverletzung bei der Kommission liegt (57 ), hat der Gerichtshof klar ausgeführt, dass Mitgliedstaaten gemäß Artikel 10 des Vertrags verpflichtet sind, der Kommission die Erfüllung ihrer Aufgaben zu erleichtern, was [...] insbesondere bedeutet, dass sie verpflichtet [...] sind, nach Treu und Glauben an den Untersuchungen [...] der Kommission mitzuwirken und ihr [...] alle zu diesem Zweck angeforderten Auskünfte zu erteilen (58 ). -> While the Commission has the burden of proving the allegation that an obligation has not been fulfilled (57 ), the Court has clearly established that Member States are required, under Article 10 of the Treaty, to facilitate the achievement of the Commission's tasks, which [...] means in particular that they are required [...] to cooperate in good faith with the Commission's [...] enquiries and to provide it with [...] all the information requested for that purpose (58 ).<br>Gerade das ist das Spannende, das uns den Völkerapostel nicht nur als erfolgreichen Missionar und gescheiten Theologen, sondern als einen von seiner Mission ganz und gar Überzeugten sehen lässt - als einen Menschen, der durch seine vielfältigen religiösen und kulturellen Wurzeln geprägt ist, dessen Leben durch seine [...] Berufungserfahrung eine entscheidende Richtung [...] erhält und der seinen Glauben an Christus Jesus in [...] origineller und originärer Weise interpretiert und an andere weitergibt. -> This is precisely what makes this quest exciting, that the Apostle to the Gentiles allows us to see him not only as a successful missionary and clever theologian, but as a man totally convinced of his mission - as a man who bears the stamp of his own diverse religious and cultural roots, whose life is decisively shaped by [...] his call experience and who in a creative and original way interprets and [...] hands on to others his faith in Jesus Christ.",
+                "",
+                "believe in"
+            ],
+            "guid": "Rh~m1m|k3,",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich wenden",
+                "an",
+                "Akkusativ",
+                "S. 52",
+                "Die Gäste können sich zwecks Empfehlungen an die Hotelrezeption wenden. -> Guests can contact the hotel reception for recommendations.<br>Wenden Sie sich bei Fragen bitte an den Kundendienst. -> Please contact customer service if you have any questions.<br>Sie müssen sich an die zuständigen Behörden wenden. -> You must apply to the competent authorities.<br>Unsere Kunden können sich jederzeit an den Kundendienst wenden. -> Our clients can approach customer service at any time.Bei Fragen zur Erhebung, Verarbeitung oder Nutzung [...] Ihrer personenbezogenen Daten durch ein Unternehmen der Euler Hermes [...] Kreditversicherungs-Gruppe können Sie sich wenden an -> All questions concerning the collection, [...] processing or use of your personal data by a company of the Euler Hermes Kreditversicherungs [...] Group should be addressed to<br>Für genauere [...] Informationen über das Schulprogramm und über die weltweite Anerkennung des IB können Sie sich wenden an -> Further information on the curriculum and the international recognition of the IB is given by<br>Für weitere Informationen kann man sich wenden an die BWZ, der Berufsvereinigung für Wehrhaftigkeits- und Selbstverteidigungsdozenten. -> For more information you can contact BWZ (beroepsvereniging voor docenten weerbaarheid en zelfverdediging), the professional association for teachers in assertiveness and self-defence.<br>Die Anschriften und Telefonnummern der [...] zuständigen Finanzämter [...] finden Sie auf der Website des Finanzamts unter www.vmi.lt. Sie können sich auch direkt wenden an -> Information on the address and telephone [...] numbers of the local tax [...] offices can be found on the website of the State Tax Inspectorate: www.vmi.lt or by contacting<br>Bei Fragen zur Erhebung, Verarbeitung oder Nutzung seiner personenbezogenen Daten [...] oder sonstigen Fragen zu [...] seinen Daten kann sich der Nutzer jederzeit wenden an den Servtag Datenschutzbeauftragten [...] unter [...] agb@friendticker.com oder an . -> In the event of any questions related to the collection, processing or use of [...] its personal data [...] or for any other questions related to its data the User may contact [...] the Servtag data protection representative [...] under agb@friendticker.com or contact",
+                "",
+                "be addressed to<br>contact<br>apply to<br>approach<br>turn to<br>address<br>ask<br>refer to<br>resort to<br>call upon<br>address oneself to"
+            ],
+            "guid": "xj0Rv&%3oS",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "achten",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Die Benutzer sollten auf E-Mails von unbekannten Absendern achten. -> Users should look out for e-mails from unknown senders.<br>Beim Autofahren achte ich auf die Verkehrszeichen. -> When driving, I pay attention to the traffic signs.<br>Er achtet auf sein Erscheinungsbild. -> He takes care of his appearance.Gerade weil wir ein expandierendes Unternehmen mit wachsender Größe und laufend sich verändernden Strukturen sind, entwickeln wir [...] unsere Systeme zur Unternehmenskontrolle ständig auf Effizienz und [...] Konsistenz weiter und achten auf deren strikte [...] Einhaltung. -> Since we are expanding our company, thus increasing its size and continuously changing its structures, we constantly refine [...] the efficiency and consistency of the [...] systems we have in place to control the company, [...] while ensuring that they are strictly complied with.<br>Sie wird an alle Parteien appellieren, die Menschenrechte und die Grundfreiheiten insgesamt, einschließlich des Rechts auf Leben, Freiheit und persönliche Sicherheit, anzuerkennen, zu [...] schützen und zu fördern und die [...] VN-Menschenrechtserklärung zu achten, auf die sich die internationale [...] Gemeinschaft und auch Afghanistan wiederholt berufen hat. -> call on all parties to recognise, protect and promote all human rights and fundamental freedoms including the right to [...] life, liberty and security of persons [...] and also to respect the UN Declaration on Human Rights, [...] which has been repeatedly endorsed [...] by the international community, including Afghanistan<br>Qualität und Sicherheit - immer mehr Menschen [...] in Deutschland achten auf eine ausgewogene [...] Ernährung und bevorzugen hochwertige Lebensmittel. -> Quality and security - more and more [...] people in Germany value balanced nutrition [...] and prefer highquality food.<br>Wir legen unsere vorhandene Liquidität [...] konservativ an und achten auf schnelle Verfügbarkeit, [...] sowohl um unseren Bestandskunden [...] weiterhin mit Finanzierungen zur Verfügung stehen zu können als auch um für eine eventuelle erneute Verschärfung der Finanzmarkt­ und Wirtschaftskrise gewappnet zu sein. -> We invest our available liquidity in a [...] conservative manner and ensure quick access, in [...] order to provide continued financing [...] support to our existing clients as well as being well­equipped to deal with a potential deterioration of the financial and economic crisis.<br>Sie klären die Ziele, analysieren das [...] Projektumfeld, stellen das Team [...] auf, planen Abläufe, Termine, Ressourcen und Kosten, achten auf Finanzierungsbedingungen, verteilen und dokumentieren [...] Informationen, verfolgen [...] den Projektfortschritt und berichten darüber, integrieren Änderungen, betreiben Vertrags- und Claim-Management, verhandeln, setzen sich mit Konflikten und gruppendynamischen Prozessen auseinander und vieles mehr. -> They clarify the objectives, analyse the project environment, put together the team, plan processes, [...] timeframes, resources [...] and costs and consider finance requirements, distribute and document information, track and report on project progress, [...] integrate changes, [...] handle contract and claim management, conduct negotiations, deal with conflicts, dynamic team processes and many other things.",
+                "",
+                "watch out for<br>pay attention to<br>look out for<br>consider<br>observe<br>heed<br>take heed of<br>give attention to<br>be vigilant about<br>pay attention to<br>take care of<br>look after<br>keep an eye on<br>watch out for"
+            ],
+            "guid": "v!W(}YAX9i",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "antworten",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Der EDSB merkt ferner an, dass in der Mitteilung des Rechnungsführers ausgeführt wird, dass die Bestimmung, die in sämtlichen von den Finanzakteuren organisierten Ausschreibungen enthalten sein muss, unter anderem den folgenden Text [...] enthalten muss: \"Sofern nicht anders [...] angegeben, werden die Antworten auf die Fragen und [...] die erhobenen personenbezogenen Daten, [...] die gemäß der Aufforderung zur Angebotsabgabe zur Bewertung des Angebots benötigt werden, ausschließlich von [für die Datenverarbeitung als verantwortlich zugeteilte Stelle] nur zu diesem Zweck [gegebenenfalls sind andere Verarbeitungszwecke anzugeben] verarbeitet. -> Nevertheless, the EDPS also points out that the memorandum from the Accounting Officer stipulates that the clause to be inserted in all invitations to tender organised by financial operators must contain, among [...] other things, the following text: \"Unless [...] otherwise stated, responses to the questions [...] and the personal data requested are necessary [...] for the evaluation of your tender, in accordance with the specifications of the invitation to tender, and will be processed solely by [entity appointed as controller] for this purpose [and, if applicable, for other relevant purposes to be specified].<br>kritisiert scharf, dass die Kommission den Fortschrittsbericht gemäß Artikel 15 der OLAF-Verordnung mit mehr als einem Jahr Verspätung erst am 31. Juli 2003 offiziell an das Europäische Parlament und den Rat übermittelt hat; stellt fest, dass der Bericht [...] von den Ereignissen bereits überholt [...] ist, weil er keine Antworten auf gravierende Probleme [...] in der Untersuchungstätigkeit des [...] Amtes gibt, die seit längerem erkennbar waren und durch den Fall Eurostat nun offensichtlich geworden sind; betrachtet dies als weiteren Beleg dafür, dass es ein Fehler war, die Zuständigkeiten für die Aufstellung des Haushaltsplans, die Buchführung und die Betrugsbekämpfung in den Händen eines Kommissionsmitglieds zu konzentrieren, da dies unweigerlich zu einem Interessenkonflikt führt; fordert nachdrücklich, dass dieser Interessenkonflikt in Zukunft vermieden wird -> Strongly criticises the Commission for not officially transmitting the progress report required under Article 15 of the OLAF Regulation to the European Parliament and the Council until 31 July 2003, more than a year late; notes that the report has [...] already been overtaken by events, [...] because it provides no answers to serious problems in [...] the Office's investigative activities [...] which had long been discernible and have now become obvious as a result of the Eurostat case; regards this as further proof that it was a mistake to concentrate the competences for drawing up the budget and keeping accounts and for combating fraud in the hands of one Member of the Commission, because this inevitably creates a conflict of interest; insists that this conflict of interest be avoided in future<br>Plausible Praxis: Zentral für die Verbreitungsfähigkeit neuartiger Handlungsmuster ist, [...] dass sie aufgrund der [...] einleuchtenden Machbarkeit generalisierbare Antworten auf drängende Praxisprobleme enthalten, zugleich [...] anschlussfähig an wissenschaftliche [...] Erkenntnisse sind und in die vorhandenen institutionellen Handlungsspielräume passen. -> Plausible practice: it is crucial for the disseminability of innovative [...] action paradigms that [...] by reason of their plausible feasibility they contain generalizable answers to exigent practical [...] problems, while at the [...] same time they can be meaningfully linked to academic insights and fitted into the existing options for institutional action.<br>Dennoch trifft die globale Wirtschaftsschwäche auch unser Unternehmen. krones ist aber nicht in der Krise, sondern ein [...] kerngesundes, gut positioniertes und sehr leistungsfähiges [...] Unternehmen, das Antworten auf die neuen Herausforderungen hat. -> Nevertheless, the weakness of the global economy is also having an effect on us. krones is not in crisis, however, but instead [...] a fundamentally healthy, well positioned and very efficient [...] company that has the answers to the challenges we [...] now face.<br>Wir sehen Einzelne auf der Suche nach dem sinnvollen Leben; Paare auf der Suche nach der schönen Beziehung; Manager auf der Suche nach der guten Unternehmenskultur; Stadtplaner und Stadtbewohner auf der Suche nach dem lebenswerten öffentlichen Raum; [...] Naturwissenschafter und Techniker auf [...] der Suche nach Antworten auf die ethischen Fragen, [...] zu denen ihre Innovationen führen; [...] Produzenten auf der Suche nach einem Verstehen der Konsumenten; das Feuilleton auf der Suche nach Intersubjektivität. -> We see individuals searching for a meaningful life; couples searching for gratifying relationship; managers searching for a positive corporate culture; urban planners and urbanites searching for livable public [...] spaces; natural scientists and [...] technologists searching for answers to the ethical questions [...] raised by their innovations; producers [...] seeking to understand consumers; publications in the arts and humanities seeking inter-subjectivity.",
+                "",
+                ""
+            ],
+            "guid": "n_9+9j1eEp",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aufpassen",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Ich muss immer auf meine kleine Schwester aufpassen, wenn meine Eltern ausgehen. -> I always have to watch my little sister when my parents go out.<br>Er passte auf dem Spielplatz auf seine Schwester auf. -> He kept an eye on his sister at the playground.<br>Sie passt immer auf ihren kleinen Bruder auf. -> She always looks out for her younger brother.Aufpassen auf sich selbst und auf persönlichen Besitz Die [...] verschiedenen Aufgabenbereiche respektieren -> Be involved in the local community Write the final reports<br>Die sieben Zwischenstadien der [...] Erleuchtung zu realisieren, beginnt mit ACHTSAMKEIT, aufpassen auf den Körper und die Gefühle, das Bewusstsein und die [...] mentale Verfassung, [...] die Gedanken und Ideen, damit, klares, brennendes Bewu&szligtsein zu haben, um die Begierden und Niedergeschlagenheit wahrzunehmen; die Achtsamkeit ist gefolgt von der UNTERSUCHUNG des Dharmas, des Lernens und sich Erinnerns, daß die Lehre uns zur wahren Wirklichkeit führt; gefolgt vom WILLEN der Anstrengung; gefolgt vom EIFER; darauf folgt die RUHE, dann die KONZENTRATION und schlie&szliglich die GELASSENHEIT. -> The Seven Links of Enlightenment to cultivate begin with MINDFULNESS, contemplating body and feelings, mind and mental states, [...] thought and ideas, [...] ardent, clearly conscious of them and mindful of them so as to control the covetousness and dejection common in the world; followed by INVESTIGATION of the Dharma, learning and remembering the doctrine that leads to True Reality, the Uncreated; followed by ENERGY of effort; followed by ZEST; then TRANQUILITY; then CONCENTRATION; and finally EQUANIMITY.<br>Wenn Sie Sichtprobleme antreffen, müssen Sie [...] diese Website aufpassen auf Auflösung: 1024 [...] x 768 oder 800 x 600. -> You need to watch this site on a screen resolution [...] of 1024 x 768 or 800 x 600 if you encounter visual problems.<br>Irgend wann aber stand ich da und [...] merkte, dass ich vor Ort sein musste, Tag und Nacht [...] arbeiten und aufpassen, auf das Geld, auf [...] die Kinder, einfach auf alles. -> Somewhere along the way I stood here and [...] realized that I have to stay here to work day and [...] night and to take care of the money, the children and everything.<br>Aber es heißt aufpassen auf dieses kleine [...] Teil und es nicht mit der Kassette zu Kodak zur Entwicklung schicken, sonst ist es für immer verloren. -> Then, however, you had [...] better keep an eye on this little gadget, [...] and don?t ever send it inside the cartridge to Kodak for [...] development unless you are anxious to get rid of it.",
+                "",
+                "watch<br>keep an eye on<br>look out for<br>take care of<br>babysit<br>look after<br>watch out for<br>take heed of"
+            ],
+            "guid": "Plt,L_`P=+",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich beziehen",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Die Diskussion muss sich auf die aktuellen Umstände beziehen. -> The debate needs to relate to the current circumstances.Standortdaten können sich beziehen auf den Standort [...] des Endgeräts des Nutzers nach geografischer Länge, Breite und Höhe, die Übertragungsrichtung, [...] den Grad der Genauigkeit der Standortinformationen, die Identifizierung des Netzpunktes, an dem sich das Endgerät zu einem bestimmten Zeitpunkt befindet, und den Zeitpunkt, zu dem die Standortinformationen erfasst wurden. -> Location data may refer to the latitude, longitude [...] and altitude of the user's terminal equipment, to the direction of travel, to the [...] level of accuracy of the location information, to the identification of the network cell in which the terminal equipment is located at a certain point in time and to the time the location information was recorded.<br>Neue Eigenschaften bzw. [...] Funktionalitäten können sich beziehen auf: Kratzfestigkeit, [...] Farbigkeit, Transparenz, Leitfähigkeit, Festigkeit etc. -> New properties and/or [...] functionalities can relate to: scratch resistance, [...] colourfulness, transparency, conductivity, strength etc.<br>Bei dieser These ist leider durch die [...] Formulierung nicht ganz klar, worauf die [...] Antwortenden sich beziehen, auf die Mikrowellen-Thermie [...] oder die Computersimulation, [...] beides sind technische Entwicklungen. -> The phrasing of the thesis and the answers do [...] not make absolutely clear what the [...] answering participants refer to, whether it is the [...] microwave therapy or the computer simulation.<br>Sonderwünsche auf Abweichungen von der [...] Standardfertigung können sich beziehen auf die Abmessungen [...] (Manteldicke, Isolationsschichtdicke, [...] Aderndurchmesser), die Zahl und Ausführung der Adern, die Material-Kombinationen Mantel / Isolation / Innenleiter, oder auch spezielle elektrische oder sonstige physikalische Eigenschaften. -> These special requests can be deviations from the standard [...] production such as dimensions (sheath thickness, insulation thickness, [...] conductor diameter), the number and design of the conductors, the material combination sheath / insulation / inner conductor or special electrical or other physical properties.<br>Der Gerichtshof statuierte, dass der Art. 48 des EU-Abkommens (jetzt Art. 39) die Anwendung der in einem Mitgliedsstaat von Sportverbänden erlassenen Bestimmungen behindert, die verbieten, dass ein Basketballverein aus anderen Mitgliedsstaaten kommende Spieler bei nationalen Basketballmeisterschaften auf dem Spielfeld aufstellen, die nach einem bestimmten Datum versetzt wurden, wenn dieses Datum dem vorausgeht, das für das Versetzen von aus manchen Drittländern kommenden Spieler angewendet wird und eine derartige Ungleichbehandlung nicht rechtfertigt, es sei denn aus [...] objektiven Gründen, die sich [...] ausschließlich auf den Sport an und für sich beziehen oder auf Differenzen zwischen [...] den von einem Verein [...] kommenden Spielern, die dem europäischen Gebiet angehören, und dem der Spieler, die von einem Verein kommen, der diesem Gebiet nicht angehört. -> The Court ruled that art. 48 of the EEC Treaty (now art. 39) prevents the application of regulations issued in a Member State by sports associations which forbid a basketball company to choose players coming from other Member States to play in games in the National Championships, who had been transferred after a certain data, if such date was before that which is applied to transfers of players coming from some third countries, unless [...] objective reasons which [...] concern solely the sport itself and for itself or relative to differences existing [...] between the situation [...] of players coming from a Federation belonging to the European zone and that of players coming from a Federation which does not belong to said zone, do not justify such a disparity of treatment.",
+                "",
+                "concern<br>refer to<br>relate to<br>pertain to<br>bear on"
+            ],
+            "guid": "wi!kk~n-SH",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich freuen",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Er freut sich auf seine Reise. -> He is looking forward to his trip.Und diese darf sich freuen auf ihr erstes Teilstück, das in die norwegische [...] Hauptstadt Oslo führt. -> They will enjoy their first stage, which leads them to the capital Oslo.<br>Wenn Auswahl für Sie ein wichtiger Punkt ist, [...] dann werden Sie sich freuen: Auf der Inselgruppe [...] gibt es mehr als 20 Golfplätze. -> If choice is essential for you, then you are in luck: there are [...] more than 20 golf courses on the archipelago.<br>Nach der Biofumar [...] Ohr-Injektions-Therapie\" werden Sie sich freuen auf Ihre Zeit als [...] Nichtraucher -> After the BioFumar ear injection therapy you will be [...] able to look forward to your time as non-smoker<br>Sie dürfen sich freuen auf innovative Architektur und hohen Zimmerkomfort, denn [...] alle Zimmer sind in hellem und modernem [...] Ambiente gestaltet und mit eigener Dusche und separatem WC ausgestattet. -> Look forward to innovative architectural design and high standards of comfort in [...] the rooms. All rooms are designed in a [...] light and modern style and have their own shower and separate toilet.<br>Es gibt viele [...] Gebäude, die sich freuen auf diesem Weg sowie [...] Geschäfte und historische Gebäude in Erinnerung an die Grünen, [...] außerhalb der Platz, der seinen Namen trägt. -> There are many [...] buildings that look out onto this road as well as [...] shops and historic buildings in memory of the Greens, outside [...] the square that bears his name.",
+                "",
+                "look forward to"
+            ],
+            "guid": "w@M3m<:?[}",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "es kommt an",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Ich glaube, dass uns die \"Erddemokratie\" dazu befähigen kann, [...] [...] lebendige Demokratien auf der Grundlage der inneren Wert aller Arten, aller Völker, aller Kulturen zu entwickeln: Es kommt auf eine gerechte Verteilung dieser lebenswichtigen Ressourcen an und auf eine gemeinsame Entscheidungen darüber, wie die Ressourcen der Erde genutzt werden sollen. -> I believe that ''earth democracy'' enables us to envision and create living democracies based on the intrinsic worth of all species, all peoples, all cultures - a just and equal sharing of this earth's vital resources, and sharing the decisions about the use of the earth's resources.<br>Nicht auf Jammern und Klagen über [...] fehlende Rechte kommt es an, sondern auf die konsequente [...] und mutige Nutzung der vorhandenen [...] Rechte bis in die letzte Nische und auf den unermüdlichen Einsatz mit Leidenschaft und Augenmaß für die Stärkung der parlamentarischen Demokratie in der Union! -> We should not be weeping and [...] wailing about rights we feel we ought to have but making consistent, [...] courageous use of the rights [...] we do have, down to the last detail, and working tirelessly, passionately and perceptively to strengthen parliamentary democracy in the Union!<br>Armutspolitik ist keine einfache Aneinanderreihung; es kommt auf mehrere Aspekte an: Gleichzeitigkeit - Versorgung der Betroffenen mit mehreren Dienstleistungen; Komplementarität - d. h. die Kombination von Instrumenten, um auf verschiedene Aspekte und Ausprägungen von Armut einzugehen; und schließlich Substituierbarkeit - die Anwendung verschiedener [...] [...] Politikmaßnahmen zur Erreichung ähnlicher Ziele unter unterschiedlichen Rahmenbedingungen. -> Anti-poverty policy is not simply additive but requires: simultaneity - the delivery of multiple services to the same people; complementarity - different combinations of policies to address different aspects and kinds of poverty; and substitutability - the application of different policies to attain similar goals in different circumstances.<br>Diese Richtlinie hat jedoch weder Harmonisierungsaspekte aufgeworfen - und einzelne Genehmigungen decken das auch absolut nicht ab -, noch [...] ist eine rechtzeitige Koordinierung der einzelstaatlichen [...] Entscheidungen vorgesehen, und auf dieses Moment kommt es an. -> However, that directive does not address issues of harmonization - which are certainly not covered by individual licences - and nor are [...] there any plans for the coordination of decisions by the [...] individual countries in good time, and that is the crucial factor.<br>Im Interesse eines gut [...] funktionierenden Gasmarktes kommt es mit Blick auf mögliche Versorgungsstörungen wie diejenige, die im Januar 2009 aufgetreten ist, darauf an, dass die Erdgasunternehmen [...] rechtzeitig [...] die notwendigen Investitionen in die eigene Produktion und Infrastruktur, zum Beispiel in Verbindungsleitungen - insbesondere für den Zugang zum Gasnetz der Union -, in die für physische Lastflüsse in beide Richtungen notwendige Ausrüstung von Pipelines sowie in die Speicherung und in Anlagen zur Regasifizierung von LNG, tätigen. -> It is essential in the interests of a well-functioning gas market that the necessary investments in indigenous production and infrastructures, [...] such as interconnections, in particular [...] those providing access to the gas network of the Union, equipment allowing physical bi-directional gas flows on pipelines as well as storage and LNG re-gasification facilities, be made by natural gas undertakings in good time, bearing in mind possible supply disruptions such as the one that occurred in January 2009.",
+                "",
+                ""
+            ],
+            "guid": "c-e_3(JCU(",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich verlassen",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Ich kann mich immer auf meine Freunde verlassen. -> I can always rely on my friends.<br>Ich lasse meine Kinder nur bei Leuten, auf die ich mich verlassen kann. -> I only leave my children with people I can trust.<br>Der Junge wusste, dass er sich auf seinen Bruder verlassen konnte. -> The boy knew he could depend on his brother.<br>Er konnte sich immer auf seinen Anwalt verlassen. -> He could always rely on his advocate.<br>Unsere Kunden können sich auf unser fachliches Know-how verlassen. -> Our clients can rely on our specialist know-how.<br>Der Junge wusste, dass er sich auf seinen Bruder verlassen konnte. -> The boy knew he could depend on his brother.<br>Ich kann mich auf meine Freunde verlassen, wenn ich Hilfe brauche. -> I can count on my friends when I need help.<br>Sie vertrauen ihm und verlassen sich auf seine Informationen. -> They trust him and rely upon his information.Die größten Schwächen sind die Abhängigkeit von wissenschaftlichen Gutachten bei der [...] Festsetzung der [...] Fangmengen für das Folgejahr und das Sich-Verlassen auf die Einhaltung der vereinbarten [...] TAC und Quoten. -> The main weaknesses are the dependency of [...] scientific advice on catch levels for the coming year and the reliance on enforcement [...] of the agreed TACs and quotas.<br>Solange die Information im besten Glauben vermittelt wird, werden keine Ansprüche oder Garantien daraus entstehen, was ihre Vollständigkeit oder Genauigkeit angeht, und es wird nicht [...] für Schaden jeglicher Natur gehaftet, der aus der [...] Nutzung oder auf dem sich Verlassen auf diese Information [...] hervorgeht. -> Whilst the information is provided in utmost good faith, no representations or warranties are made with regards to its completeness or accuracy and no [...] liability will be accepted for damages of any nature whatsoever [...] resulting from the use of or reliance on the information<br>Und die Angst vor dieser letzten Verwandlung ist allgemein, auf die kann man sich verlassen, auf die kann man bauen und das ist auch die Angst des Schauspielers und die Angst [...] des Zuschauers. -> And the fear of this last transformation is universal, it's dependable, one can use it as a foundation, and it's also the fear of the actor and the fear of the spectator.<br>Kunststoffhersteller, die sich mit ihren Produkten differenzieren wollen, verlassen sich auf Additive von Ciba und ihre vielfältigen Vorteile: von Lichtstabilisierung über Flammschutz bis hin zu [...] [...] antibakteriellen und visuellen Effekten. -> Plastics manufacturers seeking to differentiate their products depend on Ciba additives offering benefits from light stability to fire retardance, antimicrobial action to striking visual effects.<br>Denn im Zweifelsfall können Sie sich nur auf zweierlei verlassen: Auf Ihr Team und [...] auf Ihre Ausrüstung. -> After all, when it comes [...] down to it, there are only two things you can rely on: your team and [...] your equipment.",
+                "",
+                "rely on<br>count on<br>trust in<br>depend on<br>rely upon<br>rely on<br>depend on<br>count on<br>rely upon<br>counted on<br>trusted in"
+            ],
+            "guid": "A09lsM20=1",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verzichten",
+                "auf",
+                "Akkusativ",
+                "S. 52, S.44/6",
+                "Morgens kann ich [auf den] stark[en] Kaffee nicht {verzichten}.Er beschloss, auf den Ausflug zu verzichten, um Geld zu sparen. -> He decided to forego the trip in order to save money.<br>Ich verzichte auf alle Rechte und Ansprüche. -> I waive all rights and claims.<br>Er beschloss, auf den Ausflug zu verzichten, um Geld zu sparen. -> He decided to forego the trip in order to save money.<br>Ich denke, wir sollten auf die Förmlichkeiten verzichten und Klartext reden. -> I think we should dispense with the formalities and talk straight.<br>Ich musste auf das Mittagessen verzichten, um das Projekt abzuschließen. -> I had to forgo lunch in order to finish the project.Die Vertragsparteien verzichten auf gegenseitige Ansprüche [...] auf Erstattung der bei der Anwendung dieses Abkommens angefallenen [...] Kosten; hiervon ausgenommen sind gegebenenfalls Aufwendungen für Zeugen und Sachverständige sowie für Dolmetscher und Übersetzer, die nicht dem öffentlichen Dienst angehören. -> The Contracting Parties shall waive all claims on each other [...] for the reimbursement of expenses incurred pursuant to this [...] Agreement, except, as appropriate, for expenses to experts and witnesses, and those to interpreters and translators who are not public service employees.<br>) verzichten auf jegliche Ansprüche [...] gegen das Portal im Fall von einer unentgeltlichen Ausnutzung von diesem Inhalt und [...] im Fall vom Kopieren die Fotos für verbundenen mit den Aktivitäten des Portals Zwecke, sowie im Fall von ihrer Entfernung. -> ), waive any claims against the [...] Portal in case of gratuitous use of the content and copying pictures for purposes related [...] to the activities of the Portal, as well as in case of their removal.<br>Die Mitgliedstaaten verzichten auf eine besondere [...] Untersuchung von Schiffen, die in Drittländern registriert sind, wenn [...] das Zeugnis einer anerkannten Klassifikationsgesellschaft nach Anhang C 2 bestätigt, daß Bau und Ausrüstung des Schiffs den Vorschriften der Anhänge A, B.1 und B.2 von Anhang 1 entsprechen. -> Member States shall waive the requirements [...] for a special ship inspection of vessels registered in third countries, if a [...] certificate has been issued by a recognised classification society according to Annex C 2 establishing that the construction and equipment of the vessel corresponds to the applicable provisions of the Annexes A B.1 et B.2 Annex 1.<br>Der Käufer und seine Versicherer verzichten auf sämtliche Regressansprüche gegen Vauconsant [...] und dessen Versicherern, die über [...] die oben festgelegten Grenzen und Ausschlüsse hinausgehen. -> The Purchaser and [...] his insurers give up any recourse against Vauconsant and his insurers beyond the limits [...] and exclusions set out above.<br>Gleichzeitig wird damit auch die [...] Zahlungsbereitschaft der reichen Länder, zugunsten eines globalen Nutzens auf eigenes [...] Einkommen zu verzichten, auf die Probe gestellt. -> At the same time, the willingness of the [...] rich countries to renounce some of their own [...] income in favour of a global benefit is also put to the test.",
+                "to abstain (from) / to renounce",
+                "forego<br>dispense with<br>waive<br>forego<br>dispense with<br>forgo<br>renounce<br>abandon<br>resign from<br>abstain from<br>forfeit<br>do away with<br>sacrifice<br>skip<br>pass up<br>foreswear"
+            ],
+            "guid": "li<q5wE>VG",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich vorbereiten",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Der Reporter riet der Bevölkerung, sich auf den Sturm vorzubereiten. -> The reporter advised the public to prepare for the storm.Und es werden dort auch nicht große Erklärungen genügen, weil einfach der Wille fehlt, solchen Prophezeiungen Glauben zu schenken, weil die Liebe zur Welt stärker ist als die Liebe zum Nächsten, ansonsten ihr Geist erweckt wäre und sie nicht den geringsten Zweifel daran [...] haben könnten, was durch [...] Geistwirken Ich Selbst den Menschen verkünde, auf daß sie sich vorbereiten auf ein nahes Ende. -> And there great explanations will also not be enough simply because the will to believe such prophecies is missing, because love for the world is stronger than love for the neighbour, otherwise their spirit would be awakened and they could not have the [...] slightest doubt about what I [...] announce myself to men through spirit effort so that they prepare themselves for the near end.<br>Besser aber [...] ist es, wenn sie sich vorbereiten auf ein nahes Ende, [...] wenn sie mit der Möglichkeit rechnen, überraschend sich [...] einem Vernichtungswerk gegenüberzusehen, aus dem es kein Entrinnen mehr gibt. -> But it is [...] better when they prepare themselves for the near end, [...] when they reckon on the possibility to suddenly be up against [...] a work of destruction from which there is no longer any escaping.<br>Wer mit geistigen Augen blicket, der kann sich alle Geschehen erklären, denn alles hat geistigen Sinn und soll einen geistigen Zweck [...] erfüllen: die Menschen auf ihren eigentlichen Lebenszweck aufmerksam zu [...] machen, damit sie sich vorbereiten auf das nahe Gericht. -> Who sees with spiritual eyes can explain to himself all events because everything has spiritual meaning and is to fulfil a spiritual [...] purpose: to call men's attention to their actual purpose of life so [...] that they prepare themselves for the near judgement.<br>Und wer der Zeichen achtet, der wird auch nicht überrascht [...] sein, sondern sich vorbereiten auf das letzte Gericht, [...] auf das Ende und die Entscheidung. -> And he who pays attention to the signs he will also not be [...] surprised but will prepare himself for the last judgement, [...] for the end and the decision.<br>Lassen Sie sich vorbereiten auf den Umgang mit der Presse: Ob Sie als Geschäftsführer, Vorstand oder Vertriebsmitarbeiter mit der Fach- oder Wirtschaftspresse in Kontakt kommen. -> We train you in successful media interaction: You are the Managing Director, a Member of the Board or work in Sales with contact to the technical or business press.",
+                "",
+                "prepare for<br>brace oneself for<br>get ready for"
+            ],
+            "guid": "l$sdwQC%,6",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "warten",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Nach dem Flug musste ich lange auf mein Gepäck warten. -> After the flight I had to wait a long time for my luggage.<br>Halt! Warte auf mich! -> Hold on! Wait for me!<br>Halt! Warte auf mich! -> Hold on! Wait for me!Wenn ich nun diesem Haus vorschlage, nur minimale Änderungen am Gemeinsamen Standpunkt des Rates [...] vorzunehmen, dann tue ich dies nicht deshalb, [...] weil mich das lange Warten auf den Gemeinsamen Standpunkt [...] zermürbt hat, sondern deshalb, [...] weil ich zutiefst überzeugt bin, dass der Gemeinsame Standpunkt des Rates einen guten Kompromiss darstellt und der Rat von seiner ursprünglichen Ausgangsposition weit abgegangen ist und dem Europäischen Parlament und seinen inhaltlichen Vorstellungen aus der ersten Lesung weit entgegengekommen ist. -> If I now propose that Parliament make only minimal changes to the [...] Council common position, then I do so not [...] because the long wait for the common position has [...] worn me down but because I am deeply [...] convinced that the Council common position is a good compromise and that the Council has moved a long way from its original starting point and done a lot to accommodate Parliament and its objections to the content of the draft directive, raised at first reading.<br>Ich möchte unterstreichen, dass ich keine Stellung [...] beziehe, ob dies den Tatsachen entspricht oder nicht, aber [...] alle Parteien warten auf eine Entscheidung [...] der Kommission, von der sie in hohem Maße abhängig sind. -> I would like to emphasise that I have no view on whether this [...] is right or wrong, but [...] all parties are waiting for the Commission' [...] s decision and all parties are very much dependent on the Commission' decision.<br>Die im Laufe der Sitzungen behandelten [...] Themen (Erwartung der Apokalypse, Rettung der Menschheit, Warten auf Außerirdische, Rolle der neuen Apostel) und die angewandten [...] Techniken (Kommunikation [...] mit dem Jenseits, Trancen, Inszenierung von paranormalen Phänomenen, mehr oder minder demütigende Prüfungen) verfolgten ausschließlich das Ziel, die Personen psychologisch zu konditionieren. -> The only aim of the themes [...] elaborated upon during these meetings (the coming of the apocalypse, the salvation of mankind, the coming of extraterrestrials [...] and the role [...] of new apostles) and the techniques employed (communication with the other side, trances, enactments of supernatural phenomena, more or less humiliating rites of passage), was psychological conditioning.<br>Noch in jedem Zurück - sei es Hölderlins Hellasbeschwörung im geträumten \"Arkadien\", Nietzsches [...] Künstler-Aristokratismus als schöner Schein der \"blonden Bestie\", [...] Heideggers resigniertes Warten auf die \"Lichtung des Seins\" [...] - liegt ein solcher Verrat der Vernunft durch die [...] Vernunft, weil sie ihrer selbst überdrüssig ist, und genau dieser Verrat erst ermöglicht den Umschlag in mythisches beziehungsweise mystifizierendes und damit dämonisches \"Denken\", weil erst und gerade dann andere im Menschen liegende Antriebe die Oberhand über die Vernunft bekommen, atavistische Vorstellungen die Vernunft in ihren Dienst nehmen. -> Yet, in every retreat - be it Hölderlin's conjuring-up of ancient Greece in a dreamed-up [...] \"Arcadia\", Nietzsche's aristocracy of the artist as a beautiful image of the \"blonde beast\", [...] Heidegger's resigned waiting for the \"Lichtung des [...] Seins\" (clearing of [...] existence), - thee lies such a betrayal of reason by reason since it has grown tired of itself, and precisely this betrayal is what paves the way for a reversal to a mythical respectively mystifying and therefore demonic \"thinking\", since only then and precisely then do other forces lying in human beings gain the upper hand over reason, and atavistic concepts put reason into their service.<br>Daher ist das Warten auf ein Transportmittel oder [...] das Bewegen zwischen zwei Geschäften, nicht wirklich Bewegung, aber durch [...] die Unschärfe der Malerei, die Abstraktion der Hintergründe und die Ausschnittwahl des Motivs eine Metapher der zukünftigen, erwarteten Bewegung. -> Therefore is the attendant on a transportation [...] or moving between two businesses, not really movement, but through the fuzziness [...] of the painting, the abstraction of the backgrounds and the excerpt-selection of the motive a metaphor of the future ones, expected movement.",
+                "",
+                "wait for<br>wait for<br>watch for<br>wait on"
+            ],
+            "guid": "dD0_F%g}&|",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "eifersüchtig",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Es ist verständlich, daß die Völker, die [...] erst jüngst ihre politische Unabhängigkeit [...] erlangt haben, eifersüchtig auf ihre noch zerbrechliche [...] nationale Einheit bedacht sind und [...] sich bemühen, sie zu schützen. -> It is only natural that communities which have recently reached [...] their political [...] independence should be jealous of a national unity [...] which is still fragile, and that they should strive to protect it.<br>Dieser göttliche Schöpfungsplan wurde [...] aber - zunächst - vereitelt durch den \"Sündenfall\": Der [...] Erzengel Luzifer, eifersüchtig auf die größere Liebe [...] Gottes zu den Menschen als zu ihm, verführte Eva, die erste [...] menschliche Frau, zu sexuellen Verkehr (geistiger Fall), die daraufhin - in Erkenntnis ihrer eigentlichen Bestimmung, mit Adam, dem ersten menschlichen Mann, Kinder hervorzubringen - auch mit diesem sexuell verkehrte, obwohl sie noch nicht persönlich vervollkommnet waren (physischer Fall). -> However, this Divine Plan of Creation was to begin with - frustrated by the \"Fall of Man\": the [...] archangel Lucifer, jealous of God's greater love [...] of man than of himself, [...] tempted Eve, the first worldly woman, to engage in sexual relations (spiritual fall) who then - in knowledge of her own purpose of producing children with Adam, the first worldly man also had sexual relations with him although she was not yet perfect (physical fall).<br>Eitel, stolz und eifersüchtig auf Macht und Ehre versuchte dieser Geistesbruder [...] Jesu vergeblich, der Retter aller Menschheit [...] zu werden (Milton R. Hunter, The Gospel through the Ages, 15). -> Haughty, [...] ambitious, and covetous of power and glory, this spirit-brother of Jesus desperately [...] tried to become the Savior [...] of mankind (Milton R. Hunter, The Gospel through the Ages, 15).<br>Manchmal war Aisha [...] auch ein bißchen eifersüchtig auf die Kinder, die [...] im Haushalt des Propheten aufwuchsen, auf Ali, Fatima [...] und Umm Kulthum, die immer bei ihm sein durften und alles aus nächster Nähe lernen konnten. -> Sometimes [...] Aisha was slightly jealous of the children who [...] grew up in the Prophet's household, of Ali, Fatima and Umm Kulthum [...] who could be with him all the time and learn everything directly from him.<br>Er sicherlich froh, dass bald Vater werden, aber [...] gleichzeitig das Gefühl er war eifersüchtig auf die Zukunft Kind, fühlt sich [...] manchmal vergessen, unerwünscht. -> He certainly glad that soon become a [...] father, but at the same time feeling he was jealous of the future child, [...] sometimes feels forgotten, unwanted.",
+                "",
+                ""
+            ],
+            "guid": "tnC>L>|i5U",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "neidisch sein",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "In einem ökonomisch schwer angeschlagenen Land, in dem Dorfmädchen vor allem von einer Karriere als Modepüppchen in einer [...] Berlusconi-TV-Show träumen und in dem [...] viele Männer neidisch sind auf seinen Wohlstand, seine [...] Unantastbarkeit und die Aufmerksamkeit [...] von Frauen für den Übermacho, könnte Berlusconi für einen großen Teil der Bevölkerung ein Rollenmodell für die italienische Identität sein. -> In a country that is floundering economically, where village girls dream of a career as a fashion puppet on [...] one of Berlusconi's TV shows and [...] where many men envy him his wealth, his immunity and [...] all the attention this super-macho [...] gets from the ladies, Berlusconi could actually be a role model of the Italian identity for a large part of the population.<br>Ich selbst habe in diesem Teil Afrikas über 30 Jahre lang Fotos gemacht und jede einzelne Seite in diesem [...] fantastischen Buch lässt mich den Atem anhalten über die Schönheit und [...] kein bisschen neidisch sein auf den Erfolg der [...] Fotografen. -> I have been taking photographs of this part of Africa for more than 30 years, and [...] every page of this stunning book left me gasping at the [...] beauty (and not a little envious at the photographers' [...] success!<br>Ich erinnere mich an einen [...] Mitschüler, der neidisch war auf meine Kreativität, ich aber war neidisch auf seinen Mangel an Kreativität. -> I remember a fellow disciple was envious of my creativity, but I was envious of his lack of creativity.<br>Und so steht Architektin Zaha Hadid [...] vor einer genial zusammengebastelten [...] Bretterbude, auf die sie neidisch sein müsste, sitzt [...] Edelgalerist Thaddäus Ropac im Bilderrahmen [...] - dezent auf die Schaufel genommen, framed, steht Sammler Anton Schmölzer mit der Spiegelreflexkamera im Abfallhaufen des Slums von Baraccopoli, hat Galeristin Lisa Spellman soeben ihr Auto in die Luft gejagt und begibt sich barfuß aus der Gefahrenzone. -> Meet architect Zaha Hadid standing in front of a brilliantly [...] assembled shack she must be envious of, framed posh gallery [...] owner Thaddäus [...] Ropac sitting in a frame, collector Anton Schmölzer standing with a reflex camera in a rubbish heap of a Barrackopolis slum, art dealer Lisa Spellman who has just blown up her car and is leaving the danger zone with nothing on her feet.<br>Dieses System, auf das wir heute neidisch sein können, wies, [...] vor allem nach der Elektrifizierung, vier Schwachstellen auf. -> That system, which we might envy today, had four weaknesses, [...] especially after electrification.",
+                "",
+                ""
+            ],
+            "guid": "O|X-N4vgXg",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stolz sein",
+                "auf",
+                "Akkusativ",
+                "S. 52",
+                "Er war sehr stolz auf seine Leistung. -> He was very proud of his accomplishment.Die Kommission darf durchaus stolz sein auf ihre Bemühungen zur Verbesserung der analytischen Kapazitäten, [...] vor allem hinsichtlich der Einschätzung [...] der Terrorgefahr durch Europol und insbesondere hinsichtlich der konkreten Maßnahmen, die zur Erhöhung des Informationsflusses in Richtung Europol eingeleitet wurden, einschließlich des Austausches zwischen den Polizeidiensten und den Nachrichtendiensten der Mitgliedstaaten, um zu gewährleisten, dass dieses Kooperations- und Analyseinstrument gezielter und häufiger zum Einsatz kommen kann. -> The Commission can only welcome the [...] efforts made to improve analytical capabilities, especially as far as Europol's assessment of the terrorist [...] threat is concerned, [...] and particularly as regards the specific measures which have been taken to increase the amount of information provided to Europol, including the exchange between police forces and information services of the Member States, and to ensure that this tool for cooperation and analysis is improved and used more widely.<br>Wir können stolz sein auf das, was wir [...] in jüngster Zeit auf dem Gebiet der Gleichbehandlung und der Nichtdiskriminierung erreicht haben. -> We can be proud of our recent achievements [...] in the field of equal treatment and nondiscrimination.<br>Sie alle können stolz sein auf das, was Sie bisher erreicht haben\", [...] lobte Klaus Fischer, Inhaber und Vorsitzender der Geschäftsführung [...] der Unternehmensgruppe fischer, die Mitarbeiterinnen und Mitarbeiter anlässlich der Einweihung (siehe unten stehenden Bericht) des komplett renovierten und modernisierten Bürogebäudes in Traiskirchen, unweit der Bundeshauptstadt Wien. -> You can all be proud of what you have achieved to date\", said [...] Klaus Fischer, owner and CEO of the fischer group of companies, [...] praising the employees during the inauguration (see below) of the fully renovated and modernised office building in Traiskirchen not far from Vienna.<br>Wir dürfen stolz sein auf das, was wir [...] in unserem ersten Geschäftsjahr als Clariden Leu erreicht haben», sagt Hans Nützi, CEO von Clariden Leu. -> We can be proud of what we achieved in [...] the first business year of Clariden Leu», says Hans Nützi, CEO of Clariden Leu.<br>Unter diesem Gesichtspunkt sollten wir ungeachtet der sehr realen [...] Schwierigkeiten, mit denen der [...] Nahe Osten nach wie vor zu kämpfen hat, stolz sein auf die Anstrengungen, die die Europäische Union [...] in dieser krisengeschüttelten [...] und schwierigen Region der Welt unternehmen konnte, und wir sollten insbesondere Mut schöpfen aus der Stärke, die Herr Wolfensohn seiner Funktion als Sondergesandter des Nahost-Quartetts zu verleihen vermochte. -> In that regard, and notwithstanding the very real difficulties that the [...] Middle East continues [...] to face, I think we should take pride in the efforts that the European Union has been able to make [...] in this troubled and [...] difficult area of the world and we should be encouraged in particular by the strength that Mr Wolfensohn has been able to bring to his role as the Quartet's special envoy.",
+                "",
+                "be proud of"
+            ],
+            "guid": "AvC*Ine[:+",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich bedanken",
+                "bei",
+                "Dativ",
+                "S. 52",
+                "Das Team bedankte sich bei den Spendern für ihren Beitrag. -> The team thanked the donors for their contribution.Ich muß mich bedanken [...] und ich weiß, Björn und Phyllida werden sich ebenfalls bedanken bei unseren fabelhaften Darstellern, unseren [...] wundervollen Musikern, [...] alle anderen bei dieser Produktion, Michael Kunze und Ruth Deny für ihre wunderbare Übersetzung, (Applaus) und alle bei Stage Holding, dem deutschen Produktionsteam, dem Londoner Produktionsteam und auch Danke nicht nur für das Zelt, sondern auch dafür, daß wir allen die Show gestohlen haben, das herrlich renovierte Theater und vor allem Danke an Björn und Benny, die tolle Songs geschrieben haben! -> Björn and [...] Phyllida will also be thanking our fabulous, fabulous cast, our wonderful musicians, everyone else in this production, [...] Michael Kunze and [...] Ruth Deny for their wonderful translation, (applause) and everyone at Stage Holding, the German production team, the London production team, and also thank you not only for the tent but making us steal the show here, the beautifully refurbished theatre, and thank you Björn and Benny for writing great songs in the first place!<br>General Medical Company möchte sich herzlich bedanken bei den vielen Hautärzten weltweit, die Drionic® Iontophorese als hervorragende Behandlungsmethode gegen Hyperhidrose empfehlen. -> In tribute to the very many dermatologists worldwide who recommend Drionic iontophoresis as the choice method for hyperhidrosis control, General Medical Company says thanks.<br>Auch Cord Jürgen Dammann, Abteilungsleiter PM Leichte Waffenträger, zeigte sich nach dem Abschluss der Arbeiten [...] sehr zufrieden und [...] versäumte es nicht, sich nochmals bei allen Beteiligten zu bedanken: \"Ausschlaggebend [...] für die außerordentlich [...] schnelle Umsetzung des Projektes war zum einen die sachorientierte und pragmatische Zusammenarbeit zwischen dem BWB, dem Bundesverteidigungsministerium und unserem Unternehmen, zum anderen die gute Zusammenarbeit zwischen den beteiligten Standorten und Firmen. -> Cord Jürgen Dammann, department manager of PM Light Armoured Vehicles, was also obviously very satisfied [...] after the end of [...] the activities and did not forget to express his appreciation to all persons [...] involved: \"The decisive factors [...] for the extremely fast accomplishment of the project were on the one hand the fact-oriented and pragmatic cooperation between the BWB, the Federal Defence Ministry and our company and on the other hand the good cooperation between the locations and firms involved.<br>Der Vorstandsvorsitzende möchte sich an dieser Stelle bei allen Aktionären, Kunden und Geschäftspartnern für das entgegengebrachte Vertrauen bedanken und den Mitarbeiterinnen [...] und Mitarbeiter [...] einen herzlichen Dank für ihren persönlichen Einsatz aussprechen. -> The Chief Executive Officer would [...] like to take this opportunity to thank all of the shareholders, customers and business partners of Sanochemia for their support, and to express gratitude [...] to the [...] personnel for their outstanding efforts.<br>Ich möchte mich bei all jenen bedanken, die zu dieser Ausgabe beigetragen haben und sich somit an der [...] Weiterführung des Dialogs [...] beteiligen, den der Review bestrebt ist, zu führen; dafür dass sie den sozialen, technologischen und wirtschaftlichen Fortschritt beleuchten, der weiterhin die Personalbranche weltweit prägen wird und dafür, dass sie ihre Visionen der Entwicklung sowohl der globalen als auch der lokalen Arbeitsmärkte beschreiben. -> I would like to thank all of the contributors to this issue for participating in the ongoing dialogue [...] which the Review seeks [...] to create; for highlighting the social, technological and commercial advances which continue to shape the global employment industry; and for outlining their visions for the development of both global and local labour markets.",
+                "",
+                "thank"
+            ],
+            "guid": "O~{jw;FfxR",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bleiben",
+                "bei",
+                "Dativ",
+                "S. 52",
+                "Du kannst bei mir bleiben, wenn du den Weg nicht kennst. -> You can stick with me if you do not know the path.<br>Meine Mutter blieb bei mir, bis es mir besser ging. -> My mother stayed with me until I felt better.1.5 Technisch gesehen müssen diese Öle in der Lage sein, Natur- und Synthetikkautschuk und andere bei der Herstellung von Reifen verwendeten Stoffe zu lösen, langzeitbeständig und stabil sein, [...] sich gut verteilen und in der [...] Kautschukmasse gebunden bleiben, bei verschiedenen [...] Temperatur- und Feuchtigkeitsverhältnissen [...] ihre Wirkung entfalten und bei der Reifenherstellung und in der praktischen Anwendung sicher zu handhaben sein. -> 1.5 Technically the oils must be capable of dissolving the natural and synthetic rubbers and other materials used in tyres, [...] must be long-lasting and stable, must [...] distribute well and remain bound in the rubber [...] matrix, must function in different conditions [...] of temperature and humidity, and must be safe to handle in manufacture and use.<br>Allerdings bleiben bei den ECHP-Einkommensdaten verschiedene für den Lebensstandard [...] wesentliche Faktoren unberücksichtigt, [...] und zwar: Sachleistungen, Transferzahlungen an andere Haushalte, negative Kapitalerträge (z. B. Zinsaufwendungen) und unterstellte Mieten (d. h. die Geldbeträge, die jemand im Vergleich zur vollen Marktmiete spart, wenn er im Eigenheim lebt oder eine Miete zahlt, die unter dem Marktpreis liegt). -> However, ECHP income data do not capture several major determinants of living standards, [...] namely: receipts in kind, transfers [...] paid to other households, negative capital income (i.e. interest paid) and imputed rent (i.e. the money that one saves by not having to pay full market rent by living in one's own accommodation or in accommodation rented at a price that is lower than the market rent).<br>Das Konzernergebnis sowie der Mittelzufluss aus [...] laufender Geschäftstätigkeit bleiben bei Veränderungen des Zinsniveaus [...] jedoch weitgehend unberührt, [...] da der größte Teil der Fremdfinanzierung durch festverzinsliche Bankkredite, Anleihen und Schuldverschreibungen abgedeckt ist. -> The Group's net profit or loss and the [...] net cash from operating [...] business activities remain, however, largely untouched by changes in interest [...] levels, since the [...] greatest part of external financing is covered by interest-bearing bank loans, bonds and obligations.<br>Genau dies ist das große Problem für die Schwäche der zentralen Gewerkschaftsbünde, denn sie sind ein [...] Zusammenschluss der betrieblichen Gewerkschaften, die [...] Mitgliedsbeiträge bleiben bei den betrieblichen [...] Organisationen die nur niedrige Beiträge an die [...] zentralen Gewerkschaften weiterleiten. -> It is precisely this that is a major reason for the weakness of the central trade union confederations, because they are an amalgamation of the company [...] trade unions and the [...] members' contributions remain in the company organisations [...] which only forward small amounts to the central trade unions.<br>An DEV Software, Fremdsoftware (Software, die von einem DEV unabhängigen Software-Lieferanten entwickelt wurde) und den jeweils dazugehörigen Dokumentationen, deren Ergänzungen und sonstigen Unterlagen wird dem Kunden ein nicht ausschließliches und nicht übertragbares Nutzungsrecht zum internen Gebrauch auf einem Computersystem eingeräumt (alle sonstigen Rechte an der Software und den [...] Dokumentationen, einschließlich der Kopien und [...] nachträglichen Ergänzungen, bleiben bei DEV bzw. dem Software-Lieferanten). -> In respect of DEV software, external software (software developed by a software supplier independent of DEV) and the respective pertinent documentation, supplements thereto and other documents, the customer is granted a non-exclusive and non-transferable right of use for internal use on one computer system (all other rights ton the software [...] and the documentation, including copies and [...] subsequent supplements, shall remain with DEV and/or the software [...] supplier).",
+                "",
+                "adhere to<br>stick with<br>stay with<br>remain with"
+            ],
+            "guid": "sS7?E_^nNf",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich entschuldigen",
+                "bei",
+                "Dativ",
+                "S. 52",
+                "Ich entschuldigte mich bei meinen Freunden für die Verspätung. -> I apologized to my friends for coming late.<br>Du musst dich nicht bei mir entschuldigen, es ist in Ordnung. -> You don't need to apologize to me, it's fine.<br>Der Junge entschuldigte sich bei seiner Mutter für sein schlechtes Benehmen. -> The boy apologized to his mother for behaving badly.<br>Ich entschuldigte mich bei ihm, weil ich spät dran war. -> I apologized to him because I was late.Weiterhin sollte man sich bei einer unserer Senior Citizen Members entschuldigen, von der man [...] verlangte, dass sie sich und [...] ihren Welpen nicht nur aus dem Ausstellungsteam entfernen solle, dem sie zugeteilt war, sondern darüber hinaus aus der Show selbst. -> It should also [...] be accompanied by an apology to one of our Senior Citizen Members who was asked to remove [...] herself and her [...] puppy from not only the display team she was asked to work in but the show itself.<br>Die öffentliche Entschuldigung des Präsidenten von Serbien und Montenegro für in Bosnien und Herzegowina begangene Verbrechen und die Initiative der Präsidenten von [...] Kroatien sowie Serbien [...] und Montenegro, sich für vergangenes Unrecht zu entschuldigen, sind ermutigende [...] Anzeichen für eine [...] Verbesserung der Beziehungen zwischen den Ländern und die Bereitschaft zur Aussöhnung. -> The public apologies expressed by the President of Serbia and Montenegro for crimes committed in Bosnia and Herzegovina and the initiative of [...] the Presidents of [...] Croatia and Serbia and Montenegro to apologise for past wrongs is an encouraging [...] sign of improved relations [...] between the countries, and a willingness to promote reconciliation.<br>Überdies muss Japan, um seine Kriegsverantwortlichkeiten zu erfüllen, volle Entschädigung für seine [...] Vergangenheit leisten und sich bei den Opfern in Asien entschuldigen. -> Furthermore, in order for Japan to have [...] fulfilled its war responsibility, it must have fully compensated [...] for its past and must have apologized to the victims in Asia.<br>Das beklagte Unternehmen hat bereits [...] während des [...] Verfahrens angeboten, sich auf der Webseite bei jedem Betroffenen zu entschuldigen.71 Eine Verbandsklage [...] ist anscheinend [...] besonders erfolgversprechend bei Diskriminierungen im Bereich der Bildung und der Bekämpfung der Segregation, da mit herkömmlichen Menschenrechtsverfahren, die sich auf den Schutz der individuellen Rechte gründen, dieses systemische Problem bisher nicht bekämpft werden konnte.72 Es handelt sich hier um einen heiklen Bereich, in dem es vielleicht \"besser\" ist, zumindest aber wirksamer, wenn es nicht die einzelnen Betroffenen, d.h. die Eltern, sind, die Verfahren gegen Schulen oder die entsprechenden Behörden einleiten. -> The defendant company [...] had already offered during proceedings to apologise to everyone concerned on the website.71 [...] Actio popularis [...] seems to be especially promising in the field of discrimination in education and the fight against segregation, since traditional human rights litigation and advocacy based on the protection of individual rights has so far been unable to address this systemic problem.72 This is a sensitive area, where it is probably \"better\", but most of all more effective, if it is not the individual clients, that is the parents, who initiate proceedings against schools or the authorities maintaining them.<br>Tatsächlich werden sich einige Kunden am Ende für die Unannehmlichkeiten, die sie verursacht haben, bei Ihnen entschuldigen. -> In fact, many customers will end up apologising to you for having caused trouble or inconvenience.",
+                "",
+                "apologize to"
+            ],
+            "guid": "iFDRR|X/$-",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "danken",
+                "für",
+                "Akkusativ",
+                "S. 52",
+                "Insbesondere möchte [...] ich Ihnen auch noch danken für Ihre Arbeit bei der [...] Mitentscheidung, wo Sie allgemein gesagt Fortschritte [...] gemacht haben manchmal schaffen wir einige ziemlich außergewöhnliche Dinge, um zu einem Konsens zu gelangen -, aber insgesamt ist die Bilanz vorwiegend positiv, da dieses Parlament die Befindlichkeiten der Bürger der Europäischen Union widerspiegelt, die ergänzt werden durch die der Regierungen der Europäischen Union. -> Furthermore, what I would like to say in [...] particular is that I thank you for the work you [...] have done in codecision, where generally [...] speaking you have made improvements sometimes we create some pretty extraordinary things in order to reach a consensus but the overall result is hugely positive, since this Parliament reflects the sensitivities of the citizens of the European Union, complemented by those of the governments of the European Union.<br>erehrte Aktionäre und Geschäftsfreunde, wir danken für Ihr Vertrauen, das Sie uns im zurückliegenden [...] Jahr entgegengebracht haben. -> e would like to thank all our shareholders and business associates for the confidence and [...] trust they have placed in us over the past year.<br>Ihre Exzellenz, wir sind nicht nur gekommen um Ihren persönlichen Einsatz für den Frieden und für die Einheit aller Religionen durch die Bernadette Strebel World Peace Association auszuzeichnen, wir sind auch gekommen, um Ihnen im Namen der Männer und Frauen [...] des Friedens und des guten [...] Willens in der ganzen Welt zu danken für Ihren persönlichen Einsatz [...] für den Frieden als Gouverneur [...] dieses Staates, welches diesen Staat zu einem der friedvollsten in der gesamten Niger/Delta Region und gesamt Afrika gemacht hat. -> Your Excellency, we have not only come on behalf of the Association Bernadette Strebel World Peace to acknowledge your personal effort in promoting peace and unity of all religions, we have also come to thank you and say on behalf of all men [...] and women of peace and [...] Goodwill in the world, to thank you for your own striving for peace in your [...] capacity as a man of peace [...] and Governor of this State, which lead (led) to making this State the most peaceful religious State in the whole of Niger/Delta region, Nigeria and Africa at large.<br>Viertens: Die Gesamtzahlen sind natürlich auch ein Indikator für die Arbeit, die von den Ausschüssen, insbesondere von den Berichterstattern, geleistet [...] wurde, und ich möchte im Namen [...] der Kommission deshalb sehr danken für den Bericht von Herrn Virrankoski [...] über die Einzelpläne [...] des Parlaments, des Rates, des Gerichtshofes, des Rechnungshofes und des Wirtschafts- und Sozialausschusses sowie des Ausschusses der Regionen, für den Bericht von Herrn Pittella über den Funktionshaushalt der Europäischen Gemeinschaft für Kohle und Stahl und besonders für den Bericht von Herr Bourlanges. -> Fourthly: the aggregate figures are, of course, also an indication of the work which has been carried out by the committees, in particular by the rapporteurs, and, on [...] behalf of the Commission, I [...] would therefore like to thank Mr Virrankoski for his report on the [...] individual plans of Parliament, [...] the Council, the Court of Justice, the Court of Auditors, the Economic and Social Committee and the Committee of the Regions, Mr Pittella for his report on the operating budget of the European Coal and Steel Community and particularly Mr Bourlanges for his report, which again shows him to be an excellent rapporteur and a master of highly sophisticated proposals.<br>Wir danken für Ihr Vertrauen und [...] wünschen besinnliche Weihnachten und ein frohes neues Jahr. -> We thank you for your trust and [...] wish you a Merry Christmas and Happy New Year.",
+                "",
+                ""
+            ],
+            "guid": "AINMTqfE;o",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich entscheiden",
+                "für",
+                "Akkusativ",
+                "S. 52",
+                "Ich habe mich für das rote Kleid entschieden, weil es günstiger war. -> I chose the red dress because it was cheaper.<br>Nach sorgfältigem Überlegen entschied sie sich für das rote Kleid. -> After careful deliberation, she opted for the red dress.<br>Nach einigem Nachdenken entschied ich mich für den roten Hut. -> After some thought, I decided to go for the red hat.<br>Wir haben uns schließlich für ein Elektroauto entschieden. -> We eventually settled on an electric car.Egal, für [...] welchen Werbeauftritt Sie sich entscheiden, für kurzfristige oder dauerhafte [...] mobile oder immobile Werbeeinsätze, [...] Ihr erfolgreicher Werbeauftritt ist unser Ziel, Ihr daraus resultierender Erfolg unsere Philosophie. -> No matter, for which you decide advertising appearance, for short term or [...] durable mobile or immobile advertising employments, [...] your successful advertising appearance is our goal, its success our philosophy resulting from it.<br>Wenn Sie sich entscheiden, für Ihr Abonnement [...] monatlich, alle 3 Monate oder jährlich zu bezahlen (je nach Anwendbarkeit), [...] bestätigen und erkennen Sie an, dass es sich hier um wiederholt auftretende Zahlungen handelt und dass Zahlungen an Skype nach der von Ihnen ausgewählten Methode mit den von Ihnen ausgewählten wiederholt auftretenden Abständen an Skype fortgesetzt werden, bis das Abonnement von Ihnen oder von Skype gekündigt wird. -> If You choose to pay for Your subscription monthly, [...] every 3 months or annually (as applicable), You acknowledge and agree [...] that this is a recurring payment and payments shall be made to Skype by the method You have chosen at the recurring intervals chosen by You, until the subscription is terminated by You or by Skype.<br>Und so entsteht eine faszinierende win-win\" Situation: Während die benannten Künstler und noch viele ihrer Kollegen auf ihren persönlichen Profit verzichten, müssen die geneigten [...] Hörerinnen und Hören [...] dies nämlich keineswegs, wenn sie sich entscheiden, für die Opfer der Katastrophe zu spenden: [...] Sie bekommen im [...] Gegenzug ja eine ausgesprochen amtliche Dosis ihrer essentiellsten Droge! -> Accordingly, a fascinating win-win situation is created: While the mentioned artists and many of their colleagues waive their personal profits, the inclined listener does [...] not have to do so at [...] all when deciding to donate for the victims of the earthquake disaster: He or she will [...] get quite a massive dose of excellent sound in return!<br>Sich entscheiden für ein Leben sich basierend auf Sinn, Ganzheit, Freude, Wachstum, Verbundenheit, Herausforderung [...] und Exzellenz? -> Reclaiming a fullfilling life based on meaning, wholeness, joy, growth, connectedness, challenge and excellence?<br>Diego Pettenò (flameeyes): Ich habe in der Vergangenheit in meinem Blog deutlich gemacht, was ich über den Rat denke, und warum er zur [...] Zeit nutzlos ist; wenn meine [...] Entwicklerkameraden sich entscheiden, für mich zu stimmen, [...] wäre es ein deutliches Zeichen, [...] dass genügend viele von ihnen eine Veränderung wollen, zum Guten oder zum Schlechten. -> Diego Pettenò (flameeyes): I made clear in the past, in my blog, what I think of the council and the way [...] it's currently useless; if my [...] fellow developers will decide to vote for me, it would be [...] a clear sign that enough of them [...] wants to see something done, for good or bad.",
+                "",
+                "decide upon<br>choose<br>opt for<br>go for<br>settle on<br>settle for"
+            ],
+            "guid": "t+VB!/%b6Z",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich interessieren",
+                "für",
+                "Akkusativ",
+                "S. 52",
+                "",
+                "",
+                ""
+            ],
+            "guid": "CWC:it_p,&",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sein",
+                "für",
+                "Akkusativ",
+                "S. 52",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tOp#0OK/?m",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sorgen",
+                "für",
+                "Akkusativ",
+                "S. 52",
+                "",
+                "",
+                ""
+            ],
+            "guid": "jZJtcN8Kv/",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "geeignet sein",
+                "für",
+                "Akkusativ",
+                "S. 52",
+                "",
+                "",
+                ""
+            ],
+            "guid": "reaVppHFWl",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "gut sein",
+                "für",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K?{3@^BbuX",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schlecht sein",
+                "für",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "epO)=e<IBn",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nützlich sein",
+                "für",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "v/Js>a#_d[",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wichtig sein",
+                "für",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "EUBoaWdl6_",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zuständig sein",
+                "für",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "D1|SjJJo.V",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "stimmen",
+                "für",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lG`o97UtTu",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "protestieren",
+                "gegen",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "hYI-|U1]ZQ",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "allergisch sein",
+                "gegen",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ex&5<5e;2O",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich verlieben",
+                "in",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I[Xqs]tlG5",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "verliebt sein",
+                "in",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qIA6%l0*/K",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "angfangen",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "P~Tl0@FTm%",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "beginnen",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oo5tJagi4N",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "aufhören",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "u/*Eq~s+W0",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich beschäftigen",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "to occupy oneself (with), absorb oneself (in)",
+                ""
+            ],
+            "guid": "zEq~9Zgr|0",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "reden",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "MnX<Y&4x@C",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sprechen",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "P?u$8n`dWD",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "streiten",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vR(da4zenr",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich unterhalten",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bOKd4wm}?Y",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vergleichen",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t-fvWwP7L%",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich verstehen",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "erR@YekcMM",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "befreundet sein",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kMzHsVa|H.",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "einverstanden sein",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qPV7Qyo#m_",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fertig sein",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "HNK7N?%:Z<",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "zufrieden sein",
+                "mit",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "DJH]ji&a*S",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fragen",
+                "nach",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Af.E^jR5$k",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich erkundigen",
+                "nach",
+                "Dativ",
+                "S. 53",
+                "",
+                "to inquire (about)",
+                ""
+            ],
+            "guid": "gTf5~/NaQv",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "riechen",
+                "nach",
+                "Dativ",
+                "S. 53, S.45/46",
+                "Es {reicht} hier [nach] verbrannt[er] Milch.Literarische [...] Annäherungen an Tiere haben oft etwas Dogmatisches an sich, riechen nach Vegetariern und Spaßbremsen. -> Literary [...] approaches to animals often have something dogmatic, flavour of vegetarians and fun killers.<br>Beide riechen nach Zitrone und sind Bestandteile des Zitronen- [...] und Lemongrasöls. -> Both have a lemon-like scent and are contained in lemon and lemongrass oil.<br>Die Elemente aus Föhrenholz [...] beeindrucken: Sie riechen nach Wald, schön, klar [...] und einfach ist die Holzstruktur und fast weich [...] fühlt sich das fein geschliffene Holz an. -> The elements made of pine [...] wood impress: They smell of forest, the wooden [...] structure is beautiful, clear and pure and the [...] smoothly cut wood almost feels soft.<br>Seine Fotografien sind lebendig: Sie symbolisieren die [...] Freiheit auf den Hausdächern und die Ästhetik der [...] Großstadt, sie riechen nach feuchter Farbe [...] und dem Schweiß einer durchmalten Nacht und sie [...] zeigen die Farbkrusten unter den Fingernägeln der Writer und die mit Farbe vollgesaugten Pinsel in farbenfroher Pracht. -> His photographs are lively; they symbolize the liberty on those rooftops and the aesthetics of those [...] major cities. They smell of wet paint and [...] sweat of a long night [...] and they show the colour stains under fingernails and the coloured brushes in their vibrant beauty.<br>Polyamide schmelzen und tropfen in der Flamme, brennen [...] leuchtend und riechen nach verbranntem Horn. -> Polyamides melt and drip when [...] burning, burn brightly and smell of burnt horn.",
+                "",
+                "smell of"
+            ],
+            "guid": "x^tX=JW7g7",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "schmecken",
+                "nach",
+                "Dativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "MMr2_c[4P=",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich sehnen",
+                "nach",
+                "Dativ",
+                "S. 53, S.44/1",
+                "Sie {sehnt sich} oft [nach ???] Familie.",
+                "to long/yearn (for)",
+                ""
+            ],
+            "guid": "yc!0r%Xc,L",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich ärgern",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ia1nPDW)h$",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich aufregen",
+                "über",
+                "Akkusativ",
+                "S. 53, S.44/4",
+                "Ich habe {mich} sehr [über ???] Nachricht {aufgeregt}. ",
+                "to trouble, become upset (over)",
+                ""
+            ],
+            "guid": "lCfiGkGEd{",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "berichten",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JhBCPx4$fH",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich beschweren",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tj#%y?u~Uv",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "diskutieren",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oxVEamL-2/",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich informieren",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Esu)KI|ty}",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "lachen",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Nz,`fRZord",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nachdenken",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "PzmKWda(4I",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "froh sein",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uC-c:a-1o@",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "glücklich sein",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Aj{#Zq.7O",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "traurig sein",
+                "über",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "jq+2HlOGZA",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich bemühen",
+                "um",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s2p>MwdqM}",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "bitten",
+                "um",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "obg1.txqu(",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "es geht",
+                "um",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "h,PtI+6%{3",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "es handelt sich",
+                "um",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "C,pd7}gLEX",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich kümmern",
+                "um",
+                "Akkusativ",
+                "S. 53",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n<o>+vMTNs",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "etwas bewerben",
+                "",
+                "",
+                "Leo",
+                "",
+                "to bid",
+                ""
+            ],
+            "guid": "IJp:3Unl:k",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich bewerben",
+                "um",
+                "Akkusativ",
+                "Leo",
+                "",
+                "to apply (for) / to bid (for) / to run (for) / to try (for)",
+                ""
+            ],
+            "guid": "qCh=Y,32VK",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sich fürchten",
+                "vor",
+                "Dativ",
+                "Leo",
+                "",
+                "to fear",
+                ""
+            ],
+            "guid": "E851Pm@oI|",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "fürchten",
+                "um",
+                "Dativ",
+                "Leo",
+                "Einige Firmen fürchten um ihre Profite [...] und suchen mittels strategischer Allianzen und Übernahmen nach einer Formel, um ihre [...] Erträge langfristig zu sichern statt sich gegenseitig zu kannibalisieren. -> Some companies fear for their profits and [...] are trying to find a suitable formula with strategic alliances and acquisitions, [...] with which they can secure their revenues in the long-term, instead of cannibalizing one another.<br>Andere fürchten um ihre Unabhängigkeit [...] und zeigen kein Interesse daran, ihre Projektarbeit mit dem PRSP-Prozess zu verknüpfen. -> Others are concerned about their independent [...] status and are not interested in linking project work to PRSP processes.<br>Die Bürger [...] der Küstendörfer fürchten um ihre Gesundheit [...] und ihre Existenz. -> The citizens of [...] the coastal villages fear for their health and [...] their livelihood.<br>Die meisten fürchten um ihre Intelligenz, [...] mit deren Hilfe man zum Beispiel Kühlkammern bauen kann, um zu erforschen, warum [...] Gänse und Enten nicht frieren, und um zu staunen: Das Gefieder isoliert perfekt. -> Most of them fear their intelligence [...] which helps them e.g. to build cooling chambers in order to explore why geese and ducks [...] do not freeze and be amazed: The feathers isolate perfectly.<br>Andere Bevölkerungsgruppen fürchten um ihre kulturelle [...] Identität. -> Some other nations are worried about their cultural [...] identity.",
+                "to fear (for)",
+                "Unterschied zwischen um und vor?"
+            ],
+            "guid": "Pl{|~I][P5",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hinweisen",
+                "auf (etwas)",
+                "Akkusativ",
+                "Leo",
+                "",
+                "to bring to attention, point out / to indicate / to allude (to) / to be a sign (of)",
+                ""
+            ],
+            "guid": "uK+Hvl@~XC",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Verb",
+                "Präposition",
+                "Fall",
+                "Quelle",
+                "Beispielsatz",
+                "Extra",
+                "auf Englisch"
+            ],
+            "guid": "qW;[7C0+3]",
+            "note_model_uuid": "9b8f1ee2-e69f-11ec-af89-dd286e843365",
+            "tags": []
+        }
+    ]
+}
