@@ -147,7 +147,9 @@
                     ],
                     "guid": "lI`VW}]f2X",
                     "note_model_uuid": "0a6c2100-e59e-11ec-9513-f109757a3b3a",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -550,7 +552,7 @@
                         "to decide (on) / to settle (for)",
                         "",
                         "",
-                        "",
+                        "eine Entscheidung treffen, zu einer Entscheidung kommen",
                         "S. 52"
                     ],
                     "guid": "g+!:W1_qS<",
@@ -1417,7 +1419,7 @@
                         "to strive (towards) / to exert oneself (for)",
                         "",
                         "",
-                        "",
+                        "sich Mühe geben",
                         "S. 53"
                     ],
                     "guid": "Gh/O*rr<<#",
@@ -1576,7 +1578,9 @@
                     ],
                     "guid": "p*Vuqc^Z>?",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -2496,7 +2500,7 @@
                         "<b>sich </b>(Dat.) <b>Sorgen machen um jemanden/etwas</b>",
                         "sich sorgen um jemanden/etwas",
                         "to be concerned about someone/something",
-                        "",
+                        "Ich mache mir Sorgen um meinem Vater.",
                         "",
                         "<b>sich </b>(Dat.) <b>Sorgen ___ um jemandem/etwas</b>"
                     ],
@@ -2910,7 +2914,9 @@
                     ],
                     "guid": "p*Vuqc^Z>?",
                     "note_model_uuid": "9a4022be-dde1-11ec-a646-9551df25e0c7",
-                    "tags": []
+                    "tags": [
+                        "leech"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -3550,7 +3556,7 @@
                         "<b>sich </b>(Dat.) <b>Sorgen machen um jemanden/etwas</b>",
                         "sich sorgen um jemanden/etwas",
                         "to be concerned about someone/something",
-                        "",
+                        "Ich mache mir Sorgen um meinem Vater.",
                         "",
                         "<b>sich </b>(Dat.) <b>Sorgen ___ um jemandem/etwas</b>"
                     ],
@@ -4203,6 +4209,70 @@
                     "tags": []
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3bcf11b8-f092-11ec-a641-75f905ca4c8b",
+            "deck_config_uuid": "99fb1e62-dde1-11ec-a646-9551df25e0c7",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Passiv",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\"werden\" in Präsens (Indikativ)<br><table class=\"table_class_basic_full_width\" style=\"border-collapse: collapse; border: 1px solid;\"><thead><tr><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Person</th><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Indikativ</th><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Endung</th></tr></thead><tbody><tr><td style=\"padding: 2px; border: 1px solid;\">ich</td><td style=\"padding: 2px; border: 1px solid;\">{{c1::werde}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c1::*}}<br></td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">du</td><td style=\"padding: 2px; border: 1px solid;\">{{c2::wirst}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c2::-st}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">er/sie/es</td><td style=\"padding: 2px; border: 1px solid;\">{{c3::wird}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c3::*}}<br></td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">wir</td><td style=\"padding: 2px; border: 1px solid;\">{{c4::werden}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c4::-en}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">ihr</td><td style=\"padding: 2px; border: 1px solid;\">{{c5::werdet}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c5::-et}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">sie</td><td style=\"padding: 2px; border: 1px solid;\">{{c6::werden}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c6::-en}}</td></tr></tbody></table>",
+                        "",
+                        "https://de.wiktionary.org/wiki/Flexion:werden"
+                    ],
+                    "guid": "cl-&y|s@`w",
+                    "note_model_uuid": "ccde626c-dde1-11ec-a646-9551df25e0c7",
+                    "tags": [
+                        "Flexion"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\"werden\" in Präteritum (Indikativ)<br><table class=\"table_class_basic_full_width\" style=\"border-collapse: collapse; border: 1px solid;\"><thead><tr><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Person</th><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Indikativ</th><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Endung</th></tr></thead><tbody><tr><td style=\"padding: 2px; border: 1px solid;\">ich</td><td style=\"padding: 2px; border: 1px solid;\">{{c1::wurde}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c1::-e}}<br></td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">du</td><td style=\"padding: 2px; border: 1px solid;\">{{c2::wurdest}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c2::-est}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">er/sie/es</td><td style=\"padding: 2px; border: 1px solid;\">{{c3::wurde}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c3::-e}}<br></td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">wir</td><td style=\"padding: 2px; border: 1px solid;\">{{c4::wurden}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c4::-en}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">ihr</td><td style=\"padding: 2px; border: 1px solid;\">{{c5::wurdet}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c5::-et}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">sie</td><td style=\"padding: 2px; border: 1px solid;\">{{c6::wurden}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c6::-en}}</td></tr></tbody></table>",
+                        "",
+                        "https://de.wiktionary.org/wiki/Flexion:werden"
+                    ],
+                    "guid": "w.mQy2%3m1",
+                    "note_model_uuid": "ccde626c-dde1-11ec-a646-9551df25e0c7",
+                    "tags": [
+                        "Flexion"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\"werden\" in Präteritum (Konjunktiv II)<br><table class=\"table_class_basic_full_width\" style=\"border-collapse: collapse; border: 1px solid;\"><thead><tr><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Person</th><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Konjunktiv II</th><th style=\"text-align: left; padding: 2px; border: 1px solid;\">Endung</th></tr></thead><tbody><tr><td style=\"padding: 2px; border: 1px solid;\">ich</td><td style=\"padding: 2px; border: 1px solid;\">{{c1::würde}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c1::-e}}<br></td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">du</td><td style=\"padding: 2px; border: 1px solid;\">{{c2::würdest}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c2::-est}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">er/sie/es</td><td style=\"padding: 2px; border: 1px solid;\">{{c3::würde}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c3::-e}}<br></td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">wir</td><td style=\"padding: 2px; border: 1px solid;\">{{c4::würden}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c4::-en}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">ihr</td><td style=\"padding: 2px; border: 1px solid;\">{{c5::würdet}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c5::-et}}</td></tr><tr><td style=\"padding: 2px; border: 1px solid;\">sie</td><td style=\"padding: 2px; border: 1px solid;\">{{c6::würden}}</td><td style=\"padding: 2px; border: 1px solid;\">{{c6::-en}}</td></tr></tbody></table>",
+                        "",
+                        "https://de.wiktionary.org/wiki/Flexion:werden"
+                    ],
+                    "guid": "h}[XY*JbL^",
+                    "note_model_uuid": "ccde626c-dde1-11ec-a646-9551df25e0c7",
+                    "tags": [
+                        "Flexion"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "\"werden\" im Perfekt (Indikativ)<br><table class=\"table_class_basic_minimal_width\" style=\"font-size: 85%; border-collapse: collapse; border: 1px solid;\">\n                <thead><tr><th style=\" padding:2px; border: 1px solid;\">Person​</th><th style=\" padding:2px; border: 1px solid;\">Indikativ​</th></tr></thead>\n                <tbody><tr><td style=\" padding:2px; border: 1px solid;\">ich​</td><td style=\" padding:2px; border: 1px solid;\">​{{c1::bin}} {{c2::geworden}}<br></td></tr><tr><td style=\" padding:2px; border: 1px solid;\">du​</td><td style=\" padding:2px; border: 1px solid;\">{{c1::bist}}​&nbsp;{{c2::geworden}}</td></tr><tr><td style=\" padding:2px; border: 1px solid;\">​er/sie/es</td><td style=\" padding:2px; border: 1px solid;\">{{c1::ist}}​&nbsp;{{c2::geworden}}</td></tr><tr><td style=\" padding:2px; border: 1px solid;\">​wir</td><td style=\" padding:2px; border: 1px solid;\">{{c1::sind}}​&nbsp;{{c2::geworden}}</td></tr><tr><td style=\" padding:2px; border: 1px solid;\">​ihr</td><td style=\" padding:2px; border: 1px solid;\">{{c1::seid}}​&nbsp;{{c2::geworden}}</td></tr><tr><td style=\" padding:2px; border: 1px solid;\">​sie</td><td style=\" padding:2px; border: 1px solid;\">{{c1::sind}}​&nbsp;{{c2::geworden}}</td></tr></tbody></table>",
+                        "\"werden\" im Perfekt (Indikativ) ist einfach \"sein\" im Präsens + \"geworden\"",
+                        "https://de.wiktionary.org/wiki/Flexion:werden"
+                    ],
+                    "guid": "lIk~Iu=-q)",
+                    "note_model_uuid": "ccde626c-dde1-11ec-a646-9551df25e0c7",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "d10c7d3e-dddb-11ec-a83e-bd2c465139d0",
@@ -4238,13 +4308,13 @@
                     4,
                     0
                 ],
-                "order": 0,
+                "order": 1,
                 "perDay": 20
             },
-            "newGatherPriority": 0,
-            "newMix": 0,
+            "newGatherPriority": 3,
+            "newMix": 1,
             "newPerDayMinimum": 0,
-            "newSortOrder": 0,
+            "newSortOrder": 4,
             "replayq": true,
             "rev": {
                 "bury": false,
@@ -4376,7 +4446,7 @@
             "sortf": 1,
             "tmpls": [
                 {
-                    "afmt": "<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">{{de_Präposition}}</span> <span style=\"color: yellow;\">+{{de_Fall}}</span></div></div>\n\n{{#en_Bedeutung}}\n<div style=\"font-size: medium; color: grey;\">{{en_Bedeutung}}</div>\n{{/en_Bedeutung}}",
+                    "afmt": "<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">{{de_Präposition}}</span> <span style=\"color: yellow;\">+{{de_Fall}}</span></div></div>\n\n{{#en_Bedeutung}}\n<div style=\"font-size: medium; color: grey;\">{{en_Bedeutung}}</div>\n{{/en_Bedeutung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -4384,10 +4454,10 @@
                     "did": null,
                     "name": "Präposition Cloze",
                     "ord": 0,
-                    "qfmt": "<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">___</span></div>\n\n{{#en_Bedeutung}}\n<div style=\"font-size: medium; color: grey;\">{{hint:en_Bedeutung}}</div>\n{{/en_Bedeutung}}"
+                    "qfmt": "<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">___</span></div>\n\n{{#en_Bedeutung}}\n<div style=\"font-size: medium; color: grey;\">{{hint:en_Bedeutung}}</div>\n{{/en_Bedeutung}}"
                 },
                 {
-                    "afmt": "<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">{{de_Präposition}}</span> <span style=\"color: yellow;\">+{{de_Fall}}</span></div>\n\n<div style=\"font-size: medium; color: grey\">{{en_Bedeutung}}</div>\n\n{{#de_Satz}}\n<br>\n<div style=\"color: lightgrey;\">„{{de_Satz}}“</div>\n{{/de_Satz}}",
+                    "afmt": "<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n<div style=\"font-size: x-large;\">{{de_Verb}} <span style=\"color: blue\">{{de_Präposition}}</span> <span style=\"color: yellow;\">+{{de_Fall}}</span></div>\n\n<div style=\"font-size: medium; color: grey\">{{en_Bedeutung}}</div>\n\n{{#de_Satz}}\n<br>\n<div style=\"color: lightgrey;\">„{{de_Satz}}“</div>\n{{/de_Satz}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -4395,7 +4465,7 @@
                     "did": null,
                     "name": "en > de",
                     "ord": 1,
-                    "qfmt": "{{#en_Bedeutung}}\n\t<div style=\"font-size: x-large;\">{{en_Bedeutung}}</div>\n\n\t{{#de_Synonyme}}\n\t\t<div style=\"font-size: medium; color: grey\">Synonym(e): <span style=\"color: silver;\">{{de_Synonyme}}</span></div>\n\t{{/de_Synonyme}}\n\n\t{{#en_Satz}}\n\t<br>\n\t<div style=\"color: lightgrey;\">„{{en_Satz}}“</div>\n\t{{/en_Satz}}\n{{/en_Bedeutung}}"
+                    "qfmt": "{{#en_Bedeutung}}\n\t<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n\t<div style=\"font-size: x-large;\">{{en_Bedeutung}}</div>\n\n\t{{#de_Synonyme}}\n\t\t<div style=\"font-size: medium; color: grey\">Synonym(e): <span style=\"color: silver;\">{{de_Synonyme}}</span></div>\n\t{{/de_Synonyme}}\n\n\t{{#en_Satz}}\n\t<br>\n\t<div style=\"color: lightgrey;\">„{{en_Satz}}“</div>\n\t{{/en_Satz}}\n{{/en_Bedeutung}}"
                 }
             ],
             "type": 0
@@ -4483,7 +4553,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "<div style=\"font-size: x-large;\">„{{de_Funktionsverbgefüge}}“</div>\n<div style=\"color: grey;\">{{en_Bedeutung}}</div>",
+                    "afmt": "<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n<div style=\"font-size: x-large;\">„{{de_Funktionsverbgefüge}}“</div>\n<div style=\"color: grey;\">{{en_Bedeutung}}</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -4491,10 +4561,10 @@
                     "did": 1653989782016,
                     "name": "Cloze Verb",
                     "ord": 0,
-                    "qfmt": "{{#fake cloze}}\n\t<div style=\"font-size: x-large;\">„{{fake cloze}}“</div>\n\t<div style=\"color: grey;\">{{en_Bedeutung}}</div>\n{{/fake cloze}}\n"
+                    "qfmt": "{{#fake cloze}}\n\t<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n\t<div style=\"font-size: x-large;\">„{{fake cloze}}“</div>\n\t<div style=\"color: grey;\">{{en_Bedeutung}}</div>\n{{/fake cloze}}\n"
                 },
                 {
-                    "afmt": "{{#en_Bedeutung}}\n\t<div style=\"font-size: x-large;\">{{de_Funktionsverbgefüge}}</div>\n\t<hr>\n\t<div style=\"font-size: medium; font-style: italic; color: silver;\">ist das Funktionsverbgefüge von</div>\n\t<div>{{en_Bedeutung}}</div>\n\t{{#de_Bedeutung}}\n\t\t<div style=\"font-size: medium; color: grey;\">{{de_Bedeutung}}\n\t{{/de_Bedeutung}}\n{{/en_Bedeutung}}",
+                    "afmt": "{{#en_Bedeutung}}\n\t<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n\t<div style=\"font-size: x-large;\">{{de_Funktionsverbgefüge}}</div>\n\t<hr>\n\t<div style=\"font-size: medium; font-style: italic; color: silver;\">ist das Funktionsverbgefüge von</div>\n\t<div>{{en_Bedeutung}}</div>\n\t{{#de_Bedeutung}}\n\t\t<div style=\"font-size: medium; color: grey;\">{{de_Bedeutung}}\n\t{{/de_Bedeutung}}\n{{/en_Bedeutung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -4502,10 +4572,72 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 1,
-                    "qfmt": "{{#en_Bedeutung}}\n\t<div style=\"font-size: x-large;\">?</div>\n\t<hr>\n\t<div style=\"font-size: medium; font-style: italic; color: silver;\">ist das Funktionsverbgefüge von</div>\n\t<div>{{en_Bedeutung}}</div>\n\t{{#de_Bedeutung}}\n\t\t<div style=\"font-size: medium; color: grey;\">{{hint:de_Bedeutung}}\n\t{{/de_Bedeutung}}\n{{/en_Bedeutung}}"
+                    "qfmt": "{{#en_Bedeutung}}\n\t<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n\t<div style=\"font-size: x-large;\">?</div>\n\t<hr>\n\t<div style=\"font-size: medium; font-style: italic; color: silver;\">ist das Funktionsverbgefüge von</div>\n\t<div>{{en_Bedeutung}}</div>\n\t{{#de_Bedeutung}}\n\t\t<div style=\"font-size: medium; color: grey;\">{{hint:de_Bedeutung}}\n\t{{/de_Bedeutung}}\n{{/en_Bedeutung}}"
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "ccde626c-dde1-11ec-a646-9551df25e0c7",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "Source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze with Source",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n\n{{#Back Extra}}\n<hr>\n<div style=\"color: yellow;\">{{Back Extra}}</div>\n{{/Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<div style='font-size: small; color: grey; text-align: right;'>{{Subdeck}}</div>\n\n{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": []
