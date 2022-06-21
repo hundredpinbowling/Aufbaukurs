@@ -2,4 +2,4 @@
 
 # Anki German Flashcards
 
-[Quick download](./cards.apkg)
+[Quick download](https://github.com/hundredpinbowling/Aufbaukurs/raw/master/cards.apkg)
